@@ -1,102 +1,1702 @@
 [
-  { "id": 1, "owner": "u1", "english": "How are you doing?", "japanese": "調子はどうですか？" },
-  { "id": 2, "owner": "u1", "english": "It is a sunny day.", "japanese": "今日は晴れています。" },
-  { "id": 3, "owner": "u1", "english": "I like to listen to music.", "japanese": "音楽を聴くのが好きです。" },
-  { "id": 4, "owner": "u1", "english": "Where is the nearest station?", "japanese": "一番近い駅はどこですか？" },
-  { "id": 5, "owner": "u1", "english": "I want to drink some water.", "japanese": "水が飲みたいです。" },
-  { "id": 6, "owner": "u1", "english": "Can you help me please?", "japanese": "助けていただけますか？" },
-  { "id": 7, "owner": "u1", "english": "What time is it now?", "japanese": "今何時ですか？" },
-  { "id": 8, "owner": "u1", "english": "I am looking for my bag.", "japanese": "鞄を探しています。" },
-  { "id": 9, "owner": "u1", "english": "Nice to see you again.", "japanese": "またお会いできて嬉しいです。" },
-  { "id": 10, "owner": "u1", "english": "The food was very delicious.", "japanese": "料理はとても美味しかったです。" },
-  { "id": 11, "owner": "u1", "english": "I have a big family.", "japanese": "私は大家族です。" },
-  { "id": 12, "owner": "u1", "english": "Please open the window.", "japanese": "窓を開けてください。" },
-  { "id": 13, "owner": "u1", "english": "I study English every day.", "japanese": "毎日英語を勉強しています。" },
-  { "id": 14, "owner": "u1", "english": "Do you have any pets?", "japanese": "ペットは飼っていますか？" },
-  { "id": 15, "owner": "u1", "english": "I am tired today.", "japanese": "今日は疲れています。" },
-  { "id": 16, "owner": "u1", "english": "Let's go to the park.", "japanese": "公園に行きましょう。" },
-  { "id": 17, "owner": "u1", "english": "I forgot my umbrella.", "japanese": "傘を忘れました。" },
-  { "id": 18, "owner": "u1", "english": "Wait a minute, please.", "japanese": "ちょっと待ってください。" },
-  { "id": 19, "owner": "u1", "english": "What is your favorite color?", "japanese": "好きな色は何ですか？" },
-  { "id": 20, "owner": "u1", "english": "See you later.", "japanese": "またあとで。" },
-  { "id": 21, "owner": "u2", "english": "I think this is a good idea.", "japanese": "これは良いアイデアだと思います。" },
-  { "id": 22, "owner": "u2", "english": "What do you do in your free time?", "japanese": "暇な時は何をしていますか？" },
-  { "id": 23, "owner": "u2", "english": "I went to the library yesterday.", "japanese": "昨日、図書館に行きました。" },
-  { "id": 24, "owner": "u2", "english": "Have you ever been to Japan?", "japanese": "日本に来たことはありますか？" },
-  { "id": 25, "owner": "u2", "english": "I need to buy some groceries.", "japanese": "食料品を買う必要があります。" },
-  { "id": 26, "owner": "u2", "english": "She is older than me.", "japanese": "彼女は私より年上です。" },
-  { "id": 27, "owner": "u2", "english": "It takes thirty minutes to get there.", "japanese": "そこへ行くのに30分かかります。" },
-  { "id": 28, "owner": "u2", "english": "I am planning to travel next month.", "japanese": "来月、旅行に行く計画を立てています。" },
-  { "id": 29, "owner": "u2", "english": "Could you repeat that more slowly?", "japanese": "もう少しゆっくり繰り返してくれますか？" },
-  { "id": 30, "owner": "u2", "english": "I usually get up at seven.", "japanese": "たいてい7時に起きます。" },
-  { "id": 31, "owner": "u2", "english": "The movie was more interesting than I thought.", "japanese": "映画は思っていたより面白かったです。" },
-  { "id": 32, "owner": "u2", "english": "I am not sure about that.", "japanese": "それについてはよく分かりません。" },
-  { "id": 33, "owner": "u2", "english": "We should work together on this.", "japanese": "これについては協力すべきです。" },
-  { "id": 34, "owner": "u2", "english": "I am interested in learning history.", "japanese": "歴史を学ぶことに興味があります。" },
-  { "id": 35, "owner": "u2", "english": "My dream is to be a doctor.", "japanese": "私の夢は医者になることです。" },
-  { "id": 36, "owner": "u2", "english": "Don't forget to call me.", "japanese": "電話するのを忘れないでね。" },
-  { "id": 37, "owner": "u2", "english": "I have been living here for five years.", "japanese": "ここに5年間住んでいます。" },
-  { "id": 38, "owner": "u2", "english": "Which one do you prefer?", "japanese": "どちらが好みですか？" },
-  { "id": 39, "owner": "u2", "english": "I agree with your opinion.", "japanese": "あなたの意見に賛成です。" },
-  { "id": 40, "owner": "u2", "english": "Let me check my schedule.", "japanese": "予定を確認させてください。" },
-  { "id": 41, "owner": "u3", "english": "I would like to make a reservation for tonight.", "japanese": "今夜の予約をしたいのですが。" },
-  { "id": 42, "owner": "u3", "english": "Could you tell me how to use this machine?", "japanese": "この機械の使い方を教えていただけますか？" },
-  { "id": 43, "owner": "u3", "english": "It is important to keep a healthy lifestyle.", "japanese": "健康的な生活習慣を保つことは重要です。" },
-  { "id": 44, "owner": "u3", "english": "I am looking forward to hearing from you soon.", "japanese": "近いうちにお返事いただけるのを楽しみにしています。" },
-  { "id": 45, "owner": "u3", "english": "The weather forecast says it will rain tomorrow.", "japanese": "天気予報によると明日は雨だそうです。" },
-  { "id": 46, "owner": "u3", "english": "I realized that I had made a mistake.", "japanese": "自分が間違いを犯したことに気づきました。" },
-  { "id": 47, "owner": "u3", "english": "Thank you for your kind cooperation.", "japanese": "親切なご協力に感謝します。" },
-  { "id": 48, "owner": "u3", "english": "I cannot believe that the summer is over.", "japanese": "夏が終わったなんて信じられません。" },
-  { "id": 49, "owner": "u3", "english": "There are several reasons why I chose this.", "japanese": "これを選んだ理由はいくつかあります。" },
-  { "id": 50, "owner": "u3", "english": "I am not used to speaking in front of people.", "japanese": "人前で話すことには慣れていません。" },
-  { "id": 51, "owner": "u3", "english": "Please let me know if you have any questions.", "japanese": "質問があれば教えてください。" },
-  { "id": 52, "owner": "u3", "english": "I managed to finish the report on time.", "japanese": "なんとか時間通りにレポートを終えました。" },
-  { "id": 53, "owner": "u3", "english": "The price of electricity is going up these days.", "japanese": "最近、電気料金が上がっています。" },
-  { "id": 54, "owner": "u3", "english": "I don't think it is going to be easy.", "japanese": "それが簡単だとは思いません。" },
-  { "id": 55, "owner": "u3", "english": "Would you mind if I sat here?", "japanese": "ここに座ってもよろしいでしょうか？" },
-  { "id": 56, "owner": "u3", "english": "This book is too difficult for me to read.", "japanese": "この本は難しすぎて私には読めません。" },
-  { "id": 57, "owner": "u3", "english": "I have to get used to the new environment.", "japanese": "新しい環境に慣れなければなりません。" },
-  { "id": 58, "owner": "u3", "english": "Everything will be fine in the end.", "japanese": "最後にはすべて上手くいきますよ。" },
-  { "id": 59, "owner": "u3", "english": "I am happy to be a part of this project.", "japanese": "このプロジェクトの一員になれて嬉しいです。" },
-  { "id": 60, "owner": "u3", "english": "We need to find a way to solve this problem.", "japanese": "この問題を解決する方法を見つける必要があります。" },
-  { "id": 61, "owner": "u4", "english": "The government should take immediate action on this issue.", "japanese": "政府はこの問題に対して即座に行動を起こすべきです。" },
-  { "id": 62, "owner": "u4", "english": "It is widely believed that technology changes our lives.", "japanese": "テクノロジーは私たちの生活を変えると広く信じられています。" },
-  { "id": 63, "owner": "u4", "english": "Despite the heavy rain, the event was a great success.", "japanese": "大雨にもかかわらず、イベントは大成功でした。" },
-  { "id": 64, "owner": "u4", "english": "I would appreciate it if you could give me some advice.", "japanese": "アドバイスをいただければ幸いです。" },
-  { "id": 65, "owner": "u4", "english": "We need to consider the long term effects of this decision.", "japanese": "私たちはこの決定の長期的な影響を考慮する必要があります。" },
-  { "id": 66, "owner": "u4", "english": "The more you practice, the better you will become.", "japanese": "練習すればするほど、上手になります。" },
-  { "id": 67, "owner": "u4", "english": "Could you please explain the reason for the delay?", "japanese": "遅延の理由を説明していただけますか？" },
-  { "id": 68, "owner": "u4", "english": "It is essential to communicate effectively with others.", "japanese": "他者と効果的にコミュニケーションをとることは不可欠です。" },
-  { "id": 69, "owner": "u4", "english": "I have been wondering how I can improve my skills.", "japanese": "どうすれば自分のスキルを向上させられるかずっと考えています。" },
-  { "id": 70, "owner": "u4", "english": "There is no doubt that English is a global language.", "japanese": "英語が世界共通語であることに疑いの余地はありません。" },
-  { "id": 71, "owner": "u4", "english": "We must find a balance between work and private life.", "japanese": "仕事とプライベートのバランスを見つけなければなりません。" },
-  { "id": 72, "owner": "u4", "english": "The results of the study were different from our expectations.", "japanese": "研究の結果は私たちの予想とは異なるものでした。" },
-  { "id": 73, "owner": "u4", "english": "In order to succeed, you need to work hard and stay focused.", "japanese": "成功するためには、努力し、集中し続ける必要があります。" },
-  { "id": 74, "owner": "u4", "english": "I am convinced that we can achieve our goals together.", "japanese": "私たちは一緒に目標を達成できると確信しています。" },
-  { "id": 75, "owner": "u4", "english": "Artificial intelligence is expected to play a major role.", "japanese": "人工知能は大きな役割を果たすことが期待されています。" },
-  { "id": 76, "owner": "u4", "english": "What would you do if you were in my position?", "japanese": "もしあなたが私の立場ならどうしますか？" },
-  { "id": 77, "owner": "u4", "english": "He is not only a great teacher but also a talented artist.", "japanese": "彼は素晴らしい教師であるだけでなく、才能ある芸術家でもあります。" },
-  { "id": 78, "owner": "u4", "english": "I hope this information will be useful for your research.", "japanese": "この情報があなたの研究に役立つことを願っています。" },
-  { "id": 79, "owner": "u4", "english": "Environmental protection is one of the most urgent tasks.", "japanese": "環境保護は最も緊急の課題の一つです。" },
-  { "id": 80, "owner": "u4", "english": "Experience is the best teacher when it comes to learning.", "japanese": "学習において、経験は最良の教師です。" },
-  { "id": 81, "owner": "u5", "english": "I am a student at this school.", "japanese": "私はこの学校の生徒です。" },
-  { "id": 82, "owner": "u5", "english": "You speak English very well.", "japanese": "あなたはとても上手に英語を話します。" },
-  { "id": 83, "owner": "u5", "english": "He is my best friend.", "japanese": "彼は私の親友です。" },
-  { "id": 84, "owner": "u5", "english": "This is not my umbrella.", "japanese": "これは私の傘ではありません。" },
-  { "id": 85, "owner": "u5", "english": "Do you play tennis after school?", "japanese": "放課後テニスをしますか？" },
-  { "id": 86, "owner": "u5", "english": "I have two sisters and one brother.", "japanese": "私には2人の姉妹と1人の兄弟がいます。" },
-  { "id": 87, "owner": "u5", "english": "What is in your bag?", "japanese": "あなたの鞄の中に何が入っていますか？" },
-  { "id": 88, "owner": "u5", "english": "Who is that tall man?", "japanese": "あの背の高い男の人は誰ですか？" },
-  { "id": 89, "owner": "u5", "english": "I can swim very fast.", "japanese": "私はとても速く泳げます。" },
-  { "id": 90, "owner": "u5", "english": "Can you hear my voice?", "japanese": "私の声が聞こえますか？" },
-  { "id": 91, "owner": "u5", "english": "Where do you live now?", "japanese": "あなたは今どこに住んでいますか？" },
-  { "id": 92, "owner": "u5", "english": "I like blue better than red.", "japanese": "私は赤より青が好きです。" },
-  { "id": 93, "owner": "u5", "english": "Does she play the piano every day?", "japanese": "彼女は毎日ピアノを弾きますか？" },
-  { "id": 94, "owner": "u5", "english": "He does not like milk at all.", "japanese": "彼は牛乳が全く好きではありません。" },
-  { "id": 95, "owner": "u5", "english": "We are in the classroom now.", "japanese": "私たちは今教室にいます。" },
-  { "id": 96, "owner": "u5", "english": "Please sit down on this chair.", "japanese": "この椅子に座ってください。" },
-  { "id": 97, "owner": "u5", "english": "Don't run in the hallway.", "japanese": "廊下を走ってはいけません。" },
-  { "id": 98, "owner": "u5", "english": "I am reading a funny book.", "japanese": "私は面白い本を読んでいます。" },
-  { "id": 99, "owner": "u5", "english": "Are you busy this afternoon?", "japanese": "今日の午後は忙しいですか？" },
-  { "id": 100, "owner": "u5", "english": "How do you go to school?", "japanese": "どうやって学校に行きますか？" }
+  {
+    "id": 1,
+    "owner": "u1",
+    "english": "How are you doing?",
+    "translations": {
+      "en": "How are you doing?",
+      "ja": "調子はどうですか？",
+      "es": "¿Cómo estás?",
+      "fr": "Comment ça va ?",
+      "de": "Wie geht es dir?",
+      "it": "Come stai?",
+      "ko": "어떻게 지내요?",
+      "zh-Hans": "最近怎么样？",
+      "zh-Hant": "最近怎麼樣？",
+      "pt-BR": "Como você está?"
+    }
+  },
+  {
+    "id": 2,
+    "owner": "u1",
+    "english": "It is a sunny day.",
+    "translations": {
+      "en": "It is a sunny day.",
+      "ja": "今日は晴れています。",
+      "es": "Es un día soleado.",
+      "fr": "C'est une journée ensoleillée.",
+      "de": "Es ist ein sonniger Tag.",
+      "it": "È una giornata di sole.",
+      "ko": "화창한 날이에요.",
+      "zh-Hans": "今天是晴天。",
+      "zh-Hant": "今天是晴天。",
+      "pt-BR": "É um dia ensolarado."
+    }
+  },
+  {
+    "id": 3,
+    "owner": "u1",
+    "english": "I like to listen to music.",
+    "translations": {
+      "en": "I like to listen to music.",
+      "ja": "音楽を聴くのが好きです。",
+      "es": "Me gusta escuchar música.",
+      "fr": "J'aime écouter de la musique.",
+      "de": "Ich höre gerne Musik.",
+      "it": "Mi piace ascoltare musica.",
+      "ko": "음악 듣는 것을 좋아해요.",
+      "zh-Hans": "我喜欢听音乐。",
+      "zh-Hant": "我喜歡聽音樂。",
+      "pt-BR": "Gosto de ouvir música."
+    }
+  },
+  {
+    "id": 4,
+    "owner": "u1",
+    "english": "Where is the nearest station?",
+    "translations": {
+      "en": "Where is the nearest station?",
+      "ja": "一番近い駅はどこですか？",
+      "es": "¿Dónde está la estación más cercana?",
+      "fr": "Où est la gare la plus proche ?",
+      "de": "Wo ist der nächste Bahnhof?",
+      "it": "Dov'è la stazione più vicina?",
+      "ko": "가장 가까운 역이 어디예요?",
+      "zh-Hans": "最近的车站在哪里？",
+      "zh-Hant": "最近的車站在哪裡？",
+      "pt-BR": "Onde fica a estação mais próxima?"
+    }
+  },
+  {
+    "id": 5,
+    "owner": "u1",
+    "english": "I want to drink some water.",
+    "translations": {
+      "en": "I want to drink some water.",
+      "ja": "水が飲みたいです。",
+      "es": "Quiero beber un poco de agua.",
+      "fr": "Je veux boire de l'eau.",
+      "de": "Ich möchte etwas Wasser trinken.",
+      "it": "Voglio bere un po' d'acqua.",
+      "ko": "물을 좀 마시고 싶어요.",
+      "zh-Hans": "我想喝点水。",
+      "zh-Hant": "我想喝點水。",
+      "pt-BR": "Quero beber um pouco de água."
+    }
+  },
+  {
+    "id": 6,
+    "owner": "u1",
+    "english": "Can you help me please?",
+    "translations": {
+      "en": "Can you help me please?",
+      "ja": "助けていただけますか？",
+      "es": "¿Me puedes ayudar, por favor?",
+      "fr": "Pouvez-vous m'aider s'il vous plaît ?",
+      "de": "Können Sie mir bitte helfen?",
+      "it": "Puoi aiutarmi, per favore?",
+      "ko": "좀 도와주시겠어요?",
+      "zh-Hans": "你能帮帮我吗？",
+      "zh-Hant": "你能幫幫我嗎？",
+      "pt-BR": "Você pode me ajudar, por favor?"
+    }
+  },
+  {
+    "id": 7,
+    "owner": "u1",
+    "english": "What time is it now?",
+    "translations": {
+      "en": "What time is it now?",
+      "ja": "今何時ですか？",
+      "es": "¿Qué hora es ahora?",
+      "fr": "Quelle heure est-il maintenant ?",
+      "de": "Wie spät ist es jetzt?",
+      "it": "Che ore sono adesso?",
+      "ko": "지금 몇 시예요?",
+      "zh-Hans": "现在几点？",
+      "zh-Hant": "現在幾點？",
+      "pt-BR": "Que horas são agora?"
+    }
+  },
+  {
+    "id": 8,
+    "owner": "u1",
+    "english": "I am looking for my bag.",
+    "translations": {
+      "en": "I am looking for my bag.",
+      "ja": "鞄を探しています。",
+      "es": "Estoy buscando mi bolso.",
+      "fr": "Je cherche mon sac.",
+      "de": "Ich suche meine Tasche.",
+      "it": "Sto cercando la mia borsa.",
+      "ko": "제 가방을 찾고 있어요.",
+      "zh-Hans": "我在找我的包。",
+      "zh-Hant": "我在找我的包。",
+      "pt-BR": "Estou procurando minha bolsa."
+    }
+  },
+  {
+    "id": 9,
+    "owner": "u1",
+    "english": "Nice to see you again.",
+    "translations": {
+      "en": "Nice to see you again.",
+      "ja": "またお会いできて嬉しいです。",
+      "es": "Encantado de verte de nuevo.",
+      "fr": "Ravi de vous revoir.",
+      "de": "Schön, dich wiederzusehen.",
+      "it": "Piacere di rivederti.",
+      "ko": "다시 만나서 반가워요.",
+      "zh-Hans": "很高兴再次见到你。",
+      "zh-Hant": "很高興再次見到你。",
+      "pt-BR": "Bom te ver de novo."
+    }
+  },
+  {
+    "id": 10,
+    "owner": "u1",
+    "english": "The food was very delicious.",
+    "translations": {
+      "en": "The food was very delicious.",
+      "ja": "料理はとても美味しかったです。",
+      "es": "La comida estaba muy deliciosa.",
+      "fr": "La nourriture était très délicieuse.",
+      "de": "Das Essen war sehr lecker.",
+      "it": "Il cibo era molto delizioso.",
+      "ko": "음식이 정말 맛있었어요.",
+      "zh-Hans": "食物非常美味。",
+      "zh-Hant": "食物非常美味。",
+      "pt-BR": "A comida estava muito deliciosa."
+    }
+  },
+  {
+    "id": 11,
+    "owner": "u1",
+    "english": "I have a big family.",
+    "translations": {
+      "en": "I have a big family.",
+      "ja": "私は大家族です。",
+      "es": "Tengo una familia grande.",
+      "fr": "J'ai une grande famille.",
+      "de": "Ich habe eine große Familie.",
+      "it": "Ho una famiglia numerosa.",
+      "ko": "저는 대가족이에요.",
+      "zh-Hans": "我有一个大家庭。",
+      "zh-Hant": "我有一個大家庭。",
+      "pt-BR": "Eu tenho uma família grande."
+    }
+  },
+  {
+    "id": 12,
+    "owner": "u1",
+    "english": "Please open the window.",
+    "translations": {
+      "en": "Please open the window.",
+      "ja": "窓を開けてください。",
+      "es": "Por favor, abre la ventana.",
+      "fr": "S'il vous plaît, ouvrez la fenêtre.",
+      "de": "Bitte öffnen Sie das Fenster.",
+      "it": "Per favore, apri la finestra.",
+      "ko": "창문을 열어 주세요.",
+      "zh-Hans": "请开窗。",
+      "zh-Hant": "請開窗。",
+      "pt-BR": "Por favor, abra a janela."
+    }
+  },
+  {
+    "id": 13,
+    "owner": "u1",
+    "english": "I study English every day.",
+    "translations": {
+      "en": "I study English every day.",
+      "ja": "毎日英語を勉強しています。",
+      "es": "Estudio inglés todos los días.",
+      "fr": "J'étudie l'anglais tous les jours.",
+      "de": "Ich lerne jeden Tag Englisch.",
+      "it": "Studio inglese ogni giorno.",
+      "ko": "저는 매일 영어를 공부해요.",
+      "zh-Hans": "我每天学习英语。",
+      "zh-Hant": "我每天學習英語。",
+      "pt-BR": "Eu estudo inglês todos os dias."
+    }
+  },
+  {
+    "id": 14,
+    "owner": "u1",
+    "english": "Do you have any pets?",
+    "translations": {
+      "en": "Do you have any pets?",
+      "ja": "ペットは飼っていますか？",
+      "es": "¿Tienes alguna mascota?",
+      "fr": "As-tu des animaux domestiques ?",
+      "de": "Hast du Haustiere?",
+      "it": "Hai degli animali domestici?",
+      "ko": "반려동물이 있나요?",
+      "zh-Hans": "你有宠物吗？",
+      "zh-Hant": "你有寵物嗎？",
+      "pt-BR": "Você tem algum animal de estimação?"
+    }
+  },
+  {
+    "id": 15,
+    "owner": "u1",
+    "english": "I am tired today.",
+    "translations": {
+      "en": "I am tired today.",
+      "ja": "今日は疲れています。",
+      "es": "Hoy estoy cansado.",
+      "fr": "Je suis fatigué aujourd'hui.",
+      "de": "Ich bin heute müde.",
+      "it": "Sono stanco oggi.",
+      "ko": "오늘 피곤해요.",
+      "zh-Hans": "今天我很累。",
+      "zh-Hant": "今天我很累。",
+      "pt-BR": "Estou cansado hoje."
+    }
+  },
+  {
+    "id": 16,
+    "owner": "u1",
+    "english": "Let's go to the park.",
+    "translations": {
+      "en": "Let's go to the park.",
+      "ja": "公園に行きましょう。",
+      "es": "Vamos al parque.",
+      "fr": "Allons au parc.",
+      "de": "Lass uns in den Park gehen.",
+      "it": "Andiamo al parco.",
+      "ko": "공원에 가요.",
+      "zh-Hans": "我们去公园吧。",
+      "zh-Hant": "我們去公園吧。",
+      "pt-BR": "Vamos ao parque."
+    }
+  },
+  {
+    "id": 17,
+    "owner": "u1",
+    "english": "I forgot my umbrella.",
+    "translations": {
+      "en": "I forgot my umbrella.",
+      "ja": "傘を忘れました。",
+      "es": "Olvidé mi paraguas.",
+      "fr": "J'ai oublié mon parapluie.",
+      "de": "Ich habe meinen Regenschirm vergessen.",
+      "it": "Ho dimenticato l'ombrello.",
+      "ko": "우산을 잊어버렸어요.",
+      "zh-Hans": "我忘了带伞。",
+      "zh-Hant": "我忘了帶傘。",
+      "pt-BR": "Esqueci meu guarda-chuva."
+    }
+  },
+  {
+    "id": 18,
+    "owner": "u1",
+    "english": "Wait a minute, please.",
+    "translations": {
+      "en": "Wait a minute, please.",
+      "ja": "ちょっと待ってください。",
+      "es": "Espera un minuto, por favor.",
+      "fr": "Attendez une minute, s'il vous plaît.",
+      "de": "Warten Sie bitte eine Minute.",
+      "it": "Aspetta un minuto, per favore.",
+      "ko": "잠시만 기다려 주세요.",
+      "zh-Hans": "请稍等一下。",
+      "zh-Hant": "請稍等一下。",
+      "pt-BR": "Espere um minuto, por favor."
+    }
+  },
+  {
+    "id": 19,
+    "owner": "u1",
+    "english": "What is your favorite color?",
+    "translations": {
+      "en": "What is your favorite color?",
+      "ja": "好きな色は何ですか？",
+      "es": "¿Cuál es tu color favorito?",
+      "fr": "Quelle est ta couleur préférée ?",
+      "de": "Was ist deine Lieblingsfarbe?",
+      "it": "Qual è il tuo colore preferito?",
+      "ko": "가장 좋아하는 색깔이 뭐예요?",
+      "zh-Hans": "你最喜欢什么颜色？",
+      "zh-Hant": "你最喜歡什麼顏色？",
+      "pt-BR": "Qual é a sua cor favorita?"
+    }
+  },
+  {
+    "id": 20,
+    "owner": "u1",
+    "english": "See you later.",
+    "translations": {
+      "en": "See you later.",
+      "ja": "またあとで。",
+      "es": "Hasta luego.",
+      "fr": "À plus tard.",
+      "de": "Bis später.",
+      "it": "A dopo.",
+      "ko": "나중에 봐요.",
+      "zh-Hans": "回头见。",
+      "zh-Hant": "回頭見。",
+      "pt-BR": "Até logo."
+    }
+  },
+  {
+    "id": 21,
+    "owner": "u2",
+    "english": "I think this is a good idea.",
+    "translations": {
+      "en": "I think this is a good idea.",
+      "ja": "これは良いアイデアだと思います。",
+      "es": "Creo que es una buena idea.",
+      "fr": "Je pense que c'est une bonne idée.",
+      "de": "Ich denke, das ist eine gute Idee.",
+      "it": "Penso che sia una buona idea.",
+      "ko": "이건 좋은 생각인 것 같아요.",
+      "zh-Hans": "我觉得这是个好主意。",
+      "zh-Hant": "我覺得這是個好主意。",
+      "pt-BR": "Acho que esta é uma boa ideia."
+    }
+  },
+  {
+    "id": 22,
+    "owner": "u2",
+    "english": "What do you do in your free time?",
+    "translations": {
+      "en": "What do you do in your free time?",
+      "ja": "暇な時は何をしていますか？",
+      "es": "¿Qué haces en tu tiempo libre?",
+      "fr": "Que fais-tu pendant ton temps libre ?",
+      "de": "Was machst du in deiner Freizeit?",
+      "it": "Cosa fai nel tempo libero?",
+      "ko": "여가 시간에 무엇을 하나요?",
+      "zh-Hans": "你在空闲时间做什么？",
+      "zh-Hant": "你在空閒時間做什麼？",
+      "pt-BR": "O que você faz no seu tempo livre?"
+    }
+  },
+  {
+    "id": 23,
+    "owner": "u2",
+    "english": "I went to the library yesterday.",
+    "translations": {
+      "en": "I went to the library yesterday.",
+      "ja": "昨日、図書館に行きました。",
+      "es": "Ayer fui a la biblioteca.",
+      "fr": "Je suis allé à la bibliothèque hier.",
+      "de": "Ich war gestern in der Bibliothek.",
+      "it": "Ieri sono andato in biblioteca.",
+      "ko": "어제 도서관에 갔어요.",
+      "zh-Hans": "我昨天去了图书馆。",
+      "zh-Hant": "我昨天去了圖書館。",
+      "pt-BR": "Fui à biblioteca ontem."
+    }
+  },
+  {
+    "id": 24,
+    "owner": "u2",
+    "english": "Have you ever been to Japan?",
+    "translations": {
+      "en": "Have you ever been to Japan?",
+      "ja": "日本に来たことはありますか？",
+      "es": "¿Has estado alguna vez en Japón?",
+      "fr": "Es-tu déjà allé au Japon ?",
+      "de": "Warst du schon einmal in Japan?",
+      "it": "Sei mai stato in Giappone?",
+      "ko": "일본에 가본 적이 있나요?",
+      "zh-Hans": "你去过日本吗？",
+      "zh-Hant": "你去過日本嗎？",
+      "pt-BR": "Você já esteve no Japão?"
+    }
+  },
+  {
+    "id": 25,
+    "owner": "u2",
+    "english": "I need to buy some groceries.",
+    "translations": {
+      "en": "I need to buy some groceries.",
+      "ja": "食料品を買う必要があります。",
+      "es": "Necesito comprar algunos comestibles.",
+      "fr": "Je dois acheter des courses.",
+      "de": "Ich muss Lebensmittel kaufen.",
+      "it": "Devo comprare della spesa.",
+      "ko": "식료품을 좀 사야 해요.",
+      "zh-Hans": "我需要买点菜。",
+      "zh-Hant": "我需要買點菜。",
+      "pt-BR": "Preciso comprar alguns mantimentos."
+    }
+  },
+  {
+    "id": 26,
+    "owner": "u2",
+    "english": "She is older than me.",
+    "translations": {
+      "en": "She is older than me.",
+      "ja": "彼女は私より年上です。",
+      "es": "Ella es mayor que yo.",
+      "fr": "Elle est plus âgée que moi.",
+      "de": "Sie ist älter als ich.",
+      "it": "Lei è più grande di me.",
+      "ko": "그녀는 저보다 나이가 많아요.",
+      "zh-Hans": "她比我大。",
+      "zh-Hant": "她比我大。",
+      "pt-BR": "Ela é mais velha que eu."
+    }
+  },
+  {
+    "id": 27,
+    "owner": "u2",
+    "english": "It takes thirty minutes to get there.",
+    "translations": {
+      "en": "It takes thirty minutes to get there.",
+      "ja": "そこへ行くのに30分かかります。",
+      "es": "Se tarda treinta minutos en llegar allí.",
+      "fr": "Il faut trente minutes pour y aller.",
+      "de": "Dorthin braucht man dreißig Minuten.",
+      "it": "Ci vogliono trenta minuti per arrivarci.",
+      "ko": "거기까지 30분 걸려요.",
+      "zh-Hans": "到那里需要三十分钟。",
+      "zh-Hant": "到那裡需要三十分鐘。",
+      "pt-BR": "Leva trinta minutos para chegar lá."
+    }
+  },
+  {
+    "id": 28,
+    "owner": "u2",
+    "english": "I am planning to travel next month.",
+    "translations": {
+      "en": "I am planning to travel next month.",
+      "ja": "来月、旅行に行く計画を立てています。",
+      "es": "Estoy planeando viajar el próximo mes.",
+      "fr": "Je prévois de voyager le mois prochain.",
+      "de": "Ich plane, nächsten Monat zu verreisen.",
+      "it": "Ho intenzione di viaggiare il prossimo mese.",
+      "ko": "다음 달에 여행을 갈 계획이에요.",
+      "zh-Hans": "我打算下个月去旅行。",
+      "zh-Hant": "我打算下個月去旅行。",
+      "pt-BR": "Estou planejando viajar no próximo mês."
+    }
+  },
+  {
+    "id": 29,
+    "owner": "u2",
+    "english": "Could you repeat that more slowly?",
+    "translations": {
+      "en": "Could you repeat that more slowly?",
+      "ja": "もう少しゆっくり繰り返してくれますか？",
+      "es": "¿Podrías repetir eso más despacio?",
+      "fr": "Pourriez-vous répéter plus lentement ?",
+      "de": "Könnten Sie das langsamer wiederholen?",
+      "it": "Potresti ripetere più lentamente?",
+      "ko": "좀 더 천천히 말해주실 수 있나요?",
+      "zh-Hans": "你能再说慢一点吗？",
+      "zh-Hant": "你能再說慢一點嗎？",
+      "pt-BR": "Você poderia repetir mais devagar?"
+    }
+  },
+  {
+    "id": 30,
+    "owner": "u2",
+    "english": "I usually get up at seven.",
+    "translations": {
+      "en": "I usually get up at seven.",
+      "ja": "たいてい7時に起きます。",
+      "es": "Normalmente me levanto a las siete.",
+      "fr": "D'habitude, je me lève à sept heures.",
+      "de": "Normalerweise stehe ich um sieben Uhr auf.",
+      "it": "Di solito mi sveglio alle sette.",
+      "ko": "저는 보통 7시에 일어나요.",
+      "zh-Hans": "我通常七点起床。",
+      "zh-Hant": "我通常七點起床。",
+      "pt-BR": "Costumo me levantar às sete."
+    }
+  },
+  {
+    "id": 31,
+    "owner": "u2",
+    "english": "The movie was more interesting than I thought.",
+    "translations": {
+      "en": "The movie was more interesting than I thought.",
+      "ja": "映画は思っていたより面白かったです。",
+      "es": "La película fue más interesante de lo que pensaba.",
+      "fr": "Le film était plus intéressant que je ne le pensais.",
+      "de": "Der Film war interessanter als ich dachte.",
+      "it": "Il film è stato più interessante di quanto pensassi.",
+      "ko": "영화가 생각보다 더 재미있었어요.",
+      "zh-Hans": "这部电影比我想象的更有趣。",
+      "zh-Hant": "這部電影比我想象的更有趣。",
+      "pt-BR": "O filme foi mais interessante do que eu pensava."
+    }
+  },
+  {
+    "id": 32,
+    "owner": "u2",
+    "english": "I am not sure about that.",
+    "translations": {
+      "en": "I am not sure about that.",
+      "ja": "それについてはよく分かりません。",
+      "es": "No estoy seguro de eso.",
+      "fr": "Je n'en suis pas sûr.",
+      "de": "Da bin ich mir nicht sicher.",
+      "it": "Non ne sono sicuro.",
+      "ko": "그건 잘 모르겠어요.",
+      "zh-Hans": "我不确定。",
+      "zh-Hant": "我不確定。",
+      "pt-BR": "Não tenho certeza disso."
+    }
+  },
+  {
+    "id": 33,
+    "owner": "u2",
+    "english": "We should work together on this.",
+    "translations": {
+      "en": "We should work together on this.",
+      "ja": "これについては協力すべきです。",
+      "es": "Deberíamos trabajar juntos en esto.",
+      "fr": "Nous devrions travailler ensemble sur ce projet.",
+      "de": "Wir sollten hierbei zusammenarbeiten.",
+      "it": "Dovremmo lavorare insieme su questo.",
+      "ko": "이 일에 함께 협력해야 해요.",
+      "zh-Hans": "我们应该在这件事上合作。",
+      "zh-Hant": "我們應該在這件事上合作。",
+      "pt-BR": "Deveríamos trabalhar juntos nisso."
+    }
+  },
+  {
+    "id": 34,
+    "owner": "u2",
+    "english": "I am interested in learning history.",
+    "translations": {
+      "en": "I am interested in learning history.",
+      "ja": "歴史を学ぶことに興味があります。",
+      "es": "Estoy interesado en aprender historia.",
+      "fr": "Je suis intéressé par l'apprentissage de l'histoire.",
+      "de": "Ich interessiere mich für Geschichte.",
+      "it": "Mi interessa imparare la storia.",
+      "ko": "역사를 배우는 것에 관심이 있어요.",
+      "zh-Hans": "我对学习历史感兴趣。",
+      "zh-Hant": "我對學習歷史感興趣。",
+      "pt-BR": "Estou interessado em aprender historia."
+    }
+  },
+  {
+    "id": 35,
+    "owner": "u2",
+    "english": "My dream is to be a doctor.",
+    "translations": {
+      "en": "My dream is to be a doctor.",
+      "ja": "私の夢は医者になることです。",
+      "es": "Mi sueño es ser médico.",
+      "fr": "Mon rêve est de devenir médecin.",
+      "de": "Mein Traum ist es, Arzt zu werden.",
+      "it": "Il mio sogno è diventare un medico.",
+      "ko": "제 꿈은 의사가 되는 거예요.",
+      "zh-Hans": "我的梦想是当一名医生。",
+      "zh-Hant": "我的夢想是當一名醫生。",
+      "pt-BR": "Meu sonho é ser médico."
+    }
+  },
+  {
+    "id": 36,
+    "owner": "u2",
+    "english": "Don't forget to call me.",
+    "translations": {
+      "en": "Don't forget to call me.",
+      "ja": "電話するのを忘れないでね。",
+      "es": "No olvides llamarme.",
+      "fr": "N'oublie pas de m'appeler.",
+      "de": "Vergiss nicht, mich anzurufen.",
+      "it": "Non dimenticare di chiamarmi.",
+      "ko": "저에게 전화하는 것 잊지 마세요.",
+      "zh-Hans": "别忘了给我打电话。",
+      "zh-Hant": "別忘了給我打電話。",
+      "pt-BR": "Não se esqueça de me ligar."
+    }
+  },
+  {
+    "id": 37,
+    "owner": "u2",
+    "english": "I have been living here for five years.",
+    "translations": {
+      "en": "I have been living here for five years.",
+      "ja": "ここに5年間住んでいます。",
+      "es": "He estado viviendo aquí por cinco años.",
+      "fr": "J'habite ici depuis cinq ans.",
+      "de": "Ich lebe seit fünf Jahren hier.",
+      "it": "Vivo qui da cinque anni.",
+      "ko": "여기서 5년째 살고 있어요.",
+      "zh-Hans": "我住在这里五年了。",
+      "zh-Hant": "我住在這裡五年了。",
+      "pt-BR": "Moro aqui há cinco anos."
+    }
+  },
+  {
+    "id": 38,
+    "owner": "u2",
+    "english": "Which one do you prefer?",
+    "translations": {
+      "en": "Which one do you prefer?",
+      "ja": "どちらが好みですか？",
+      "es": "¿Cuál prefieres?",
+      "fr": "Lequel préfères-tu ?",
+      "de": "Welches bevorzugst du?",
+      "it": "Quale preferisci?",
+      "ko": "어느 쪽을 더 좋아하시나요?",
+      "zh-Hans": "你更喜欢哪一个？",
+      "zh-Hant": "你更喜歡哪一個？",
+      "pt-BR": "Qual você prefere?"
+    }
+  },
+  {
+    "id": 39,
+    "owner": "u2",
+    "english": "I agree with your opinion.",
+    "translations": {
+      "en": "I agree with your opinion.",
+      "ja": "あなたの意見に賛成です。",
+      "es": "Estoy de acuerdo con tu opinión.",
+      "fr": "Je suis d'accord avec votre opinion.",
+      "de": "Ich stimme deiner Meinung zu.",
+      "it": "Sono d'accordo con la tua opinione.",
+      "ko": "당신의 의견에 동의해요.",
+      "zh-Hans": "我同意你的看法。",
+      "zh-Hant": "我同意你的看法。",
+      "pt-BR": "Concordo com a sua opinião."
+    }
+  },
+  {
+    "id": 40,
+    "owner": "u2",
+    "english": "Let me check my schedule.",
+    "translations": {
+      "en": "Let me check my schedule.",
+      "ja": "予定を確認させてください。",
+      "es": "Déjame revisar mi agenda.",
+      "fr": "Laisse-moi vérifier mon emploi du temps.",
+      "de": "Lass mich meinen Terminplan prüfen.",
+      "it": "Fammi controllare il mio programma.",
+      "ko": "일정 좀 확인해 볼게요.",
+      "zh-Hans": "我看一下我的日程。",
+      "zh-Hant": "我看一下我的行程。",
+      "pt-BR": "Deixe-me verificar minha agenda."
+    }
+  },
+  {
+    "id": 41,
+    "owner": "u3",
+    "english": "I would like to make a reservation for tonight.",
+    "translations": {
+      "en": "I would like to make a reservation for tonight.",
+      "ja": "今夜の予約をしたいのですが。",
+      "es": "Me gustaría hacer una reserva para esta noche.",
+      "fr": "J'aimerais faire une réservation pour ce soir.",
+      "de": "Ich möchte für heute Abend reservieren.",
+      "it": "Vorrei fare una prenotazione per stasera.",
+      "ko": "오늘 밤 예약하고 싶어요.",
+      "zh-Hans": "我想预订今晚。",
+      "zh-Hant": "我想預訂今晚。",
+      "pt-BR": "Gostaria de fazer uma reserva para esta noite."
+    }
+  },
+  {
+    "id": 42,
+    "owner": "u3",
+    "english": "Could you tell me how to use this machine?",
+    "translations": {
+      "en": "Could you tell me how to use this machine?",
+      "ja": "この機械の使い方を教えていただけますか？",
+      "es": "¿Podría explicarme cómo usar esta máquina?",
+      "fr": "Pourriez-vous me dire comment utiliser cette machine ?",
+      "de": "Könnten Sie mir sagen, wie man diese Maschine benutzt?",
+      "it": "Potresti dirmi come usare questa macchina?",
+      "ko": "이 기계 사용법을 가르쳐 주시겠어요?",
+      "zh-Hans": "你能告诉我怎么用这台机器吗？",
+      "zh-Hant": "你能告訴我怎麼用這台機器嗎？",
+      "pt-BR": "Você poderia me dizer como usar esta máquina?"
+    }
+  },
+  {
+    "id": 43,
+    "owner": "u3",
+    "english": "It is important to keep a healthy lifestyle.",
+    "translations": {
+      "en": "It is important to keep a healthy lifestyle.",
+      "ja": "健康的な生活習慣を保つことは重要です。",
+      "es": "Es importante mantener un estilo de vida saludable.",
+      "fr": "Il est important de garder un mode de vie sain.",
+      "de": "Es ist wichtig, einen gesunden Lebensstil beizubehalten.",
+      "it": "È importante mantenere uno stile di vita sano.",
+      "ko": "건강한 생활 방식을 유지하는 것은 중요해요.",
+      "zh-Hans": "保持健康的生活方式很重要。",
+      "zh-Hant": "保持健康的生活方式很重要。",
+      "pt-BR": "É importante manter um estilo de vida saudável."
+    }
+  },
+  {
+    "id": 44,
+    "owner": "u3",
+    "english": "I am looking forward to hearing from you soon.",
+    "translations": {
+      "en": "I am looking forward to hearing from you soon.",
+      "ja": "近いうちにお返事いただけるのを楽しみにしています。",
+      "es": "Espero tener noticias suyas pronto.",
+      "fr": "J'ai hâte d'avoir de vos nouvelles bientôt.",
+      "de": "Ich freue mich darauf, bald von Ihnen zu hören.",
+      "it": "Non vedo l'ora di risentirti presto.",
+      "ko": "조만간 소식을 들을 수 있기를 기대해요.",
+      "zh-Hans": "我期待很快收到你的回信。",
+      "zh-Hant": "我期待很快收到你的回信。",
+      "pt-BR": "Estou ansioso para ouvir de você em breve."
+    }
+  },
+  {
+    "id": 45,
+    "owner": "u3",
+    "english": "The weather forecast says it will rain tomorrow.",
+    "translations": {
+      "en": "The weather forecast says it will rain tomorrow.",
+      "ja": "天気予報によると明日は雨だそうです。",
+      "es": "El pronóstico del tiempo dice que lloverá mañana.",
+      "fr": "Les prévisions météo disent qu'il pleuvra demain.",
+      "de": "Der Wetterbericht sagt, dass es morgen regnen wird.",
+      "it": "Le previsioni del tempo dicono che domani pioverà.",
+      "ko": "일기 예보에 따르면 내일 비가 온대요.",
+      "zh-Hans": "天气预报说明天有雨。",
+      "zh-Hant": "天氣預報說明天有雨。",
+      "pt-BR": "A previsão do tempo diz que vai chover amanhã."
+    }
+  },
+  {
+    "id": 46,
+    "owner": "u3",
+    "english": "I realized that I had made a mistake.",
+    "translations": {
+      "en": "I realized that I had made a mistake.",
+      "ja": "自分が間違いを犯したことに気づきました。",
+      "es": "Me di cuenta de que había cometido un error.",
+      "fr": "J'ai réalisé que j'avais fait une erreur.",
+      "de": "Mir wurde klar, dass ich einen Fehler gemacht hatte.",
+      "it": "Mi sono reso conto di aver fatto un errore.",
+      "ko": "제가 실수했다는 것을 깨달았어요.",
+      "zh-Hans": "我意识到我犯了一个错误。",
+      "zh-Hant": "我意識到我犯了一個錯誤。",
+      "pt-BR": "Percebi que tinha cometido um erro."
+    }
+  },
+  {
+    "id": 47,
+    "owner": "u3",
+    "english": "Thank you for your kind cooperation.",
+    "translations": {
+      "en": "Thank you for your kind cooperation.",
+      "ja": "親切なご協力に感謝します。",
+      "es": "Gracias por su amable cooperación.",
+      "fr": "Merci pour votre aimable coopération.",
+      "de": "Vielen Dank für Ihre freundliche Zusammenarbeit.",
+      "it": "Grazie per la tua gentile collaborazione.",
+      "ko": "친절한 협조에 감사드립니다.",
+      "zh-Hans": "谢谢你的友好配合。",
+      "zh-Hant": "謝謝你的友好配合。",
+      "pt-BR": "Obrigado por sua gentil cooperação."
+    }
+  },
+  {
+    "id": 48,
+    "owner": "u3",
+    "english": "I cannot believe that the summer is over.",
+    "translations": {
+      "en": "I cannot believe that the summer is over.",
+      "ja": "夏が終わったなんて信じられません。",
+      "es": "No puedo creer que el verano haya terminado.",
+      "fr": "Je ne peux pas croire que l'été soit fini.",
+      "de": "Ich kann nicht glauben, dass der Sommer vorbei ist.",
+      "it": "Non posso credere che l'estate sia finita.",
+      "ko": "여름이 끝났다니 믿기지 않아요.",
+      "zh-Hans": "我不敢相信夏天已经结束了。",
+      "zh-Hant": "我不敢相信夏天已經結束了。",
+      "pt-BR": "Não acredito que o verão acabou."
+    }
+  },
+  {
+    "id": 49,
+    "owner": "u3",
+    "english": "There are several reasons why I chose this.",
+    "translations": {
+      "en": "There are several reasons why I chose this.",
+      "ja": "これを選んだ理由はいくつかあります。",
+      "es": "Hay varias razones por las que elegí esto.",
+      "fr": "Il y a plusieurs raisons pour lesquelles j'ai choisi cela.",
+      "de": "Es gibt mehrere Gründe, warum ich das gewählt habe.",
+      "it": "Ci sono diversi motivi per cui ho scelto questo.",
+      "ko": "제가 이걸 고른 이유는 몇 가지가 있어요.",
+      "zh-Hans": "我选择这个有几个原因。",
+      "zh-Hant": "我選擇這個有幾個原因。",
+      "pt-BR": "Há várias razões pelas quais eu escolhi isto."
+    }
+  },
+  {
+    "id": 50,
+    "owner": "u3",
+    "english": "I am not used to speaking in front of people.",
+    "translations": {
+      "en": "I am not used to speaking in front of people.",
+      "ja": "人前で話すことには慣れていません。",
+      "es": "No estoy acostumbrado a hablar delante de la gente.",
+      "fr": "Je n'ai pas l'habitude de parler en public.",
+      "de": "Ich bin es nicht gewohnt, vor Leuten zu sprechen.",
+      "it": "Non sono abituato a parlare davanti alla gente.",
+      "ko": "사람들 앞에서 말하는 것이 익숙하지 않아요.",
+      "zh-Hans": "我不习惯在人前说话。",
+      "zh-Hant": "我不習慣在人前說話。",
+      "pt-BR": "Não estou acostumado a falar na frente das pessoas."
+    }
+  },
+  {
+    "id": 51,
+    "owner": "u3",
+    "english": "Please let me know if you have any questions.",
+    "translations": {
+      "en": "Please let me know if you have any questions.",
+      "ja": "質問があれば教えてください。",
+      "es": "Por favor, hágamelo saber si tiene alguna pregunta.",
+      "fr": "S'il vous plaît, faites-moi savoir si vous avez des questions.",
+      "de": "Bitte lassen Sie mich wissen, wenn Sie Fragen haben.",
+      "it": "Per favore, fammi sapere se hai domande.",
+      "ko": "질문이 있으면 알려주세요.",
+      "zh-Hans": "如果您有任何问题，请告诉我。",
+      "zh-Hant": "如果您有任何問題，請告訴我。",
+      "pt-BR": "Por favor, me avise se tiver alguma dúvida."
+    }
+  },
+  {
+    "id": 52,
+    "owner": "u3",
+    "english": "I managed to finish the report on time.",
+    "translations": {
+      "en": "I managed to finish the report on time.",
+      "ja": "なんとか時間通りにレポートを終えました。",
+      "es": "Logré terminar el informe a tiempo.",
+      "fr": "J'ai réussi à finir le rapport à temps.",
+      "de": "Ich habe es geschafft, den Bericht rechtzeitig fertigzustellen.",
+      "it": "Sono riuscito a finire il rapporto in tempo.",
+      "ko": "겨우 제시간に 보고서를 끝냈어요.",
+      "zh-Hans": "我设法按时完成了报告。",
+      "zh-Hant": "我設法按時完成了報告。",
+      "pt-BR": "Consegui terminar o relatório a tempo."
+    }
+  },
+  {
+    "id": 53,
+    "owner": "u3",
+    "english": "The price of electricity is going up these days.",
+    "translations": {
+      "en": "The price of electricity is going up these days.",
+      "ja": "最近、電気料金が上がっています。",
+      "es": "El precio de la electricidad está subiendo últimamente.",
+      "fr": "Le prix de l'électricité augmente ces jours-ci.",
+      "de": "Der Strompreis steigt heutzutage.",
+      "it": "Il prezzo dell'elettricità sta salendo in questi giorni.",
+      "ko": "요즘 전기료가 오르고 있어요.",
+      "zh-Hans": "最近电价正在上涨。",
+      "zh-Hant": "最近電價正在上漲。",
+      "pt-BR": "O preço da eletricidade está subindo hoje em dia."
+    }
+  },
+  {
+    "id": 54,
+    "owner": "u3",
+    "english": "I don't think it is going to be easy.",
+    "translations": {
+      "en": "I don't think it is going to be easy.",
+      "ja": "それが簡単だとは思いません。",
+      "es": "No creo que vaya a ser fácil.",
+      "fr": "Je ne pense pas que ce sera facile.",
+      "de": "Ich glaube nicht, dass es einfach sein wird.",
+      "it": "Non credo che sarà facile.",
+      "ko": "그게 쉬울 거라고 생각하지 않아요.",
+      "zh-Hans": "我不觉得这会很容易。",
+      "zh-Hant": "我不覺得這會很容易。",
+      "pt-BR": "Não acho que vá ser fácil."
+    }
+  },
+  {
+    "id": 55,
+    "owner": "u3",
+    "english": "Would you mind if I sat here?",
+    "translations": {
+      "en": "Would you mind if I sat here?",
+      "ja": "ここに座ってもよろしいでしょうか？",
+      "es": "¿Le importaría si me sentara aquí?",
+      "fr": "Cela vous dérangerait-il si je m'asseyais ici ?",
+      "de": "Würde es Sie stören, wenn ich mich hier hinsetze?",
+      "it": "Le dispiace se mi siedo qui?",
+      "ko": "여기 앉아도 될까요?",
+      "zh-Hans": "我坐这里可以吗？",
+      "zh-Hant": "我坐這裡可以嗎？",
+      "pt-BR": "Você se importaria se eu me sentasse aqui?"
+    }
+  },
+  {
+    "id": 56,
+    "owner": "u3",
+    "english": "This book is too difficult for me to read.",
+    "translations": {
+      "en": "This book is too difficult for me to read.",
+      "ja": "この本は難しすぎて私には読めません。",
+      "es": "Este libro es demasiado difícil para que lo lea.",
+      "fr": "Ce livre est trop difficile à lire pour moi.",
+      "de": "Dieses Buch ist zu schwierig für mich zu lesen.",
+      "it": "Questo libro è troppo difficile da leggere per me.",
+      "ko": "이 책은 제가 읽기에 너무 어려워요.",
+      "zh-Hans": "这本书对我来说太难读了。",
+      "zh-Hant": "這本書對我來說太難讀了。",
+      "pt-BR": "Este livro é difícil demais para eu ler."
+    }
+  },
+  {
+    "id": 57,
+    "owner": "u3",
+    "english": "I have to get used to the new environment.",
+    "translations": {
+      "en": "I have to get used to the new environment.",
+      "ja": "新しい環境に慣れなければなりません。",
+      "es": "Tengo que acostumbrarme al nuevo entorno.",
+      "fr": "Je dois m'habituer au nouvel environnement.",
+      "de": "Ich muss mich an die neue Umgebung gewöhnen.",
+      "it": "Devo abituarmi al nuovo ambiente.",
+      "ko": "새로운 환경에 적응해야 해요.",
+      "zh-Hans": "我必须适应新環境。",
+      "zh-Hant": "我必須適應新環境。",
+      "pt-BR": "Tenho que me acostumar com o novo ambiente."
+    }
+  },
+  {
+    "id": 58,
+    "owner": "u3",
+    "english": "Everything will be fine in the end.",
+    "translations": {
+      "en": "Everything will be fine in the end.",
+      "ja": "最後にはすべて上手くいきますよ。",
+      "es": "Todo saldrá bien al final.",
+      "fr": "Tout ira bien à la fin.",
+      "de": "Am Ende wird alles gut sein.",
+      "it": "Tutto andrà bene alla fine.",
+      "ko": "결국 모든 게 다 잘 될 거예요.",
+      "zh-Hans": "最后一切都会好起来的。",
+      "zh-Hant": "最後一切都會好起來的。",
+      "pt-BR": "Tudo vai ficar bem no final."
+    }
+  },
+  {
+    "id": 59,
+    "owner": "u3",
+    "english": "I am happy to be a part of this project.",
+    "translations": {
+      "en": "I am happy to be a part of this project.",
+      "ja": "このプロジェクトの一員になれて嬉しいです。",
+      "es": "Estoy feliz de ser parte de este proyecto.",
+      "fr": "Je suis heureux de faire partie de ce projet.",
+      "de": "Ich freue mich, Teil dieses Projekts zu sein.",
+      "it": "Sono felice di far parte di questo progetto.",
+      "ko": "이 프로젝트의 일원이 되어 기뻐요.",
+      "zh-Hans": "我很高兴能参加这个项目。",
+      "zh-Hant": "我很高興能參加這個項目。",
+      "pt-BR": "Estou feliz por fazer parte deste projeto."
+    }
+  },
+  {
+    "id": 60,
+    "owner": "u3",
+    "english": "We need to find a way to solve this problem.",
+    "translations": {
+      "en": "We need to find a way to solve this problem.",
+      "ja": "この問題を解決する方法を見つける必要があります。",
+      "es": "Necesitamos encontrar una manera de resolver este problema.",
+      "fr": "Nous devons trouver un moyen de résoudre ce problème.",
+      "de": "Wir müssen einen Weg finden, dieses Problem zu lösen.",
+      "it": "Dobbiamo trovare un modo per risolvere questo problema.",
+      "ko": "이 문제를 해결할 방법을 찾아야 해요.",
+      "zh-Hans": "我们需要找到解决这个问题的方法。",
+      "zh-Hant": "我們需要找到解決這個問題的方法。",
+      "pt-BR": "Precisamos encontrar uma maneira de resolver este problema."
+    }
+  },
+  {
+    "id": 61,
+    "owner": "u4",
+    "english": "The government should take immediate action on this issue.",
+    "translations": {
+      "en": "The government should take immediate action on this issue.",
+      "ja": "政府はこの問題に対して即座に行動を起こすべきです。",
+      "es": "El gobierno debería tomar medidas inmediatas sobre este asunto.",
+      "fr": "Le gouvernement devrait prendre des mesures immédiates sur cette question.",
+      "de": "Die Regierung sollte in dieser Angelegenheit sofort handeln.",
+      "it": "Il governo dovrebbe intervenire immediatamente su questa questione.",
+      "ko": "정부는 이 문제에 대해 즉각 조치를 취해야 해요.",
+      "zh-Hans": "政府应该立即对这个问题采取行动。",
+      "zh-Hant": "政府應該立即對這個問題採取行動。",
+      "pt-BR": "O governo deveria tomar medidas inmediatas sobre essa questão."
+    }
+  },
+  {
+    "id": 62,
+    "owner": "u4",
+    "english": "It is widely believed that technology changes our lives.",
+    "translations": {
+      "en": "It is widely believed that technology changes our lives.",
+      "ja": "テクノロジーは私たちの生活を変えると広く信じられています。",
+      "es": "Se cree ampliamente que la tecnología cambia nuestras vidas.",
+      "fr": "On croit largement que la technologie change nos vies.",
+      "de": "Es ist weitgehend anerkannt, dass Technologie unser Leben verändert.",
+      "it": "È opinione diffusa che la tecnologia cambi le nostre vite.",
+      "ko": "기술이 우리의 삶을 변화시킨다고 널리 믿어지고 있어요.",
+      "zh-Hans": "人们广泛认为科技改变了我们的生活。",
+      "zh-Hant": "人們廣泛認為科技改變了我們的生活。",
+      "pt-BR": "Acredita-se amplamente que a tecnologia muda as nossas vidas."
+    }
+  },
+  {
+    "id": 63,
+    "owner": "u4",
+    "english": "Despite the heavy rain, the event was a great success.",
+    "translations": {
+      "en": "Despite the heavy rain, the event was a great success.",
+      "ja": "大雨にもかかわらず、イベントは大成功でした。",
+      "es": "A pesar de la fuerte lluvia, el evento fue un gran éxito.",
+      "fr": "Malgré la forte pluie, l'événement a été un grand succès.",
+      "de": "Trotz des starken Regens war die Veranstaltung ein großer Erfolg.",
+      "it": "Nonostante la forte pioggia, l'evento è stato un grande successo.",
+      "ko": "폭우에도 불구하고 행사는 큰 성공을 거두었어요.",
+      "zh-Hans": "尽管下着大雨，活动还是取得了巨大的成功。",
+      "zh-Hant": "儘管下著大雨，活動還是取得了巨大的成功。",
+      "pt-BR": "Apesar da chuva forte, o evento foi um grande sucesso."
+    }
+  },
+  {
+    "id": 64,
+    "owner": "u4",
+    "english": "I would appreciate it if you could give me some advice.",
+    "translations": {
+      "en": "I would appreciate it if you could give me some advice.",
+      "ja": "アドバイスをいただければ幸いです。",
+      "es": "Le agradecería que me diera algún consejo.",
+      "fr": "Je vous serais reconnaissant de bien vouloir me donner quelques conseils.",
+      "de": "Ich wäre Ihnen dankbar, wenn Sie mir einen Rat geben könnten.",
+      "it": "Ti sarei grato se potessi darmi qualche consiglio.",
+      "ko": "조언을 좀 주시면 감사하겠습니다.",
+      "zh-Hans": "如果您能给我一些建议，我将不胜感激。",
+      "zh-Hant": "如果您能給我一些建議，我將不勝感激。",
+      "pt-BR": "Eu agradeceria se você pudesse me dar algum conselho."
+    }
+  },
+  {
+    "id": 65,
+    "owner": "u4",
+    "english": "We need to consider the long term effects of this decision.",
+    "translations": {
+      "en": "We need to consider the long term effects of this decision.",
+      "ja": "私たちはこの決定の長期的な影響を考慮する必要があります。",
+      "es": "Debemos considerar los efectos a largo plazo de esta decisión.",
+      "fr": "Nous devons considérer les effets à l'long terme de cette décision.",
+      "de": "Wir müssen die langfristigen Auswirkungen dieser Entscheidung berücksichtigen.",
+      "it": "Dobbiamo considerare gli effetti a lungo termine di questa decisione.",
+      "ko": "우리는 이 결정의 장기적인 영향을 고려해야 해요.",
+      "zh-Hans": "我们需要考虑这一决定的长期影响。",
+      "zh-Hant": "我們需要考慮這一決定的長期影響。",
+      "pt-BR": "Precisamos considerar os efeitos de longo prazo desta decisão."
+    }
+  },
+  {
+    "id": 66,
+    "owner": "u4",
+    "english": "The more you practice, the better you will become.",
+    "translations": {
+      "en": "The more you practice, the better you will become.",
+      "ja": "練習すればするほど、上手になります。",
+      "es": "Cuanto más practiques, mejor te volverás.",
+      "fr": "Plus tu t'entraînes, meilleur tu deviendras.",
+      "de": "Je mehr du übst, desto besser wirst du.",
+      "it": "Più ti eserciti, più diventerai bravo.",
+      "ko": "연습을 하면 할수록 더 잘하게 될 거예요.",
+      "zh-Hans": "练习得越多，你就会变得越好。",
+      "zh-Hant": "練習得越多，你就會變得越好。",
+      "pt-BR": "Quanto mais você praticar, melhor você se tornará."
+    }
+  },
+  {
+    "id": 67,
+    "owner": "u4",
+    "english": "Could you please explain the reason for the delay?",
+    "translations": {
+      "en": "Could you please explain the reason for the delay?",
+      "ja": "遅延の理由を説明していただけますか？",
+      "es": "¿Podría explicarme el motivo del retraso, por favor?",
+      "fr": "Pourriez-vous expliquer la raison du retard s'il vous plaît ?",
+      "de": "Könnten Sie bitte den Grund für die Verzögerung erklären?",
+      "it": "Potresti spiegare il motivo del ritardo, per favore?",
+      "ko": "지연된 이유를 설명해 주시겠어요?",
+      "zh-Hans": "请解释一下延誤的原因好吗？",
+      "zh-Hant": "請解釋一下延誤的原因好嗎？",
+      "pt-BR": "Você poderia explicar o motivo do atraso, por favor?"
+    }
+  },
+  {
+    "id": 68,
+    "owner": "u4",
+    "english": "It is essential to communicate effectively with others.",
+    "translations": {
+      "en": "It is essential to communicate effectively with others.",
+      "ja": "他者と効果的にコミュニケーションをとることは不可欠です。",
+      "es": "Es esencial comunicarse eficazmente con los demás.",
+      "fr": "Il est essentiel de communiquer efficacement avec les autres.",
+      "de": "Es ist wichtig, effektiv mit anderen zu kommunizieren.",
+      "it": "È essenziale comunicare efficacemente con gli altri.",
+      "ko": "타인과 효과적으로 소통하는 것은 필수적이에요.",
+      "zh-Hans": "与他人进行有效沟通至关重要。",
+      "zh-Hant": "與他人進行有效溝通至關重要。",
+      "pt-BR": "É essencial se comunicar efetivamente com os outros."
+    }
+  },
+  {
+    "id": 69,
+    "owner": "u4",
+    "english": "I have been wondering how I can improve my skills.",
+    "translations": {
+      "en": "I have been wondering how I can improve my skills.",
+      "ja": "どうすれば自分のスキルを向上させられるかずっと考えています。",
+      "es": "Me he estado preguntando cómo puedo mejorar mis habilidades.",
+      "fr": "Je me demande comment je peux améliorer mes compétences.",
+      "de": "Ich habe mich gefragt, wie ich meine Fähigkeiten verbessern kann.",
+      "it": "Mi sto chiedendo come posso migliorare le mie capacità.",
+      "ko": "어떻게 하면 제 실력을 향상시킬 수 있을지 계속 고민하고 있어요.",
+      "zh-Hans": "我一直在想如何提高我的技能。",
+      "zh-Hant": "我一直在想如何提高我的技能。",
+      "pt-BR": "Tenho me perguntado como posso melhorar minhas habilidades."
+    }
+  },
+  {
+    "id": 70,
+    "owner": "u4",
+    "english": "There is no doubt that English is a global language.",
+    "translations": {
+      "en": "There is no doubt that English is a global language.",
+      "ja": "英語が世界共通語であることに疑いの余地はありません。",
+      "es": "No hay duda de que el inglés es un idioma global.",
+      "fr": "Il ne fait aucun doute que l'anglais est une langue mondiale.",
+      "de": "Es besteht kein Zweifel daran, dass Englisch eine Weltsprache ist.",
+      "it": "Non c'è dubbio che l'inglese sia una lingua globale.",
+      "ko": "영어가 세계 공용어라는 것은 의심의 여지가 없어요.",
+      "zh-Hans": "毫无疑问，英语是一门全球语言。",
+      "zh-Hant": "毫無疑問，英語是一門全球語言。",
+      "pt-BR": "Não há dúvida de que o inglês é uma língua global."
+    }
+  },
+  {
+    "id": 71,
+    "owner": "u4",
+    "english": "We must find a balance between work and private life.",
+    "translations": {
+      "en": "We must find a balance between work and private life.",
+      "ja": "仕事とプライベートのバランスを見つけなければなりません。",
+      "es": "Debemos encontrar un equilibrio entre el trabajo y la vida privada.",
+      "fr": "Nous devons trouver un équilibre entre travail et vie privée.",
+      "de": "Wir müssen ein Gleichgewicht zwischen Beruf und Privatleben finden.",
+      "it": "Dobbiamo trovare un equilibrio tra lavoro e vita privata.",
+      "ko": "일과 개인 생활 사이의 균형을 찾아야 해요.",
+      "zh-Hans": "我们必须在工作和私人生活之间找到平衡。",
+      "zh-Hant": "我們必須在工作和私人生活之間找到平衡。",
+      "pt-BR": "Devemos encontrar um equilíbrio entre o trabalho e a vida privada."
+    }
+  },
+  {
+    "id": 72,
+    "owner": "u4",
+    "english": "The results of the study were different from our expectations.",
+    "translations": {
+      "en": "The results of the study were different from our expectations.",
+      "ja": "研究の結果は私たちの予想とは異なるものでした。",
+      "es": "Los resultados del estudio fueron diferentes a nuestras expectativas.",
+      "fr": "Les résultats de l'étude étaient différents de nos attentes.",
+      "de": "Die Ergebnisse der Studie entsprachen nicht unseren Erwartungen.",
+      "it": "I risultati dello studio sono stati diversi dalle nostre aspettative.",
+      "ko": "연구 결과가 우리의 예상과 달랐어요.",
+      "zh-Hans": "研究结果与我们的预期不同。",
+      "zh-Hant": "研究結果與我們的預期不同。",
+      "pt-BR": "Os resultados do estudo foram diferentes das nossas expectativas."
+    }
+  },
+  {
+    "id": 73,
+    "owner": "u4",
+    "english": "In order to succeed, you need to work hard and stay focused.",
+    "translations": {
+      "en": "In order to succeed, you need to work hard and stay focused.",
+      "ja": "成功するためには、努力し、集中し続ける必要があります。",
+      "es": "Para tener éxito, necesitas trabajar duro y mantenerte concentrado.",
+      "fr": "Pour réussir, il faut travailler dur et rester concentré.",
+      "de": "Um erfolgreich zu sein, musst du hart arbeiten und konzentriert bleiben.",
+      "it": "Per avere successo, devi lavorare sodo e rimanere concentrato.",
+      "ko": "성공하려면 열심히 일하고 집중력을 유지해야 해요.",
+      "zh-Hans": "为了成功，你需要努力工作并保持专注。",
+      "zh-Hant": "為了成功，你需要努力工作並保持專注。",
+      "pt-BR": "Para ter sucesso, você precisa trabalhar duro e manter o foco."
+    }
+  },
+  {
+    "id": 74,
+    "owner": "u4",
+    "english": "I am convinced that we can achieve our goals together.",
+    "translations": {
+      "en": "I am convinced that we can achieve our goals together.",
+      "ja": "私たちは一緒に目標を達成できると確信しています。",
+      "es": "Estoy convencido de que podemos lograr nuestros objetivos juntos.",
+      "fr": "Je suis convaincu que nous pouvons atteindre nos objectifs ensemble.",
+      "de": "Ich bin überzeugt, dass wir unsere Ziele gemeinsam erreichen können.",
+      "it": "Sono convinto che possiamo raggiungere i nostri obiettivi insieme.",
+      "ko": "우리가 함께 목표를 달성할 수 있다고 확신해요.",
+      "zh-Hans": "我确信我们可以一起实现我们的目标。",
+      "zh-Hant": "我確信我們可以一起實現我們的目標。",
+      "pt-BR": "Estou convencido de que podemos alcançar nossos objetivos juntos."
+    }
+  },
+  {
+    "id": 75,
+    "owner": "u4",
+    "english": "Artificial intelligence is expected to play a major role.",
+    "translations": {
+      "en": "Artificial intelligence is expected to play a major role.",
+      "ja": "人工知能は大きな役割を果たすことが期待されています。",
+      "es": "Se espera que la inteligencia artificial juegue un papel importante.",
+      "fr": "On s'attend à ce que l'intelligence artificielle joue un rôle majeur.",
+      "de": "Es wird erwartet, dass künstliche Intelligenz eine wichtige Rolle spielen wird.",
+      "it": "Si prevede che l'intelligenza artificiale svolgerà un ruolo importante.",
+      "ko": "인공지능이 주요한 역할을 할 것으로 기대되고 있어요.",
+      "zh-Hans": "人工智能预计将发挥重要作用。",
+      "zh-Hant": "人工智慧預計將發揮重要作用。",
+      "pt-BR": "Espera-se que a inteligência artificial desempenhe um papel importante."
+    }
+  },
+  {
+    "id": 76,
+    "owner": "u4",
+    "english": "What would you do if you were in my position?",
+    "translations": {
+      "en": "What would you do if you were in my position?",
+      "ja": "もしあなたが私の立場ならどうしますか？",
+      "es": "¿Qué harías si estuvieras en mi posición?",
+      "fr": "Que feriez-vous si vous étiez à ma place ?",
+      "de": "Was würdest du tun, wenn du an meiner Stelle wärst?",
+      "it": "Cosa faresti se fossi al mio posto?",
+      "ko": "당신이 제 입장이라면 어떻게 하겠어요?",
+      "zh-Hans": "如果你处于我的位置，你会怎么做？",
+      "zh-Hant": "如果你處於我的位置，你會怎麼做？",
+      "pt-BR": "O que você faria se estivesse na minha posição?"
+    }
+  },
+  {
+    "id": 77,
+    "owner": "u4",
+    "english": "He is not only a great teacher but also a talented artist.",
+    "translations": {
+      "en": "He is not only a great teacher but also a talented artist.",
+      "ja": "彼は素晴らしい教師であるだけでなく、才能ある芸術家でもあります。",
+      "es": "No solo es un gran maestro, sino también un artista talentoso.",
+      "fr": "Il n'est pas seulement un grand professeur mais aussi un artiste talentueux.",
+      "de": "Er ist nicht nur ein großartiger Lehrer, sondern auch ein talentierter Künstler.",
+      "it": "Non è solo un grande insegnante, ma anche un artista di talento.",
+      "ko": "그는 훌륭한 선생님일 뿐만 아니라 재능 있는 예술가이기도 해요.",
+      "zh-Hans": "他不仅是一位伟大的老师，也是一位有才华的艺术家。",
+      "zh-Hant": "他不僅是一位偉大的老師，也是一位有才華的藝術家。",
+      "pt-BR": "Ele não é apenas um ótimo professor, mas também um artista talentoso."
+    }
+  },
+  {
+    "id": 78,
+    "owner": "u4",
+    "english": "I hope this information will be useful for your research.",
+    "translations": {
+      "en": "I hope this information will be useful for your research.",
+      "ja": "この情報があなたの研究に役立つことを願っています。",
+      "es": "Espero que esta información sea útil para su investigación.",
+      "fr": "J'espère que ces informations seront utiles pour vos recherches.",
+      "de": "Ich hoffe, dass diese Informationen für Ihre Forschung nützlich sein werden.",
+      "it": "Spero che queste informazioni siano utili per la tua ricerca.",
+      "ko": "이 정보가 당신의 연구에 도움이 되기를 바랍니다.",
+      "zh-Hans": "我希望这些信息对你的研究有用。",
+      "zh-Hant": "我希望這些資訊對你的研究有用。",
+      "pt-BR": "Espero que estas informações sejam úteis para a sua pesquisa."
+    }
+  },
+  {
+    "id": 79,
+    "owner": "u4",
+    "english": "Environmental protection is one of the most urgent tasks.",
+    "translations": {
+      "en": "Environmental protection is one of the most urgent tasks.",
+      "ja": "環境保護は最も緊急の課題の一つです。",
+      "es": "La protección del medio ambiente es una de las tareas más urgentes.",
+      "fr": "La protection de l'environnement est l'une des tâches les plus urgentes.",
+      "de": "Umweltschutz ist eine der dringendsten Aufgaben.",
+      "it": "La protezione dell'ambiente è uno dei compiti più urgenti.",
+      "ko": "환경 보호는 가장 시급한 과제 중 하나예요.",
+      "zh-Hans": "环境保护是最紧迫的任务之一。",
+      "zh-Hant": "環境保護是最緊迫的任务之一。",
+      "pt-BR": "A proteção ambiental é uma das tarefas mais urgentes."
+    }
+  },
+  {
+    "id": 80,
+    "owner": "u4",
+    "english": "Experience is the best teacher when it comes to learning.",
+    "translations": {
+      "en": "Experience is the best teacher when it comes to learning.",
+      "ja": "学習において、経験は最良の教師です。",
+      "es": "La experiencia es el mejor maestro cuando se trata de aprender.",
+      "fr": "L'expérience est le meilleur professeur en matière d'apprentissage.",
+      "de": "Erfahrung ist der beste Lehrer, wenn es ums Lernen geht.",
+      "it": "L'esperienza è la migliore insegnante quando si tratta di imparare.",
+      "ko": "배움에 있어서 경험은 최고의 스승이에요.",
+      "zh-Hans": "说到学习，经验是最好的老师。",
+      "zh-Hant": "說到學習，經驗是最好的老師。",
+      "pt-BR": "A experiência é o melhor mestre quando se trata de aprender."
+    }
+  },
+  {
+    "id": 81,
+    "owner": "u5",
+    "english": "I am a student at this school.",
+    "translations": {
+      "en": "I am a student at this school.",
+      "ja": "私はこの学校の生徒です。",
+      "es": "Soy estudiante en esta escuela.",
+      "fr": "Je suis élève dans cette école.",
+      "de": "Ich bin Schüler an dieser Schule.",
+      "it": "Sono uno studente di questa scuola.",
+      "ko": "저는 이 학교 학생이에요.",
+      "zh-Hans": "我是这所学校的学生。",
+      "zh-Hant": "我是這所學校の學生。",
+      "pt-BR": "Sou estudante desta escola."
+    }
+  },
+  {
+    "id": 82,
+    "owner": "u5",
+    "english": "You speak English very well.",
+    "translations": {
+      "en": "You speak English very well.",
+      "ja": "あなたはとても上手に英語を話します。",
+      "es": "Hablas inglés muy bien.",
+      "fr": "Tu parles très bien anglais.",
+      "de": "Du sprichst sehr gut Englisch.",
+      "it": "Parli inglese molto bene.",
+      "ko": "영어를 아주 잘하시네요.",
+      "zh-Hans": "你英语说得很好。",
+      "zh-Hant": "你英語說得很好。",
+      "pt-BR": "Você fala inglês muito bem."
+    }
+  },
+  {
+    "id": 83,
+    "owner": "u5",
+    "english": "He is my best friend.",
+    "translations": {
+      "en": "He is my best friend.",
+      "ja": "彼は私の親友です。",
+      "es": "Él es mi mejor amigo.",
+      "fr": "C'est mon meilleur ami.",
+      "de": "Er ist mein bester Freund.",
+      "it": "È il mio migliore amico.",
+      "ko": "그는 제 절친이에요.",
+      "zh-Hans": "他是我的好朋友。",
+      "zh-Hant": "他是我的好朋友。",
+      "pt-BR": "Ele é meu melhor amigo."
+    }
+  },
+  {
+    "id": 84,
+    "owner": "u5",
+    "english": "This is not my umbrella.",
+    "translations": {
+      "en": "This is not my umbrella.",
+      "ja": "これは私の傘ではありません。",
+      "es": "Este no es mi paraguas.",
+      "fr": "Ce n'est pas mon parapluie.",
+      "de": "Das ist nicht mein Regenschirm.",
+      "it": "Questo non è il mio ombrello.",
+      "ko": "이것은 제 우산이 아니에요.",
+      "zh-Hans": "这不是我的伞。",
+      "zh-Hant": "這不是我的傘。",
+      "pt-BR": "Este não é meu guarda-chuva."
+    }
+  },
+  {
+    "id": 85,
+    "owner": "u5",
+    "english": "Do you play tennis after school?",
+    "translations": {
+      "en": "Do you play tennis after school?",
+      "ja": "放課後テニスをしますか？",
+      "es": "¿Juegas al tenis después de la escuela?",
+      "fr": "Est-ce que tu joues au tennis après l'école ?",
+      "de": "Spielst du nach der Schule Tennis?",
+      "it": "Giochi a tennis dopo la scuola?",
+      "ko": "방과 후에 테니스를 치나요?",
+      "zh-Hans": "你放学后打网球吗？",
+      "zh-Hant": "你放學後打網球嗎？",
+      "pt-BR": "Você joga tênis depois da escola?"
+    }
+  },
+  {
+    "id": 86,
+    "owner": "u5",
+    "english": "I have two sisters and one brother.",
+    "translations": {
+      "en": "I have two sisters and one brother.",
+      "ja": "私には2人の姉妹と1人の兄弟がいます。",
+      "es": "Tengo dos hermanas y un hermano.",
+      "fr": "J'ai deux sœurs et un frère.",
+      "de": "Ich habe zwei Schwestern und einen Bruder.",
+      "it": "Ho due sorelle e un fratello.",
+      "ko": "저는 자매 둘과 형제 한 명이 있어요.",
+      "zh-Hans": "我有两个姐妹和一个兄弟。",
+      "zh-Hant": "我有兩個姐妹和一個兄弟。",
+      "pt-BR": "Eu tenho duas irmãs e um irmão."
+    }
+  },
+  {
+    "id": 87,
+    "owner": "u5",
+    "english": "What is in your bag?",
+    "translations": {
+      "en": "What is in your bag?",
+      "ja": "あなたの鞄の中に何が入っていますか？",
+      "es": "¿Qué hay en tu bolso?",
+      "fr": "Qu'y a-t-il dans ton sac ?",
+      "de": "Was ist in deiner Tasche?",
+      "it": "Cosa c'è nella tua borsa?",
+      "ko": "가방 안에 무엇이 들어 있나요?",
+      "zh-Hans": "你的包里有什么？",
+      "zh-Hant": "你的包裏有什麼？",
+      "pt-BR": "O que tem na sua bolsa?"
+    }
+  },
+  {
+    "id": 88,
+    "owner": "u5",
+    "english": "Who is that tall man?",
+    "translations": {
+      "en": "Who is that tall man?",
+      "ja": "あの背の高い男の人は誰ですか？",
+      "es": "¿Quién es ese hombre alto?",
+      "fr": "Qui est cet homme grand ?",
+      "de": "Wer ist dieser große Mann?",
+      "it": "Chi è quell'uomo alto?",
+      "ko": "저 키 큰 남자는 누구인가요?",
+      "zh-Hans": "那个高个子男人是谁？",
+      "zh-Hant": "那個高個子男人是誰？",
+      "pt-BR": "Quem é aquele homem alto?"
+    }
+  },
+  {
+    "id": 89,
+    "owner": "u5",
+    "english": "I can swim very fast.",
+    "translations": {
+      "en": "I can swim very fast.",
+      "ja": "私はとても速く泳げます。",
+      "es": "Puedo nadar muy rápido.",
+      "fr": "Je sais nager très vite.",
+      "de": "Ich kann sehr schnell schwimmen.",
+      "it": "So nuotare molto velocemente.",
+      "ko": "저는 아주 빨리 수영할 수 있어요.",
+      "zh-Hans": "我能游得很快。",
+      "zh-Hant": "我能游得很快。",
+      "pt-BR": "Eu consigo nadar muito rápido."
+    }
+  },
+  {
+    "id": 90,
+    "owner": "u5",
+    "english": "Can you hear my voice?",
+    "translations": {
+      "en": "Can you hear my voice?",
+      "ja": "私の声が聞こえますか？",
+      "es": "¿Puedes oír mi voz?",
+      "fr": "Tu peux entendre ma voix ?",
+      "de": "Kannst du meine Stimme hören?",
+      "it": "Riesci a sentire la mia voce?",
+      "ko": "제 목소리 들리나요?",
+      "zh-Hans": "你能听到我的声音吗？",
+      "zh-Hant": "你能聽到我的聲音嗎？",
+      "pt-BR": "Você consegue ouvir a minha voz?"
+    }
+  },
+  {
+    "id": 91,
+    "owner": "u5",
+    "english": "Where do you live now?",
+    "translations": {
+      "en": "Where do you live now?",
+      "ja": "あなたは今どこに住んでいますか？",
+      "es": "¿Dónde vives ahora?",
+      "fr": "Où habites-tu maintenant ?",
+      "de": "Wo wohnst du jetzt?",
+      "it": "Dove vivi adesso?",
+      "ko": "지금 어디에 사나요?",
+      "zh-Hans": "你现在住在哪里？",
+      "zh-Hant": "你現在住在哪裡？",
+      "pt-BR": "Onde você mora agora?"
+    }
+  },
+  {
+    "id": 92,
+    "owner": "u5",
+    "english": "I like blue better than red.",
+    "translations": {
+      "en": "I like blue better than red.",
+      "ja": "私は赤より青が好きです。",
+      "es": "Me gusta más el azul que el rojo.",
+      "fr": "J'aime mieux le bleu que le rouge.",
+      "de": "Ich mag Blau lieber als Rot.",
+      "it": "Mi piace il blu più del rosso.",
+      "ko": "빨간색보다 파란색을 더 좋아해요.",
+      "zh-Hans": "比起红色我更喜欢蓝色。",
+      "zh-Hant": "比起紅色我更喜歡藍色。",
+      "pt-BR": "Gosto mais de azul do que de vermelho."
+    }
+  },
+  {
+    "id": 93,
+    "owner": "u5",
+    "english": "Does she play the piano every day?",
+    "translations": {
+      "en": "Does she play the piano every day?",
+      "ja": "彼女は毎日ピアノを弾きますか？",
+      "es": "¿Ella toca el piano todos los días?",
+      "fr": "Est-ce qu'elle joue du piano tous les jours ?",
+      "de": "Spielt sie jeden Tag Klavier?",
+      "it": "Suona il piano ogni giorno?",
+      "ko": "그녀는 매일 피아노를 치나요?",
+      "zh-Hans": "她每天弹钢琴吗？",
+      "zh-Hant": "她每天彈鋼琴嗎？",
+      "pt-BR": "Ela toca piano todos os dias?"
+    }
+  },
+  {
+    "id": 94,
+    "owner": "u5",
+    "english": "He does not like milk at all.",
+    "translations": {
+      "en": "He does not like milk at all.",
+      "ja": "彼は牛乳が全く好きではありません。",
+      "es": "A él no le gusta nada la leche.",
+      "fr": "Il n'aime pas du tout le lait.",
+      "de": "Er mag überhaupt keine Milch.",
+      "it": "A lui non piace per niente il latte.",
+      "ko": "그는 우유를 전혀 좋아하지 않아요.",
+      "zh-Hans": "他一点也不喜欢牛奶。",
+      "zh-Hant": "他一點也不喜歡牛奶。",
+      "pt-BR": "Ele não gosta nem um pouco de leite."
+    }
+  },
+  {
+    "id": 95,
+    "owner": "u5",
+    "english": "We are in the classroom now.",
+    "translations": {
+      "en": "We are in the classroom now.",
+      "ja": "私たちは今教室にいます。",
+      "es": "Estamos en el aula ahora.",
+      "fr": "Nous sommes dans la salle de classe maintenant.",
+      "de": "Wir sind jetzt im Klassenzimmer.",
+      "it": "Siamo in classe ora.",
+      "ko": "우리는 지금 교실에 있어요.",
+      "zh-Hans": "我们现在在教室里。",
+      "zh-Hant": "我們現在在教室裏。",
+      "pt-BR": "Estamos na sala de aula agora."
+    }
+  },
+  {
+    "id": 96,
+    "owner": "u5",
+    "english": "Please sit down on this chair.",
+    "translations": {
+      "en": "Please sit down on this chair.",
+      "ja": "この椅子に座ってください。",
+      "es": "Por favor, siéntate en esta silla.",
+      "fr": "S'il vous plaît, asseyez-vous sur cette chaise.",
+      "de": "Bitte setzen Sie sich auf diesen Stuhl.",
+      "it": "Per favore, siediti su questa sedia.",
+      "ko": "이 의자에 앉으세요.",
+      "zh-Hans": "请坐在这张椅子上。",
+      "zh-Hant": "請坐在這張椅子上。",
+      "pt-BR": "Por favor, sente-se nesta cadeira."
+    }
+  },
+  {
+    "id": 97,
+    "owner": "u5",
+    "english": "Don't run in the hallway.",
+    "translations": {
+      "en": "Don't run in the hallway.",
+      "ja": "廊下を走ってはいけません。",
+      "es": "No corras en el pasillo.",
+      "fr": "Ne cours pas dans le couloir.",
+      "de": "Laufen Sie nicht auf dem Flur.",
+      "it": "Non correre in corridoio.",
+      "ko": "복도에서 뛰지 마세요.",
+      "zh-Hans": "不要在走廊里跑步。",
+      "zh-Hant": "不要在走廊裏跑步。",
+      "pt-BR": "Não corra no corredor."
+    }
+  },
+  {
+    "id": 98,
+    "owner": "u5",
+    "english": "I am reading a funny book.",
+    "translations": {
+      "en": "I am reading a funny book.",
+      "ja": "私は面白い本を読んでいます。",
+      "es": "Estoy leyendo un libro divertido.",
+      "fr": "Je lis un livre amusant.",
+      "de": "Ich lese ein lustiges Buch.",
+      "it": "Sto leggendo un libro divertente.",
+      "ko": "저는 재미있는 책을 읽고 있어요.",
+      "zh-Hans": "我在看一本有趣的书。",
+      "zh-Hant": "我在看一本有趣的小說。",
+      "pt-BR": "Estou lendo um libro engraçado."
+    }
+  },
+  {
+    "id": 99,
+    "owner": "u5",
+    "english": "Are you busy this afternoon?",
+    "translations": {
+      "en": "Are you busy this afternoon?",
+      "ja": "今日の午後は忙しいですか？",
+      "es": "¿Estás ocupado esta tarde?",
+      "fr": "Tu es occupé cet après-midi ?",
+      "de": "Bist du heute Nachmittag beschäftigt?",
+      "it": "Sei occupato questo pomeriggio?",
+      "ko": "오늘 오후에 바쁘세요?",
+      "zh-Hans": "你今天下午忙吗？",
+      "zh-Hant": "你今天下午忙嗎？",
+      "pt-BR": "Você está ocupado esta tarde?"
+    }
+  },
+  {
+    "id": 100,
+    "owner": "u5",
+    "english": "How do you go to school?",
+    "translations": {
+      "en": "How do you go to school?",
+      "ja": "どうやって学校に行きますか？",
+      "es": "¿Cómo vas a la escuela?",
+      "fr": "Comment vas-tu à l'école ?",
+      "de": "Wie gehst du zur Schule?",
+      "it": "Come vai a scuola?",
+      "ko": "어떻게 학교에 가나요?",
+      "zh-Hans": "你怎么去上学？",
+      "zh-Hant": "你怎麼去上學？",
+      "pt-BR": "Como você vai para a escola?"
+    }
+  }
 ]
