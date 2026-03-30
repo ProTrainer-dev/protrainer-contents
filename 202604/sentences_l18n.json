@@ -99,7 +99,23 @@
   {"id":52604014,"owner":"u5","english":"I am reading a funny book from the library.","translations":{"en":"I am reading a funny book from the library.","ja":"図書館から借りた面白い本を読んでいます。","es":"Estoy leyendo un libro divertido de la biblioteca.","fr":"Je lis un livre amusant de la bibliothèque.","de":"Ich lese gerade ein lustiges Buch aus der Bibliothek.","it":"Sto leggendo un libro divertente della biblioteca.","ko":"도서관에서 빌린 재미있는 책을 읽고 있습니다.","zh-Hans":"我正在看一本从图书馆借来的有趣的书。","zh-Hant":"我正在看一本從圖書館借來的有趣的朋友。","pt-BR":"Estou lendo um livro engraçado da biblioteca."}},
   {"id":52604015,"owner":"u5","english":"Are you busy this afternoon after the club meeting?","translations":{"en":"Are you busy this afternoon after the club meeting?","ja":"今日の午後、部活のミーティングの後は忙しいですか？","es":"¿Estás ocupado esta tarde después de la reunión del club?","fr":"Es-tu occupé cet après-midi après la réunion du club ?","de":"Bist du heute Nachmittag nach dem Clubtreffen beschäftigt?","it":"Sei occupato questo pomeriggio dopo la riunione del club?","ko":"오늘 오후 동아리 회의가 끝난 후에 바쁘신가요?","zh-Hans":"今天下午社团会议结束后你忙吗？","zh-Hant":"今天下午社團會議結束後你忙嗎？","pt-BR":"Você está ocupado esta tarde depois da reunião do clube?"}},
   {"id":52604016,"owner":"u5","english":"How do you go to school every morning?","translations":{"en":"How do you go to school every morning?","ja":"毎朝どうやって学校に行きますか？","es":"¿Cómo vas a la escuela cada mañana?","fr":"Comment vas-tu à l'école chaque matin ?","de":"Wie kommst du jeden Morgen zur Schule?","it":"Come vai a scuola ogni mattina?","ko":"매일 아침 어떻게 학교에 가나요?","zh-Hans":"你每天早上怎么去学校？","zh-Hant":"你每天早上怎麼去學校？","pt-BR":"Como você vai para a escola todas as manhãs?"}},
-  {"id":52604017,"owner":"u5","english":"My sister visited a zoo with her friends yesterday.","translations":{"en":"My sister visited a zoo with her friends yesterday.","ja":"昨日、妹は友達と動物園に行きました。","es":"Mi hermana visitó un zoológico con sus amigos ayer.","fr":"Ma sœur a visité un zoo avec ses amis hier.","de":"Meine Schwester hat gestern mit ihren Freunden einen Zoo besucht.","it":"Mia sorella ha visitato uno zoo con i suoi amici ieri.","ko":"어제 내 여동생은 친구들과 동물원에 갔습니다.","zh-Hans":"我妹妹昨天和她的朋友们去了动物园。","zh-Hant":"我妹妹昨天和她的朋友們去了動物園。","pt-BR":"Minha irmã visitou um zoológico com os amigos ontem."}},
+  {
+  "id": 52604021,
+  "owner": "u5",
+  "english": "My sister visited a museum with her friends yesterday.",
+  "translations": {
+    "en": "My sister visited a museum with her friends yesterday.",
+    "ja": "昨日、妹は友達と博物館に行きました。",
+    "es": "Mi hermana visitó un museo con sus amigos ayer.",
+    "fr": "Ma sœur a visité un musée avec ses amis hier.",
+    "de": "Meine Schwester hat gestern mit ihren Freunden ein Museum besucht.",
+    "it": "Mia sorella ha visitato un museo con i suoi amici ieri.",
+    "ko": "어제 내 여동생은 친구들과 박물관에 갔습니다.",
+    "zh-Hans": "我妹妹昨天和她的朋友们去了博物馆。",
+    "zh-Hant": "我妹妹昨天和她的朋友們去了博物館。",
+    "pt-BR": "Minha irmã visitou um museu com os amigos ontem."
+  }
+}
   {"id":52604018,"owner":"u5","english":"We will have a big party at our house.","translations":{"en":"We will have a big party at our house.","ja":"家で大きなパーティーを開く予定です。","es":"Tendremos una gran fiesta en nuestra casa.","fr":"Nous allons faire une grande fête chez nous.","de":"Wir werden eine große Party bei uns zu Hause feiern.","it":"Faremo una grande festa a casa nostra.","ko":"우리 집에서 큰 파티를 열 거예요.","zh-Hans":"我们要在家里举办一个大型派对。","zh-Hant":"我們要在家裡舉辦一個大型派對。","pt-BR":"Teremos uma grande festa em nossa casa."}},
   {"id":52604019,"owner":"u5","english":"There is a small cat under the table here.","translations":{"en":"There is a small cat under the table here.","ja":"ここのテーブルの下に小さな猫がいます。","es":"Hay un gato pequeño debajo de la mesa aquí.","fr":"Il y a un petit chat sous la table ici.","de":"Hier unter dem Tisch ist eine kleine Katze.","it":"C'è un gattino sotto il tavolo qui.","ko":"여기 탁자 밑에 작은 고양이가 한 마리 있습니다.","zh-Hans":"这儿的桌子下面有一只小猫。","zh-Hant":"這兒的桌子下面有一隻小貓。","pt-BR":"Tem um gato pequeno debaixo da mesa aqui."}},
   {"id":52604020,"owner":"u5","english":"Please show me your notebook before you go home.","translations":{"en":"Please show me your notebook before you go home.","ja":"帰る前にノートを見せてください。","es":"Por favor, enséñame tu cuaderno antes de irte a casa.","fr":"Montre-moi ton cahier avant de rentrer chez toi s'il te plaît.","de":"Bitte zeig mir dein Heft, bevor du nach Hause gehst.","it":"Per favore, mostrami il tuo quaderno prima di andare a casa.","ko":"집에 가기 전에 공책을 보여주세요.","zh-Hans":"回家前请给我看看你的笔记本。","zh-Hant":"回家前請給我看看你的筆記本。","pt-BR":"Por favor, mostre-me seu caderno antes de ir para casa."}}
