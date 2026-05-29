@@ -62,8 +62,8 @@
   {
     "id": 12606511,
     "owner": "u1",
-    "english": "I eat lunch now.",
-    "translations": { "en": "I eat lunch now.", "ja": "私は今お昼ご飯を食べます。" }
+    "english": "I will eat lunch now.",
+    "translations": { "en": "I will eat lunch now.", "ja": "私は今からお昼ご飯を食べます。" }
   },
   {
     "id": 12606512,
@@ -128,8 +128,8 @@
   {
     "id": 22606502,
     "owner": "u2",
-    "english": "Yes I can say it.",
-    "translations": { "en": "Yes I can say it.", "ja": "はい、言えますよ。" }
+    "english": "Yes I can speak.",
+    "translations": { "en": "Yes I can speak.", "ja": "はい、話せますよ。" }
   },
   {
     "id": 22606503,
@@ -195,7 +195,7 @@
     "id": 22606513,
     "owner": "u2",
     "english": "Please call a doctor now.",
-    "translations": { "en": "Please call a doctor now.", "ja": "今すぐ医者を呼んでください。" }
+    "translations": { "en": "Please call a doctor now?", "ja": "今すぐ医者を呼んでください。" }
   },
   {
     "id": 22606514,
@@ -236,8 +236,8 @@
   {
     "id": 22606520,
     "owner": "u2",
-    "english": "Give me the pen.",
-    "translations": { "en": "Give me the pen.", "ja": "ペンをください。" }
+    "english": "Give me the book.",
+    "translations": { "en": "Give me the book.", "ja": "本をください。" }
   },
   {
     "id": 32606501,
@@ -573,7 +573,7 @@
     "id": 52606516,
     "owner": "u5",
     "english": "Every problem has a clear solution.",
-    "translations": { "en": "Every problem has a solution.", "ja": "すべての問題には明確な解決策があります。" }
+    "translations": { "en": "Every problem has a clear solution.", "ja": "すべての問題には明確な解決策があります。" }
   },
   {
     "id": 52606517,
