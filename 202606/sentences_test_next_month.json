@@ -1,0 +1,602 @@
+[
+  {
+    "id": 12606501,
+    "owner": "u1",
+    "english": "When is your birthday?",
+    "translations": { "en": "When is your birthday?", "ja": "あなたの誕生日はいつですか？" }
+  },
+  {
+    "id": 12606502,
+    "owner": "u1",
+    "english": "My birthday is on November twenty-first.",
+    "translations": { "en": "My birthday is on November twenty-first.", "ja": "私の誕生日は11月21日です。" }
+  },
+  {
+    "id": 12606503,
+    "owner": "u1",
+    "english": "What sports do you like?",
+    "translations": { "en": "What sports do you like?", "ja": "あなたは何のスポーツが好きですか？" }
+  },
+  {
+    "id": 12606504,
+    "owner": "u1",
+    "english": "I like soccer and basketball.",
+    "translations": { "en": "I like soccer and basketball.", "ja": "私はサッカーとバスケットボールが好きです。" }
+  },
+  {
+    "id": 12606505,
+    "owner": "u1",
+    "english": "Do you like Japanese food?",
+    "translations": { "en": "Do you like Japanese food?", "ja": "日本食は好きですか？" }
+  },
+  {
+    "id": 12606506,
+    "owner": "u1",
+    "english": "Yes I like rice and fish.",
+    "translations": { "en": "Yes I like rice and fish.", "ja": "はい、ご飯とお魚が好きです。" }
+  },
+  {
+    "id": 12606507,
+    "owner": "u1",
+    "english": "Can you play the piano?",
+    "translations": { "en": "Can you play the piano?", "ja": "ピアノを弾くことができますか？" }
+  },
+  {
+    "id": 12606508,
+    "owner": "u1",
+    "english": "Yes I can play well.",
+    "translations": { "en": "Yes I can play well.", "ja": "はい、上手に弾けます。" }
+  },
+  {
+    "id": 12606509,
+    "owner": "u1",
+    "english": "Where is your new bicycle?",
+    "translations": { "en": "Where is your new bicycle?", "ja": "あなたの新しい自転車はどこですか？" }
+  },
+  {
+    "id": 12606510,
+    "owner": "u1",
+    "english": "It is at my house.",
+    "translations": { "en": "It is at my house.", "ja": "それは私の家にあります。" }
+  },
+  {
+    "id": 12606511,
+    "owner": "u1",
+    "english": "I will eat lunch now.",
+    "translations": { "en": "I will eat lunch now.", "ja": "私は今からお昼ご飯を食べます。" }
+  },
+  {
+    "id": 12606512,
+    "owner": "u1",
+    "english": "I study English every day.",
+    "translations": { "en": "I study English every day.", "ja": "私は毎日英語を勉強します。" }
+  },
+  {
+    "id": 12606513,
+    "owner": "u1",
+    "english": "This blue pen is mine.",
+    "translations": { "en": "This blue pen is mine.", "ja": "この青いペンは私のものです。" }
+  },
+  {
+    "id": 12606514,
+    "owner": "u1",
+    "english": "Look at that red flower.",
+    "translations": { "en": "Look at that red flower.", "ja": "あの赤い花を見て。" }
+  },
+  {
+    "id": 12606515,
+    "owner": "u1",
+    "english": "I have two small dogs.",
+    "translations": { "en": "I have two small dogs.", "ja": "私は小さな犬を2匹飼っています。" }
+  },
+  {
+    "id": 12606516,
+    "owner": "u1",
+    "english": "We go to school together.",
+    "translations": { "en": "We go to school together.", "ja": "私たちは一緒に学校へ行きます。" }
+  },
+  {
+    "id": 12606517,
+    "owner": "u1",
+    "english": "The weather is hot today.",
+    "translations": { "en": "The weather is hot today.", "ja": "今日の天気は暑いです。" }
+  },
+  {
+    "id": 12606518,
+    "owner": "u1",
+    "english": "Please open the window now.",
+    "translations": { "en": "Please open the window now.", "ja": "今、窓を開けてください。" }
+  },
+  {
+    "id": 12606519,
+    "owner": "u1",
+    "english": "I like Sunday morning sleep.",
+    "translations": { "en": "I like Sunday morning sleep.", "ja": "私は日曜日の朝寝るのが好きです。" }
+  },
+  {
+    "id": 12606520,
+    "owner": "u1",
+    "english": "Welcome to our town.",
+    "translations": { "en": "Welcome to our town.", "ja": "私たちの町へようこそ。" }
+  },
+  {
+    "id": 22606501,
+    "owner": "u2",
+    "english": "Could you say that again?",
+    "translations": { "en": "Could you say that again?", "ja": "もう一度言っていただけますか？" }
+  },
+  {
+    "id": 22606502,
+    "owner": "u2",
+    "english": "Yes I can speak.",
+    "translations": { "en": "Yes I can speak.", "ja": "はい、話せますよ。" }
+  },
+  {
+    "id": 22606503,
+    "owner": "u2",
+    "english": "Where is the bus stop?",
+    "translations": { "en": "Where is the bus stop?", "ja": "バス停はどこですか？" }
+  },
+  {
+    "id": 22606504,
+    "owner": "u2",
+    "english": "It is over there.",
+    "translations": { "en": "It is over there.", "ja": "あそこにありますよ。" }
+  },
+  {
+    "id": 22606505,
+    "owner": "u2",
+    "english": "Are you ready now?",
+    "translations": { "en": "Are you ready now?", "ja": "もう準備はいいですか？" }
+  },
+  {
+    "id": 22606506,
+    "owner": "u2",
+    "english": "Yes I am ready.",
+    "translations": { "en": "Yes I am ready.", "ja": "はい、準備できました。" }
+  },
+  {
+    "id": 22606507,
+    "owner": "u2",
+    "english": "Can I have some water?",
+    "translations": { "en": "Can I have some water?", "ja": "お水を少しいただけますか？" }
+  },
+  {
+    "id": 22606508,
+    "owner": "u2",
+    "english": "Here is your water.",
+    "translations": { "en": "Here is your water.", "ja": "お水はこちらです。" }
+  },
+  {
+    "id": 22606509,
+    "owner": "u2",
+    "english": "Where is the room key?",
+    "translations": { "en": "Where is the room key?", "ja": "部屋の鍵はどこですか？" }
+  },
+  {
+    "id": 22606510,
+    "owner": "u2",
+    "english": "It is on the desk.",
+    "translations": { "en": "It is on the desk.", "ja": "机の上にあります。" }
+  },
+  {
+    "id": 22606511,
+    "owner": "u2",
+    "english": "Please open the door.",
+    "translations": { "en": "Please open the door.", "ja": "ドアを開けてください。" }
+  },
+  {
+    "id": 22606512,
+    "owner": "u2",
+    "english": "Show me the map please.",
+    "translations": { "en": "Show me the map please.", "ja": "地図を見せてください。" }
+  },
+  {
+    "id": 22606513,
+    "owner": "u2",
+    "english": "Please call a doctor now.",
+    "translations": { "en": "Please call a doctor now?", "ja": "今すぐ医者を呼んでください。" }
+  },
+  {
+    "id": 22606514,
+    "owner": "u2",
+    "english": "Wait for me over there.",
+    "translations": { "en": "Wait for me over there.", "ja": "あそこで待っていて。" }
+  },
+  {
+    "id": 22606515,
+    "owner": "u2",
+    "english": "Look at the blue sky.",
+    "translations": { "en": "Look at the blue sky.", "ja": "青い空を見て。" }
+  },
+  {
+    "id": 22606516,
+    "owner": "u2",
+    "english": "Stop the car right now.",
+    "translations": { "en": "Stop the car right now.", "ja": "今すぐ車を止めて。" }
+  },
+  {
+    "id": 22606517,
+    "owner": "u2",
+    "english": "Sit down on the chair.",
+    "translations": { "en": "Sit down on the chair.", "ja": "椅子に座って。" }
+  },
+  {
+    "id": 22606518,
+    "owner": "u2",
+    "english": "Look at the big moon.",
+    "translations": { "en": "Look at the big moon.", "ja": "大きな月を見て。" }
+  },
+  {
+    "id": 22606519,
+    "owner": "u2",
+    "english": "Open the small window please.",
+    "translations": { "en": "Open the small window please.", "ja": "小さな窓を開けてください。" }
+  },
+  {
+    "id": 22606520,
+    "owner": "u2",
+    "english": "Give me the book.",
+    "translations": { "en": "Give me the book.", "ja": "本をください。" }
+  },
+  {
+    "id": 32606501,
+    "owner": "u3",
+    "english": "What are you doing this weekend?",
+    "translations": { "en": "What are you doing this weekend?", "ja": "今週末は何をしますか？" }
+  },
+  {
+    "id": 32606502,
+    "owner": "u3",
+    "english": "I want to go shopping with Mari.",
+    "translations": { "en": "I want to go shopping with Mari.", "ja": "私はまりと一緒に買い物に行きたいです。" }
+  },
+  {
+    "id": 32606503,
+    "owner": "u3",
+    "english": "How is the weather today?",
+    "translations": { "en": "How is the weather today?", "ja": "今日の天気はどうですか？" }
+  },
+  {
+    "id": 32606504,
+    "owner": "u3",
+    "english": "It is a beautiful sunny day.",
+    "translations": { "en": "It is a beautiful sunny day.", "ja": "とても気持ちの良い晴れの日です。" }
+  },
+  {
+    "id": 32606505,
+    "owner": "u3",
+    "english": "Do you like to play piano?",
+    "translations": { "en": "Do you like to play piano?", "ja": "ピアノを弾くのは好きですか？" }
+  },
+  {
+    "id": 32606506,
+    "owner": "u3",
+    "english": "Yes I practice it every day.",
+    "translations": { "en": "Yes I practice it every day.", "ja": "はい、毎日練習しています。" }
+  },
+  {
+    "id": 32606507,
+    "owner": "u3",
+    "english": "Can you hear my voice now?",
+    "translations": { "en": "Can you hear my voice now?", "ja": "私の声が今聞こえますか？" }
+  },
+  {
+    "id": 32606508,
+    "owner": "u3",
+    "english": "No please speak a little louder.",
+    "translations": { "en": "No please speak a little louder.", "ja": "いいえ、もう少し大きな声で話してください。" }
+  },
+  {
+    "id": 32606509,
+    "owner": "u3",
+    "english": "What do you want to eat?",
+    "translations": { "en": "What do you want to eat?", "ja": "あなたは何を食べたいですか？" }
+  },
+  {
+    "id": 32606510,
+    "owner": "u3",
+    "english": "I want some hot delicious soup.",
+    "translations": { "en": "I want some hot delicious soup.", "ja": "温かくて美味しいスープが食べたいです。" }
+  },
+  {
+    "id": 32606511,
+    "owner": "u3",
+    "english": "I want to see the movie.",
+    "translations": { "en": "I want to see the movie.", "ja": "その映画を見たいです。" }
+  },
+  {
+    "id": 32606512,
+    "owner": "u3",
+    "english": "I am sorry for being late.",
+    "translations": { "en": "I am sorry for being late.", "ja": "遅れてすみません。" }
+  },
+  {
+    "id": 32606513,
+    "owner": "u3",
+    "english": "I want to read a story.",
+    "translations": { "en": "I want to read a story.", "ja": "物語を読みたいです。" }
+  },
+  {
+    "id": 32606514,
+    "owner": "u3",
+    "english": "I am happy to meet you.",
+    "translations": { "en": "I am happy to meet you.", "ja": "お会いできて嬉しいです。" }
+  },
+  {
+    "id": 32606515,
+    "owner": "u3",
+    "english": "I want to go outside now.",
+    "translations": { "en": "I want to go outside now.", "ja": "今、外に行きたいです。" }
+  },
+  {
+    "id": 32606516,
+    "owner": "u3",
+    "english": "I like tea and orange juice.",
+    "translations": { "en": "I like tea and orange juice.", "ja": "私はお茶とオレンジジュースが好きです。" }
+  },
+  {
+    "id": 32606517,
+    "owner": "u3",
+    "english": "We love to study new languages.",
+    "translations": { "en": "We love to study new languages.", "ja": "私たちは新しい言語を勉強するのが大好きです。" }
+  },
+  {
+    "id": 32606518,
+    "owner": "u3",
+    "english": "My sister likes to draw pictures.",
+    "translations": { "en": "My sister likes to draw pictures.", "ja": "私の姉は絵を描くのが好きです。" }
+  },
+  {
+    "id": 32606519,
+    "owner": "u3",
+    "english": "We plan to climb a mountain.",
+    "translations": { "en": "We plan to climb a mountain.", "ja": "私たちは山に登る計画をしています。" }
+  },
+  {
+    "id": 32606520,
+    "owner": "u3",
+    "english": "This shirt is very comfortable.",
+    "translations": { "en": "This shirt is very comfortable.", "ja": "このシャツはとても着心地が良いです。" }
+  },
+  {
+    "id": 42606501,
+    "owner": "u4",
+    "english": "Does your father work near the train station?",
+    "translations": { "en": "Does your father work near the train station?", "ja": "あなたのお父さんは駅の近くで働いていますか？" }
+  },
+  {
+    "id": 42606502,
+    "owner": "u4",
+    "english": "Yes he works at the city hospital.",
+    "translations": { "en": "Yes he works at the city hospital.", "ja": "はい、彼は市内の病院で働いています。" }
+  },
+  {
+    "id": 42606503,
+    "owner": "u4",
+    "english": "Where do local people usually buy fresh vegetables?",
+    "translations": { "en": "Where do local people usually buy fresh vegetables?", "ja": "地元の人は普段どこで新鮮な野菜を買いますか？" }
+  },
+  {
+    "id": 42606504,
+    "owner": "u4",
+    "english": "They always go to the big green market.",
+    "translations": { "en": "They always go to the big green market.", "ja": "彼らはいつも大きなグリーンマーケットに行きます。" }
+  },
+  {
+    "id": 42606505,
+    "owner": "u4",
+    "english": "When does the science museum welcome visitors?",
+    "translations": { "en": "When does the science museum welcome visitors?", "ja": "科学博物館はいつ訪問者を歓迎していますか？" }
+  },
+  {
+    "id": 42606506,
+    "owner": "u4",
+    "english": "It opens for everyone early every morning.",
+    "translations": { "en": "It opens for everyone early every morning.", "ja": "毎朝早く、すべての人に向けて開館しています。" }
+  },
+  {
+    "id": 42606507,
+    "owner": "u4",
+    "english": "How often do you visit the local library?",
+    "translations": { "en": "How often do you visit the local library?", "ja": "地元の図書館にはどのくらいの頻度で通っていますか？" }
+  },
+  {
+    "id": 42606508,
+    "owner": "u4",
+    "english": "We go there together about once a week.",
+    "translations": { "en": "We go there together about once a week.", "ja": "私たちは週に一度ほど、そこに一緒に行きます。" }
+  },
+  {
+    "id": 42606509,
+    "owner": "u4",
+    "english": "Where do they live in this town?",
+    "translations": { "en": "Where do they live in this town?", "ja": "彼らはこの町のどこの場所に住んでいますか？" }
+  },
+  {
+    "id": 42606510,
+    "owner": "u4",
+    "english": "They live in a big house near forest.",
+    "translations": { "en": "They live in a big house near forest.", "ja": "彼らは森の近くの大きな家に住んでいます。" }
+  },
+  {
+    "id": 42606511,
+    "owner": "u4",
+    "english": "My father works at the office in city.",
+    "translations": { "en": "My father works at the office in city.", "ja": "父は街のオフィスで働いています。" }
+  },
+  {
+    "id": 42606512,
+    "owner": "u4",
+    "english": "We have a party on the last day.",
+    "translations": { "en": "We have a party on the last day.", "ja": "私たちは最終日にパーティーを開きます。" }
+  },
+  {
+    "id": 42606513,
+    "owner": "u4",
+    "english": "I go to the post office every Monday.",
+    "translations": { "en": "I go to the post office every Monday.", "ja": "毎週月曜日に郵便局へ行きます。" }
+  },
+  {
+    "id": 42606514,
+    "owner": "u4",
+    "english": "Many people visit the park in the spring.",
+    "translations": { "en": "Many people visit the park in the spring.", "ja": "春には多くの人がその公園を訪れます。" }
+  },
+  {
+    "id": 42606515,
+    "owner": "u4",
+    "english": "She helps the old lady with the bags.",
+    "translations": { "en": "She helps the old lady with the bags.", "ja": "彼女はお年寄りの荷物を持つのを助けます。" }
+  },
+  {
+    "id": 42606516,
+    "owner": "u4",
+    "english": "We follow the school rules to be good.",
+    "translations": { "en": "We follow the school rules to be good.", "ja": "私たちは良い子であるために校則を守ります。" }
+  },
+  {
+    "id": 42606517,
+    "owner": "u4",
+    "english": "The city has a big stadium for games.",
+    "translations": { "en": "The city has a big stadium for games.", "ja": "その都市には試合用の大きなスタジアムがあります。" }
+  },
+  {
+    "id": 42606518,
+    "owner": "u4",
+    "english": "They work together every day in the hall.",
+    "translations": { "en": "They work together every day in the hall.", "ja": "彼らは毎日、会館で一緒に働いています。" }
+  },
+  {
+    "id": 42606519,
+    "owner": "u4",
+    "english": "The police station is far from the center.",
+    "translations": { "en": "The police station is far from the center.", "ja": "警察署は中心部から遠いです。" }
+  },
+  {
+    "id": 42606520,
+    "owner": "u4",
+    "english": "We save water at home for our nature.",
+    "translations": { "en": "We save water at home for our nature.", "ja": "自然のために家で節水しています。" }
+  },
+  {
+    "id": 52606501,
+    "owner": "u5",
+    "english": "Do you want something to drink?",
+    "translations": { "en": "Do you want something to drink?", "ja": "何か飲み物は欲しいですか？" }
+  },
+  {
+    "id": 52606502,
+    "owner": "u5",
+    "english": "Give me some cold juice please.",
+    "translations": { "en": "Give me some cold juice please.", "ja": "冷たいジュースをください。" }
+  },
+  {
+    "id": 52606503,
+    "owner": "u5",
+    "english": "Must we finish this report today?",
+    "translations": { "en": "Must we finish this report today?", "ja": "私たちは今日、このレポートを終わらせなければなりませんか？" }
+  },
+  {
+    "id": 52606504,
+    "owner": "u5",
+    "english": "No you can submit it tomorrow.",
+    "translations": { "en": "No you can submit it tomorrow.", "ja": "いいえ、明日提出すれば大丈夫です。" }
+  },
+  {
+    "id": 52606505,
+    "owner": "u5",
+    "english": "Why must you buy a dictionary?",
+    "translations": { "en": "Why must you buy a dictionary?", "ja": "なぜ辞書を買わなければならないのですか？" }
+  },
+  {
+    "id": 52606506,
+    "owner": "u5",
+    "english": "I need a book to study.",
+    "translations": { "en": "I need a book to study.", "ja": "勉強するための本が必要です。" }
+  },
+  {
+    "id": 52606507,
+    "owner": "u5",
+    "english": "Is there any place to visit?",
+    "translations": { "en": "Is there any place to visit?", "ja": "どこか訪れるべき場所はありますか？" }
+  },
+  {
+    "id": 52606508,
+    "owner": "u5",
+    "english": "There are many places to see.",
+    "translations": { "en": "There are many places to see.", "ja": "見るべき場所がたくさんありますよ。" }
+  },
+  {
+    "id": 52606509,
+    "owner": "u5",
+    "english": "Should we check the map again?",
+    "translations": { "en": "Should we check the map again?", "ja": "もう一度地図を確認すべきですか？" }
+  },
+  {
+    "id": 52606510,
+    "owner": "u5",
+    "english": "Yes to find the correct way.",
+    "translations": { "en": "Yes to find the correct way.", "ja": "はい、正しい道を見つけるために。" }
+  },
+  {
+    "id": 52606511,
+    "owner": "u5",
+    "english": "We must protect our clean river.",
+    "translations": { "en": "We must protect our clean river.", "ja": "私たちはきれいな川を守らなければなりません。" }
+  },
+  {
+    "id": 52606512,
+    "owner": "u5",
+    "english": "He has a lot of homework.",
+    "translations": { "en": "He has a lot of homework.", "ja": "彼は宿題がたくさんあります。" }
+  },
+  {
+    "id": 52606513,
+    "owner": "u5",
+    "english": "She likes to study in library.",
+    "translations": { "en": "She likes to study in library.", "ja": "彼女は図書館で勉強するのが好きです。" }
+  },
+  {
+    "id": 52606514,
+    "owner": "u5",
+    "english": "I am looking for a chair.",
+    "translations": { "en": "I am looking for a chair.", "ja": "私は椅子を探しています。" }
+  },
+  {
+    "id": 52606515,
+    "owner": "u5",
+    "english": "We need to find the truth.",
+    "translations": { "en": "We need to find the truth.", "ja": "私たちは真実を見つける必要があります。" }
+  },
+  {
+    "id": 52606516,
+    "owner": "u5",
+    "english": "Every problem has a clear solution.",
+    "translations": { "en": "Every problem has a clear solution.", "ja": "すべての問題には明確な解決策があります。" }
+  },
+  {
+    "id": 52606517,
+    "owner": "u5",
+    "english": "Follow the logical steps here carefully.",
+    "translations": { "en": "Follow the logical steps here carefully.", "ja": "ここにある論理的なステップに慎重に従ってください。" }
+  },
+  {
+    "id": 52606518,
+    "owner": "u5",
+    "english": "Change is good for our society.",
+    "translations": { "en": "Change is good for our society.", "ja": "変化は私たちの社会にとって良いことです。" }
+  },
+  {
+    "id": 52606519,
+    "owner": "u5",
+    "english": "I understand your great speech now.",
+    "translations": { "en": "I understand your great speech now.", "ja": "あなたの素晴らしいスピーチが今理解できました。" }
+  },
+  {
+    "id": 52606520,
+    "owner": "u5",
+    "english": "Consider the safety rules first here.",
+    "translations": { "en": "Consider the safety rules first here.", "ja": "ここではまず安全規則を考慮してください。" }
+  }
+]
