@@ -3,750 +3,1530 @@
     "id": 12607001,
     "owner": "u1",
     "english": "Can I go in?",
-    "translations": { "en": "Can I go in?", "ja": "（建物や敷地などに）入ってもいいですか？" }
+    "translations": {
+      "ja": "（建物や敷地などに）入ってもいいですか？",
+      "en": "(To buildings or grounds) Can I go in?",
+      "es": "(A edificios o terrenos) ¿Puedo entrar?",
+      "fr": "(Dans des bâtiments ou des terrains) Puis-je entrer ?",
+      "de": "(In Gebäude oder Grundstücke) Kann ich reingehen?",
+      "it": "(In edifici o terreni) Posso entrare?",
+      "ko": "(건물이나 부지 등에) 들어가도 돼요?",
+      "zh-Hans": "（进入建筑物や场地等）我可以进去吗？",
+      "zh-Hant": "（進入建築物或場地等）我可以進去嗎？",
+      "pt-BR": "(Em edifícios ou terrenos) Posso entrar?"
+    }
   },
   {
     "id": 12607002,
     "owner": "u1",
     "english": "Please open this door.",
-    "translations": { "en": "Please open this door.", "ja": "このドアを開けてください。" }
+    "translations": {
+      "ja": "このドアを開けてください。",
+      "en": "Please open this door.",
+      "es": "Por favor, abre esta puerta.",
+      "fr": "S'il te plaît, ouvre cette porte.",
+      "de": "Bitte öffne diese Tür.",
+      "it": "Per favore, apri questa porta.",
+      "ko": "이 문을 열어 주세요.",
+      "zh-Hans": "请打开这扇门。",
+      "zh-Hant": "請打開這扇门。",
+      "pt-BR": "Por favor, abra esta porta."
+    }
   },
   {
     "id": 12607003,
     "owner": "u1",
     "english": "Where is the shop entrance?",
-    "translations": { "en": "Where is the shop entrance?", "ja": "お店の入り口はどこですか？" }
+    "translations": {
+      "ja": "お店の入り口はどこですか？",
+      "en": "Where is the shop entrance?",
+      "es": "¿Dónde está la entrada de la tienda?",
+      "fr": "Où est l'entrée du magasin ?",
+      "de": "Wo ist der Ladeneingang?",
+      "it": "Dov'è l'ingresso del negozio?",
+      "ko": "가게 입구는 어디예요?",
+      "zh-Hans": "商店的入口在哪里？",
+      "zh-Hant": "商店的入口在哪裡？",
+      "pt-BR": "Onde fica a entrada da loja?"
+    }
   },
   {
     "id": 12607004,
     "owner": "u1",
     "english": "Show me your ticket please.",
-    "translations": { "en": "Show me your ticket please.", "ja": "チケットを見せてください。" }
+    "translations": {
+      "ja": "チケットを見せてください。",
+      "en": "Show me your ticket please.",
+      "es": "Muéstrame tu boleto, por favor.",
+      "fr": "Montre-moi ton billet, s'il te plaît.",
+      "de": "Zeige mir bitte dein Ticket.",
+      "it": "Mostrami il tuo biglietto, per favore.",
+      "ko": "표를 보여주세요.",
+      "zh-Hans": "请出示您的票。",
+      "zh-Hant": "請出示您的票。",
+      "pt-BR": "Mostre-me o seu ingresso, por favor."
+    }
   },
   {
     "id": 12607005,
     "owner": "u1",
     "english": "Where can I buy water?",
-    "translations": { "en": "Where can I buy water?", "ja": "水はどこで買えますか？" }
-  },
-  {
-    "id": 12607006,
-    "owner": "u1",
-    "english": "It is ten dollars.",
-    "translations": { "en": "It is ten dollars.", "ja": "それは10ドルです。" }
+    "translations": {
+      "ja": "水はどこで買えますか？",
+      "en": "Where can I buy water?",
+      "es": "¿Dónde puedo comprar agua?",
+      "fr": "Où puis-je acheter de l'eau ?",
+      "de": "Wo kann ich Wasser kaufen?",
+      "it": "Dove posso comprare dell'acqua?",
+      "ko": "물은 어디서 살 수 있나요?",
+      "zh-Hans": "在哪里可以买到水？",
+      "zh-Hant": "在哪裡可以買到水？",
+      "pt-BR": "Onde posso comprar água?"
+    }
   },
   {
     "id": 12607007,
     "owner": "u1",
     "english": "Where is the restroom?",
-    "translations": { "en": "Where is the restroom?", "ja": "お手洗いはどこですか？" }
+    "translations": {
+      "ja": "お手洗いはどこですか？",
+      "en": "Where is the restroom?",
+      "es": "¿Dónde está el baño?",
+      "fr": "Où sont les toilettes ?",
+      "de": "Wo ist die Toilette?",
+      "it": "Dov'è il bagno?",
+      "ko": "화장실이 어디예요?",
+      "zh-Hans": "洗手间在哪里？",
+      "zh-Hant": "洗手間在哪裡？",
+      "pt-BR": "Onde fica o banheiro?"
+    }
   },
   {
     "id": 12607008,
     "owner": "u1",
     "english": "It is behind that wall.",
-    "translations": { "en": "It is behind that wall.", "ja": "あの壁の後ろにあります。" }
+    "translations": {
+      "ja": "あの壁の後ろにあります。",
+      "en": "It is behind that wall.",
+      "es": "Está detrás de esa pared.",
+      "fr": "C'est derrière ce mur.",
+      "de": "Es ist hinter dieser Wand.",
+      "it": "È dietro quel muro.",
+      "ko": "저 벽 뒤에 있어요.",
+      "zh-Hans": "在那个墙后面。",
+      "zh-Hant": "在那個牆後面。",
+      "pt-BR": "Fica atrás daquela parede."
+    }
   },
   {
     "id": 12607009,
     "owner": "u1",
     "english": "Please wait a minute.",
-    "translations": { "en": "Please wait a minute.", "ja": "1分ほどお待ちください。" }
+    "translations": {
+      "ja": "1分ほどお待ちください。",
+      "en": "Please wait a minute.",
+      "es": "Por favor, espera un minuto.",
+      "fr": "Attends un instant, s'il te plaît.",
+      "de": "Bitte warte eine Minute.",
+      "it": "Per favore, aspetta un minuto.",
+      "ko": "잠깐만 기다려 주세요.",
+      "zh-Hans": "请等一下。",
+      "zh-Hant": "請等一下。",
+      "pt-BR": "Por favor, espere um minuto."
+    }
   },
   {
     "id": 12607010,
     "owner": "u1",
     "english": "I need a local map.",
-    "translations": { "en": "I need a local map.", "ja": "地元の地図が必要です。" }
+    "translations": {
+      "ja": "地元の地図が必要です。",
+      "en": "I need a local map.",
+      "es": "Necesito un mapa local.",
+      "fr": "J'ai besoin d'une carte locale.",
+      "de": "Ich brauche einen lokalen Plan.",
+      "it": "Ho bisogno di una mappa locale.",
+      "ko": "지역 지도가 필요해요.",
+      "zh-Hans": "我需要一份当地地图。",
+      "zh-Hant": "我需要一份當地地圖。",
+      "pt-BR": "Preciso de um mapa local."
+    }
   },
   {
     "id": 12607011,
     "owner": "u1",
     "english": "Is this seat free?",
-    "translations": { "en": "Is this seat free?", "ja": "この席は空いていますか？" }
-  },
-  {
-    "id": 12607012,
-    "owner": "u1",
-    "english": "Yes you can sit here.",
-    "translations": { "en": "Yes you can sit here.", "ja": "はい、ここに座ってもいいですよ。" }
+    "translations": {
+      "ja": "この席は空いていますか？",
+      "en": "Is this seat free?",
+      "es": "¿Está libre este asiento?",
+      "fr": "Cette place est-elle libre ?",
+      "de": "Ist dieser Sitzplatz frei?",
+      "it": "Questo posto è libero?",
+      "ko": "이 자리는 비어 있나요?",
+      "zh-Hans": "这个座位是空着的吗？",
+      "zh-Hant": "這個座位是空著的嗎？",
+      "pt-BR": "Este assento está livre?"
+    }
   },
   {
     "id": 12607013,
     "owner": "u1",
     "english": "Where is the train station?",
-    "translations": { "en": "Where is the train station?", "ja": "鉄道の駅はどこですか？" }
-  },
-  {
-    "id": 12607014,
-    "owner": "u1",
-    "english": "Go straight down this street.",
-    "translations": { "en": "Go straight down this street.", "ja": "この道を真っ直ぐ行ってください。" }
+    "translations": {
+      "ja": "鉄道の駅はどこですか？",
+      "en": "Where is the train station?",
+      "es": "¿Dónde está la estación de tren?",
+      "fr": "Où est la gare ferroviaire ?",
+      "de": "Wo ist der Bahnhof?",
+      "it": "Dov'è la stazione ferroviaria?",
+      "ko": "기차역은 어디예요?",
+      "zh-Hans": "火车年在哪里？",
+      "zh-Hant": "火車站在哪裡？",
+      "pt-BR": "Onde fica a estação de tren?"
+    }
   },
   {
     "id": 12607015,
     "owner": "u1",
     "english": "What time does it close?",
-    "translations": { "en": "What time does it close?", "ja": "何時に閉まりますか？" }
-  },
-  {
-    "id": 12607016,
-    "owner": "u1",
-    "english": "It closes at eight p.m.",
-    "translations": { "en": "It closes at eight p.m.", "ja": "午後8時に閉まります。" }
+    "translations": {
+      "ja": "何時に閉まりますか？",
+      "en": "What time does it close?",
+      "es": "¿A qué hora cierra?",
+      "fr": "À quelle heure cela ferme-t-il ?",
+      "de": "Um wie viel Uhr schließt es?",
+      "it": "A che ora chiude?",
+      "ko": "몇 시에 닫나요?",
+      "zh-Hans": "几点关门？",
+      "zh-Hant": "幾點關門？",
+      "pt-BR": "A que horas fecha?"
+    }
   },
   {
     "id": 12607017,
     "owner": "u1",
     "english": "Do you need a bag?",
-    "translations": { "en": "Do you need a bag?", "ja": "袋は必要ですか？" }
+    "translations": {
+      "ja": "袋は必要ですか？",
+      "en": "Do you need a bag?",
+      "es": "¿Necesitas una bolsa?",
+      "fr": "As-tu besoin d'un sac ?",
+      "de": "Brauchst du eine Tüte?",
+      "it": "Hai bisogno di una busta?",
+      "ko": "봉투가 필요하신가요?",
+      "zh-Hans": "你需要袋子吗？",
+      "zh-Hant": "你需要袋子嗎？",
+      "pt-BR": "Você precisa de uma sacola?"
+    }
   },
   {
     "id": 12607018,
     "owner": "u1",
     "english": "No thank you.",
-    "translations": { "en": "No thank you.", "ja": "いいえ、結構です。" }
+    "translations": {
+      "ja": "いいえ、結構です。",
+      "en": "No thank you.",
+      "es": "No, gracias.",
+      "fr": "Non merci.",
+      "de": "Nein, danke.",
+      "it": "No, grazie.",
+      "ko": "아니요, 괜찮습니다.",
+      "zh-Hans": "不用了，谢谢。",
+      "zh-Hant": "不用了，謝謝。",
+      "pt-BR": "Não, obrigado."
+    }
   },
   {
     "id": 12607019,
     "owner": "u1",
     "english": "Help me carry this suitcase.",
-    "translations": { "en": "Help me carry this suitcase.", "ja": "このスーツケースを運ぶのを手伝って。" }
+    "translations": {
+      "ja": "このスーツケースを運ぶのを手伝って。",
+      "en": "Help me carry this suitcase.",
+      "es": "Ayúdame a llevar esta maleta.",
+      "fr": "Aide-moi à porter cette valise.",
+      "de": "Hilf mir, diesen Koffer zu tragen.",
+      "it": "Aiutami a portare questa valigia.",
+      "ko": "이 캐리어 옮기는 것 좀 도와줘요.",
+      "zh-Hans": "帮我拿一下这个手提箱。",
+      "zh-Hant": "幫我拿一下這個手提箱。",
+      "pt-BR": "Ajude-me a carregar esta mala."
+    }
   },
   {
     "id": 12607020,
     "owner": "u1",
     "english": "Everything is all right.",
-    "translations": { "en": "Everything is all right.", "ja": "すべて大丈夫ですよ。" }
-  },
-  {
-    "id": 12607021,
-    "owner": "u1",
-    "english": "Please call a doctor now.",
-    "translations": { "en": "Please call a doctor now.", "ja": "今すぐ医者を呼んでください。" }
+    "translations": {
+      "ja": "すべて大丈夫ですよ。",
+      "en": "Everything is all right.",
+      "es": "Todo está bien.",
+      "fr": "Tout va bien.",
+      "de": "Alles ist in Ordnung.",
+      "it": "Tutto a posto.",
+      "ko": "모두 다 괜찮아요.",
+      "zh-Hans": "一切都很顺利。",
+      "zh-Hant": "一切都很順利。",
+      "pt-BR": "Está tudo bem."
+    }
   },
   {
     "id": 12607022,
     "owner": "u1",
     "english": "I will buy a newspaper.",
-    "translations": { "en": "I will buy a newspaper.", "ja": "私は新聞を買います。" }
+    "translations": {
+      "ja": "私は新聞を買います。",
+      "en": "I will buy a newspaper.",
+      "es": "Compraré un periódico.",
+      "fr": "Je vais acheter un journal.",
+      "de": "Ich werde eine Zeitung kaufen.",
+      "it": "Comprerò un giornale.",
+      "ko": "저는 신문을 살 것입니다.",
+      "zh-Hans": "我会买一份报纸。",
+      "zh-Hant": "我会買一份報紙。",
+      "pt-BR": "Eu vou comprar um jornal."
+    }
   },
   {
     "id": 12607023,
     "owner": "u1",
     "english": "Where is the taxi stand?",
-    "translations": { "en": "Where is the taxi stand?", "ja": "タクシー乗り場はどこですか？" }
+    "translations": {
+      "ja": "タクシー乗り場はどこですか？",
+      "en": "Where is the taxi stand?",
+      "es": "¿Dónde está la parada de taxis?",
+      "fr": "Où est la station de taxi ?",
+      "de": "Wo ist der Taxistand?",
+      "it": "Dov'è il posteggio dei taxi?",
+      "ko": "택시 승강장이 어디예요?",
+      "zh-Hans": "出租车停靠点在哪里？",
+      "zh-Hant": "出租車停靠點在哪裡？",
+      "pt-BR": "Onde fica o ponto de táxi?"
+    }
   },
   {
     "id": 12607024,
     "owner": "u1",
     "english": "Look at that blue sign.",
-    "translations": { "en": "Look at that blue sign.", "ja": "あの青い標識を見て。" }
+    "translations": {
+      "ja": "あの青い標識を見て。",
+      "en": "Look at that blue sign.",
+      "es": "Mira esa señal azul.",
+      "fr": "Regarde ce panneau bleu.",
+      "de": "Schau auf das blaue Schild.",
+      "it": "Guarda quel cartello blu.",
+      "ko": "저 파란 표지판을 봐.",
+      "zh-Hans": "看那个蓝色指示牌。",
+      "zh-Hant": "看那個藍色指示牌。",
+      "pt-BR": "Olhe para aquela placa azul."
+    }
   },
   {
     "id": 12607025,
     "owner": "u1",
     "english": "Welcome to our beautiful hotel.",
-    "translations": { "en": "Welcome to our beautiful hotel.", "ja": "私たちの美しいホテルへようこそ。" }
+    "translations": {
+      "ja": "私たちの美しいホテルへようこそ。",
+      "en": "Welcome to our beautiful hotel.",
+      "es": "Bienvenidos a nuestro hermoso hotel.",
+      "fr": "Bienvenue dans notre bel hôtel.",
+      "de": "Willkommen in unserem schönen Hotel.",
+      "it": "Benvenuti nel nostro bellissimo hotel.",
+      "ko": "아름다운 저희 호텔에 오신 것을 환영합니다.",
+      "zh-Hans": "欢迎光临我们漂亮的酒店。",
+      "zh-Hant": "歡迎光臨我們漂亮的酒店。",
+      "pt-BR": "Bem-vindo ao nosso lindo hotel."
+    }
   },
   {
     "id": 22607001,
     "owner": "u2",
     "english": "Can I come in now?",
-    "translations": { "en": "Can I come in now?", "ja": "（部屋や家などに）今、入ってもいいですか？" }
-  },
-  {
-    "id": 22607002,
-    "owner": "u2",
-    "english": "I want to go inside.",
-    "translations": { "en": "I want to go inside.", "ja": "中に入りたいです。" }
+    "translations": {
+      "ja": "（部屋や家などに）今、入ってもいいですか？",
+      "en": "(To a room or house) Can I come in now?",
+      "es": "(A una habitación o casa) ¿Puedo entrar ahora?",
+      "fr": "(Dans une pièce ou une maison) Puis-je entrer maintenant ?",
+      "de": "(In ein Zimmer oder Haus) Kann ich jetzt reinkommen?",
+      "it": "(In una stanza o in casa) Posso entrare adesso?",
+      "ko": "(방이나 집 등에) 지금 들어가도 될까요?",
+      "zh-Hans": "（进入房间或家等）我现在可以进来吗？",
+      "zh-Hant": "（進入房間或家等）我現在可以進來嗎？",
+      "pt-BR": "(Em um quarto ou casa) Posso entrar agora?"
+    }
   },
   {
     "id": 22607003,
     "owner": "u2",
     "english": "I am glad to hear that.",
-    "translations": { "en": "I am glad to hear that.", "ja": "それを聞けて嬉しいです。" }
+    "translations": {
+      "ja": "それを聞けて嬉しいです。",
+      "en": "I am glad to hear that.",
+      "es": "Me alegra oír eso.",
+      "fr": "Je suis ravi d'entendre cela.",
+      "de": "Ich freue mich, das zu hören.",
+      "it": "Sono felice di sentirlo.",
+      "ko": "그 말을 들으니 기쁘네요.",
+      "zh-Hans": "很高兴听到这个消息。",
+      "zh-Hant": "很高興聽到這個消息。",
+      "pt-BR": "Fico feliz em ouvir isso."
+    }
   },
   {
     "id": 22607004,
     "owner": "u2",
     "english": "We hope to see you.",
-    "translations": { "en": "We hope to see you.", "ja": "あなたにお会いできることを願っています。" }
+    "translations": {
+      "ja": "あなたにお会いできることを願っています。",
+      "en": "We hope to see you.",
+      "es": "Esperamos verte.",
+      "fr": "Nous espérons te voir.",
+      "de": "Wir hoffen, dich zu sehen.",
+      "it": "Speriamo di vederti.",
+      "ko": "만날 수 있기를 바랍니다.",
+      "zh-Hans": "我们希望能见到你。",
+      "zh-Hant": "我們希望能見到你。",
+      "pt-BR": "Esperamos ver você."
+    }
   },
   {
     "id": 22607005,
     "owner": "u2",
     "english": "You can do it easily.",
-    "translations": { "en": "You can do it easily.", "ja": "簡単にできますよ。" }
-  },
-  {
-    "id": 22607006,
-    "owner": "u2",
-    "english": "What are your special plans?",
-    "translations": { "en": "What are your special plans?", "ja": "何か特別な計画はありますか？" }
+    "translations": {
+      "ja": "簡単にできますよ。",
+      "en": "You can do it easily.",
+      "es": "Puedes hacerlo fácilmente.",
+      "fr": "Tu peux le faire facilement.",
+      "de": "Du kannst das ganz einfach machen.",
+      "it": "Puoi farlo facilmente.",
+      "ko": "쉽게 하실 수 있어요.",
+      "zh-Hans": "你可以轻松做到。",
+      "zh-Hant": "你可以輕鬆做到。",
+      "pt-BR": "Você pode fazer isso facilmente."
+    }
   },
   {
     "id": 22607007,
     "owner": "u2",
     "english": "I will make some cookies.",
-    "translations": { "en": "I will make some cookies.", "ja": "私はクッキーをいくつか作るつもりです。" }
-  },
-  {
-    "id": 22607008,
-    "owner": "u2",
-    "english": "I feel a bit tired.",
-    "translations": { "en": "I feel a bit tired.", "ja": "少し疲れた気がします。" }
+    "translations": {
+      "ja": "私はクッキーをいくつか作るつもりです。",
+      "en": "I will make some cookies.",
+      "es": "Haré algunas galletas.",
+      "fr": "Je vais faire des biscuits.",
+      "de": "Ich werde ein paar Kekse backen.",
+      "it": "Farò dei biscotti.",
+      "ko": "과자를 좀 만들 거예요.",
+      "zh-Hans": "我会做一些饼干。",
+      "zh-Hant": "我会做一些餅乾。",
+      "pt-BR": "Eu vou comprar alguns biscoitos."
+    }
   },
   {
     "id": 22607009,
     "owner": "u2",
     "english": "You should sleep early tonight.",
-    "translations": { "en": "You should sleep early tonight.", "ja": "今夜は早く寝るべきですね。" }
+    "translations": {
+      "ja": "今夜は早く寝るべきですね。",
+      "en": "You should sleep early tonight.",
+      "es": "Deberías dormir temprano esta noche.",
+      "fr": "Tu devrais te coucher tôt ce soir.",
+      "de": "Du solltest heute Nacht früh schlafen.",
+      "it": "Dovresti dormire presto stasera.",
+      "ko": "오늘 밤은 일찍 자는 게 좋겠어요.",
+      "zh-Hans": "你今晚应该早点睡。",
+      "zh-Hant": "你今晚應該早點睡。",
+      "pt-BR": "Você deveria dormir cedo hoje à noite."
+    }
   },
   {
     "id": 22607010,
     "owner": "u2",
     "english": "Do you love sweet cakes?",
-    "translations": { "en": "Do you love sweet cakes?", "ja": "甘いケーキは大好きですか？" }
+    "translations": {
+      "ja": "甘いケーキは大好きですか？",
+      "en": "Do you love sweet cakes?",
+      "es": "¿Te encantan los pasteles dulces?",
+      "fr": "Aimes-tu les gâteaux sucrés ?",
+      "de": "Liebst du süße Kuchen?",
+      "it": "Ami i dolci?",
+      "ko": "달콤한 케이크를 아주 좋아하나요?",
+      "zh-Hans": "你非常喜欢甜蛋糕吗？",
+      "zh-Hant": "你非常喜歡甜蛋糕嗎？",
+      "pt-BR": "Você adora bolos doces?"
+    }
   },
   {
     "id": 22607011,
     "owner": "u2",
     "english": "Yes they are very delicious.",
-    "translations": { "en": "Yes they are very delicious.", "ja": "はい、とても美味しいです。" }
+    "translations": {
+      "ja": "はい、とても美味しいです。",
+      "en": "Yes they are very delicious.",
+      "es": "Sí, son muy deliciosos.",
+      "fr": "Oui, ils sont très délicieux.",
+      "de": "Ja, sie sind sehr lecker.",
+      "it": "Sì, sono deliziosi.",
+      "ko": "네, 정말 맛있어요.",
+      "zh-Hans": "是的，非常美味。",
+      "zh-Hant": "是的，非常美味。",
+      "pt-BR": "Sim, eles são uma delícia."
+    }
   },
   {
     "id": 22607012,
     "owner": "u2",
     "english": "Please tell me the reason.",
-    "translations": { "en": "Please tell me the reason.", "ja": "理由を教えてください。" }
+    "translations": {
+      "ja": "理由を教えてください。",
+      "en": "Please tell me the reason.",
+      "es": "Por favor, dime la razón.",
+      "fr": "Dis-moi la raison, s'il te plaît.",
+      "de": "Bitte nenne mir den Grund.",
+      "it": "Per favore, dimmi il motivo.",
+      "ko": "이유를 말씀해 주세요.",
+      "zh-Hans": "请告诉我原因。",
+      "zh-Hant": "請告訴我原因。",
+      "pt-BR": "Por favor, me diga o motivo."
+    }
   },
   {
     "id": 22607013,
     "owner": "u2",
     "english": "I want to change my mind.",
-    "translations": { "en": "I want to change my mind.", "ja": "考えを変えたいのです。" }
-  },
-  {
-    "id": 22607014,
-    "owner": "u2",
-    "english": "We enjoy a bright conversation.",
-    "translations": { "en": "We enjoy a bright conversation.", "ja": "私たちは明るい会話を楽しんでいます。" }
+    "translations": {
+      "ja": "考えを変えたいのです。",
+      "en": "I want to change my mind.",
+      "es": "Quiero cambiar de opinión.",
+      "fr": "Je veux changer d'avis.",
+      "de": "Ich möchte meine Meinung ändern.",
+      "it": "Voglio cambiare idea.",
+      "ko": "생각을 바꾸고 싶어요.",
+      "zh-Hans": "我想改变主意。",
+      "zh-Hant": "我想改變主意。",
+      "pt-BR": "Eu quero mudar de ideia."
+    }
   },
   {
     "id": 22607015,
     "owner": "u2",
     "english": "That sounds like fun.",
-    "translations": { "en": "That sounds like fun.", "ja": "それは楽しそうですね。" }
+    "translations": {
+      "ja": "それは楽しそうですね。",
+      "en": "That sounds like fun.",
+      "es": "Eso suena divertido.",
+      "fr": "Ça a l'air amusant.",
+      "de": "Das klingt nach Spaß.",
+      "it": "Sembra divertente.",
+      "ko": "재미있겠네요.",
+      "zh-Hans": "听起来很有趣。",
+      "zh-Hant": "聽起來很有趣。",
+      "pt-BR": "Isso parece divertido."
+    }
   },
   {
     "id": 22607016,
     "owner": "u2",
     "english": "Are you angry with me?",
-    "translations": { "en": "Are you angry with me?", "ja": "私に怒っていますか？" }
+    "translations": {
+      "ja": "私に怒っていますか？",
+      "en": "Are you angry with me?",
+      "es": "¿Estás enojado conmigo?",
+      "fr": "Es-tu fâché contre moi ?",
+      "de": "Bist du böse auf mich?",
+      "it": "Sei arrabbiato con me?",
+      "ko": "나한테 화났어요?",
+      "zh-Hans": "你生我的气吗？",
+      "zh-Hant": "你生我的氣嗎？",
+      "pt-BR": "Você está bravo comigo?"
+    }
   },
   {
     "id": 22607017,
     "owner": "u2",
     "english": "No I am not angry.",
-    "translations": { "en": "No I am not angry.", "ja": "いいえ、怒っていませんよ。" }
+    "translations": {
+      "ja": "いいえ、怒っていませんよ。",
+      "en": "No I am not angry.",
+      "es": "No, no estoy enojado.",
+      "fr": "Non, je ne suis pas fâché.",
+      "de": "Nein, ich bin nicht böse.",
+      "it": "No, non sono arrabbiato.",
+      "ko": "아니요, 화 안 났어요.",
+      "zh-Hans": "不，我没生气。",
+      "zh-Hant": "不，我沒生氣。",
+      "pt-BR": "Não, não estou bravo."
+    }
   },
   {
     "id": 22607018,
     "owner": "u2",
     "english": "I always trust your choice.",
-    "translations": { "en": "I always trust your choice.", "ja": "私はいつもあなたの選択を信頼しています。" }
+    "translations": {
+      "ja": "私はいつもあなたの選択を信頼しています。",
+      "en": "I always trust your choice.",
+      "es": "Siempre confío en tu elección.",
+      "fr": "Je fais toujours confiance à ton choix.",
+      "de": "Ich vertraue immer deiner Wahl.",
+      "it": "Mi fido sempre della tua scelta.",
+      "ko": "저는 항상 당신의 선택을 믿어요.",
+      "zh-Hans": "我总是相信你的选择。",
+      "zh-Hant": "我總是相信你的選擇。",
+      "pt-BR": "Sempre confio na sua escolha."
+    }
   },
   {
     "id": 22607019,
     "owner": "u2",
     "english": "Thank you for your kindness.",
-    "translations": { "en": "Thank you for your kindness.", "ja": "親切にありがとうございます。" }
-  },
-  {
-    "id": 22607020,
-    "owner": "u2",
-    "english": "I choose the large room.",
-    "translations": { "en": "I choose the large room.", "ja": "私は大きな部屋を選びます。" }
+    "translations": {
+      "ja": "親切にありがとうございます。",
+      "en": "Thank you for your kindness.",
+      "es": "Gracias por tu amabilidad.",
+      "fr": "Merci pour ta gentillesse.",
+      "de": "Danke für deine Freundlichkeit.",
+      "it": "Grazie per la tua gentilezza.",
+      "ko": "친절에 감사드립니다.",
+      "zh-Hans": "谢谢你的好意。",
+      "zh-Hant": "謝謝你的好意。",
+      "pt-BR": "Obrigado por sua gentileza."
+    }
   },
   {
     "id": 22607021,
     "owner": "u2",
     "english": "Let us stay there together.",
-    "translations": { "en": "Let us stay there together.", "ja": "そこに一緒に泊まりましょう。" }
+    "translations": {
+      "ja": "そこに一緒に泊まりましょう。",
+      "en": "Let us stay there together.",
+      "es": "Quedémonos allí juntos.",
+      "fr": "Restons-y ensemble.",
+      "de": "Lass uns dort zusammen bleiben.",
+      "it": "Alloggiamo lì insieme.",
+      "ko": "거기에 함께 묵읍시다.",
+      "zh-Hans": "我们一起住在那里吧。",
+      "zh-Hant": "我們一起住在那裡吧。",
+      "pt-BR": "Vamos ficar lá juntos."
+    }
   },
   {
     "id": 22607022,
     "owner": "u2",
     "english": "I look forward to tomorrow.",
-    "translations": { "en": "I look forward to tomorrow.", "ja": "明日を楽しみにしています。" }
+    "translations": {
+      "ja": "明日を楽しみにしています。",
+      "en": "I look forward to tomorrow.",
+      "es": "Espero con ansias el mañana.",
+      "fr": "J'attends demain avec impatience.",
+      "de": "Ich freue mich auf morgen.",
+      "it": "Non vedo l'ora che sia domani.",
+      "ko": "내일이 기대되네요.",
+      "zh-Hans": "我期待着明天。",
+      "zh-Hant": "我期待著明天。",
+      "pt-BR": "Estou ansioso pelo amanhã."
+    }
   },
   {
     "id": 22607023,
     "owner": "u2",
     "english": "I am so happy today.",
-    "translations": { "en": "I am so happy today.", "ja": "今日はとても幸せです。" }
+    "translations": {
+      "ja": "今日はとても幸せです。",
+      "en": "I am so happy today.",
+      "es": "Estoy muy feliz hoy.",
+      "fr": "Je suis si heureux aujourd'hui.",
+      "de": "Ich bin heute so glücklich.",
+      "it": "Sono così felice oggi.",
+      "ko": "오늘 정말 행복해요.",
+      "zh-Hans": "今天我太开心了。",
+      "zh-Hant": "今天我太開心了。",
+      "pt-BR": "Estou tão feliz hoje."
+    }
   },
   {
     "id": 22607024,
     "owner": "u2",
     "english": "Do you like orange juice?",
-    "translations": { "en": "Do you like orange juice?", "ja": "オレンジジュースは好きですか？" }
+    "translations": {
+      "ja": "オレンジジュースは好きですか？",
+      "en": "Do you like orange juice?",
+      "es": "¿Te gusta el jugo de naranja?",
+      "fr": "Aimes-tu le jus d'orange ?",
+      "de": "Magst du Orangensaft?",
+      "it": "Ti piace il succo d'arancia?",
+      "ko": "오렌지 주스를 좋아하나요?",
+      "zh-Hans": "你喜欢橙汁吗？",
+      "zh-Hant": "你喜歡橙汁嗎？",
+      "pt-BR": "Você gosta de suco de laranja?"
+    }
   },
   {
     "id": 22607025,
     "owner": "u2",
     "english": "Please explain your true feelings.",
-    "translations": { "en": "Please explain your true feelings.", "ja": "あなたの本当の気持ちを説明してください。" }
-  },
-  {
-    "id": 32607001,
-    "owner": "u3",
-    "english": "Visitors always go inside the museum.",
-    "translations": { "en": "Visitors always go inside the museum.", "ja": "訪問客はいつも博物館の中に入ります。" }
-  },
-  {
-    "id": 32607002,
-    "owner": "u3",
-    "english": "Many citizens clean the central park.",
-    "translations": { "en": "Many citizens clean the central park.", "ja": "多くの市民が中央公園を掃除します。" }
-  },
-  {
-    "id": 32607003,
-    "owner": "u3",
-    "english": "The city library offers useful books.",
-    "translations": { "en": "The city library offers useful books.", "ja": "市立図書館は役に立つ本を提供しています。" }
-  },
-  {
-    "id": 32607004,
-    "owner": "u3",
-    "english": "They follow the local traffic rules.",
-    "translations": { "en": "They follow the local traffic rules.", "ja": "彼らは地元の交通規則に従います。" }
-  },
-  {
-    "id": 32607005,
-    "owner": "u3",
-    "english": "We create a small community group.",
-    "translations": { "en": "We create a small community group.", "ja": "私たちは小さなコミュニティグループを作ります。" }
-  },
-  {
-    "id": 32607006,
-    "owner": "u3",
-    "english": "People share information on the website.",
-    "translations": { "en": "People share information on the website.", "ja": "人々はウェブサイト上で情報を共有します。" }
-  },
-  {
-    "id": 32607007,
-    "owner": "u3",
-    "english": "Our neighbors welcome new families warmly.",
-    "translations": { "en": "Our neighbors welcome new families warmly.", "ja": "近所の人たちは新しい家族を温かく歓迎します。" }
-  },
-  {
-    "id": 32607008,
-    "owner": "u3",
-    "english": "Children join the local summer festival.",
-    "translations": { "en": "Children join the local summer festival.", "ja": "子供たちは地元の夏祭りに参加します。" }
-  },
-  {
-    "id": 32607009,
-    "owner": "u3",
-    "english": "The village has a dynamic history.",
-    "translations": { "en": "The village has a dynamic history.", "ja": "その村には活気のある歴史があります。" }
-  },
-  {
-    "id": 32607010,
-    "owner": "u3",
-    "english": "Volunteers paint the public school walls.",
-    "translations": { "en": "Volunteers paint the public school walls.", "ja": "ボランティアが公立学校の壁を塗ります。" }
-  },
-  {
-    "id": 32607011,
-    "owner": "u3",
-    "english": "Drivers reduce speed near the gate.",
-    "translations": { "en": "Drivers reduce speed near the gate.", "ja": "運転手は門の近くで速度を落とします。" }
-  },
-  {
-    "id": 32607012,
-    "owner": "u3",
-    "english": "They plant young trees every spring.",
-    "translations": { "en": "They plant young trees every spring.", "ja": "彼らは毎年春に若い木を植えます。" }
-  },
-  {
-    "id": 32607013,
-    "owner": "u3",
-    "english": "The town hall opens on Saturday.",
-    "translations": { "en": "The town hall opens on Saturday.", "ja": "町役場は土曜日に開いています。" }
-  },
-  {
-    "id": 32607014,
-    "owner": "u3",
-    "english": "Members discuss the village project tonight.",
-    "translations": { "en": "Members discuss the village project tonight.", "ja": "メンバーは今夜、村のプロジェクトについて話し合います。" }
-  },
-  {
-    "id": 32607015,
-    "owner": "u3",
-    "english": "The local store sells fresh vegetables.",
-    "translations": { "en": "The local store sells fresh vegetables.", "ja": "地元の店は新鮮な野菜を売っています。" }
-  },
-  {
-    "id": 32607016,
-    "owner": "u3",
-    "english": "We build a safe play area.",
-    "translations": { "en": "We build a safe play area.", "ja": "私たちは安全な遊び場を作ります。" }
-  },
-  {
-    "id": 32607017,
-    "owner": "u3",
-    "english": "The area guide helps many tourists.",
-    "translations": { "en": "The area guide helps many tourists.", "ja": "地域のガイドが多くの観光客を助けます。" }
-  },
-  {
-    "id": 32607018,
-    "owner": "u3",
-    "english": "Students visit the regional history museum.",
-    "translations": { "en": "Students visit the regional history museum.", "ja": "学生たちは地域の歴史博物館を訪れます。" }
-  },
-  {
-    "id": 32607019,
-    "owner": "u3",
-    "english": "The post office serves the community.",
-    "translations": { "en": "The post office serves the community.", "ja": "郵便局は地域社会に貢献しています。" }
-  },
-  {
-    "id": 32607020,
-    "owner": "u3",
-    "english": "People gather to sing traditional songs.",
-    "translations": { "en": "People gather to sing traditional songs.", "ja": "人々は伝統的な歌を歌うために集まります。" }
-  },
-  {
-    "id": 32607021,
-    "owner": "u3",
-    "english": "Everyone protects our clean mountain roads.",
-    "translations": { "en": "Everyone protects our clean mountain roads.", "ja": "誰もがきれいで山沿いの道路を守ります。" }
-  },
-  {
-    "id": 32607022,
-    "owner": "u3",
-    "english": "Passengers purchase tickets before the ride.",
-    "translations": { "en": "Passengers purchase tickets before the ride.", "ja": "乗客は乗車前に切符を購入します。" }
-  },
-  {
-    "id": 32607023,
-    "owner": "u3",
-    "english": "The local government protects green forests.",
-    "translations": { "en": "The local government protects green forests.", "ja": "地方政府は緑豊かな森林を保護します。" }
-  },
-  {
-    "id": 32607024,
-    "owner": "u3",
-    "english": "People walk to reduce carbon emissions.",
-    "translations": { "en": "People walk to reduce carbon emissions.", "ja": "人々は炭素排出を減らすために歩きます。" }
-  },
-  {
-    "id": 32607025,
-    "owner": "u3",
-    "english": "Our leader guides the team safely.",
-    "translations": { "en": "Our leader guides the team safely.", "ja": "私たちのリーダーはチームを安全に導きます。" }
-  },
-  {
-    "id": 42607001,
-    "owner": "u4",
-    "english": "Scientists verify who can go inside safely.",
-    "translations": { "en": "Scientists verify who can go inside safely.", "ja": "科学者は誰が安全に中に入れるかを検証します。" }
-  },
-  {
-    "id": 42607002,
-    "owner": "u4",
-    "english": "Scientists analyze data to find facts.",
-    "translations": { "en": "Scientists analyze data to find facts.", "ja": "科学者は事実を見つけるためにデータを分析します。" }
-  },
-  {
-    "id": 42607003,
-    "owner": "u4",
-    "english": "This clear chart shows our growth.",
-    "translations": { "en": "This clear chart shows our growth.", "ja": "この明確な図表は私たちの成長を示しています。" }
-  },
-  {
-    "id": 42607004,
-    "owner": "u4",
-    "english": "We compare different methods to decide.",
-    "translations": { "en": "We compare different methods to decide.", "ja": "私たちは決定するために異なる方法を比較します。" }
-  },
-  {
-    "id": 42607005,
-    "owner": "u4",
-    "english": "The research explains the main reason.",
-    "translations": { "en": "The research explains the main reason.", "ja": "その研究は主な理由を説明しています。" }
-  },
-  {
-    "id": 42607006,
-    "owner": "u4",
-    "english": "Logical thinking leads to right solutions.",
-    "translations": { "en": "Logical thinking leads to right solutions.", "ja": "論理的な思考は正しい解決策へと導きます。" }
-  },
-  {
-    "id": 42607007,
-    "owner": "u4",
-    "english": "The report highlights the global market trend.",
-    "translations": { "en": "The report highlights the global market trend.", "ja": "その報告書は世界的な市場の傾向を強調しています。" }
-  },
-  {
-    "id": 42607008,
-    "owner": "u4",
-    "english": "We must discover the hidden cause.",
-    "translations": { "en": "We must discover the hidden cause.", "ja": "私たちは隠された原因を発見しなければなりません。" }
-  },
-  {
-    "id": 42607009,
-    "owner": "u4",
-    "english": "Arguments require strong evidence to win.",
-    "translations": { "en": "Arguments require strong evidence to win.", "ja": "議論で勝つには強力な証拠が必要です。" }
-  },
-  {
-    "id": 42607010,
-    "owner": "u4",
-    "english": "The structure forms a beautiful pattern.",
-    "translations": { "en": "The structure forms a beautiful pattern.", "ja": "その構造は美しいパターンを形成しています。" }
-  },
-  {
-    "id": 42607011,
-    "owner": "u4",
-    "english": "Education builds a foundation for children.",
-    "translations": { "en": "Education builds a foundation for children.", "ja": "教育は子供たちのための基礎を築きます。" }
-  },
-  {
-    "id": 42607012,
-    "owner": "u4",
-    "english": "They examine the theory inside laboratory.",
-    "translations": { "en": "They examine the theory inside laboratory.", "ja": "彼らは研究室の中でその理論を検証します。" }
-  },
-  {
-    "id": 42607013,
-    "owner": "u4",
-    "english": "Simple ideas solve complex problems easily.",
-    "translations": { "en": "Simple ideas solve complex problems easily.", "ja": "単純なアイデアが複雑な問題を簡単に解決します。" }
-  },
-  {
-    "id": 42607014,
-    "owner": "u4",
-    "english": "This book provides academic knowledge clearly.",
-    "translations": { "en": "This book provides academic knowledge clearly.", "ja": "この本は学術的な知識を明確に提供しています。" }
-  },
-  {
-    "id": 42607015,
-    "owner": "u4",
-    "english": "Nature balances the environment over time.",
-    "translations": { "en": "Nature balances the environment over time.", "ja": "自然は時間をかけて環境のバランスを保ちます。" }
-  },
-  {
-    "id": 42607016,
-    "owner": "u4",
-    "english": "The writer describes the human society.",
-    "translations": { "en": "The writer describes the human society.", "ja": "その作家は人間社会を描写しています。" }
-  },
-  {
-    "id": 42607017,
-    "owner": "u4",
-    "english": "We notice a significant difference today.",
-    "translations": { "en": "We notice a significant difference today.", "ja": "私たちは今日、重大な違いに気づいています。" }
-  },
-  {
-    "id": 42607018,
-    "owner": "u4",
-    "english": "The project needs a precise calculation.",
-    "translations": { "en": "The project needs a precise calculation.", "ja": "そのプロジェクトには正確な計算が必要です。" }
-  },
-  {
-    "id": 42607019,
-    "owner": "u4",
-    "english": "Statistics reveal the real truth sometimes.",
-    "translations": { "en": "Statistics reveal the real truth sometimes.", "ja": "統計は時として本物の真実を明らかにします。" }
-  },
-  {
-    "id": 42607020,
-    "owner": "u4",
-    "english": "We evaluate the final outcome carefully.",
-    "translations": { "en": "We evaluate the final outcome carefully.", "ja": "私たちは最終的な成果を慎重に評価します。" }
-  },
-  {
-    "id": 42607021,
-    "owner": "u4",
-    "english": "Experts observe individual reactions during tests.",
-    "translations": { "en": "Experts observe individual reactions during tests.", "ja": "専門家はテスト中に個々の反応を観察します。" }
-  },
-  {
-    "id": 42607022,
-    "owner": "u4",
-    "english": "This formula provides a standard baseline.",
-    "translations": { "en": "This formula provides a standard baseline.", "ja": "この公式は標準的な基準線を提供します。" }
-  },
-  {
-    "id": 42607023,
-    "owner": "u4",
-    "english": "The strategy targets a unique demographic.",
-    "translations": { "en": "The strategy targets a unique demographic.", "ja": "その戦略は独自の層を対象にしています。" }
-  },
-  {
-    "id": 42607024,
-    "owner": "u4",
-    "english": "Continuous practice ensures an excellent achievement.",
-    "translations": { "en": "Continuous practice ensures an excellent achievement.", "ja": "継続的な練習が優れた成果を確実にします。" }
-  },
-  {
-    "id": 42607025,
-    "owner": "u4",
-    "english": "The system monitors separate conditions automatically.",
-    "translations": { "en": "The system monitors separate conditions automatically.", "ja": "そのシステムは別々の条件を自動的に監視します。" }
-  },
-  {
-    "id": 52607001,
-    "owner": "u5",
-    "english": "I need a safe building to enter.",
-    "translations": { "en": "I need a safe building to enter.", "ja": "私は入るための安全な建物が必要です。" }
-  },
-  {
-    "id": 52607002,
-    "owner": "u5",
-    "english": "I have an interesting book to read.",
-    "translations": { "en": "I have an interesting book to read.", "ja": "私は読むべきおもしろい本を持っています。" }
-  },
-  {
-    "id": 52607003,
-    "owner": "u5",
-    "english": "There are many things to do.",
-    "translations": { "en": "There are many things to do.", "ja": "するべきことがたくさんあります。" }
-  },
-  {
-    "id": 52607004,
-    "owner": "u5",
-    "english": "He went to Tokyo to study.",
-    "translations": { "en": "He went to Tokyo to study.", "ja": "彼は勉強するために東京へ行きました。" }
-  },
-  {
-    "id": 52607005,
-    "owner": "u5",
-    "english": "We visit the museum to learn.",
-    "translations": { "en": "We visit the museum to learn.", "ja": "私たちは学ぶために博物館を訪れます。" }
-  },
-  {
-    "id": 52607006,
-    "owner": "u5",
-    "english": "I am happy to help everyone.",
-    "translations": { "en": "I am happy to help everyone.", "ja": "皆さんを助けることができて嬉しいです。" }
-  },
-  {
-    "id": 52607007,
-    "owner": "u5",
-    "english": "She was surprised to see it.",
-    "translations": { "en": "She was surprised to see it.", "ja": "彼女はそれを見て驚きました。" }
-  },
-  {
-    "id": 52607008,
-    "owner": "u5",
-    "english": "We want something cold to eat.",
-    "translations": { "en": "We want something cold to eat.", "ja": "私たちは何か冷たい食べ物が欲しいです。" }
-  },
-  {
-    "id": 52607009,
-    "owner": "u5",
-    "english": "Is there any water to drink?",
-    "translations": { "en": "Is there any water to drink?", "ja": "飲むための水はありますか？" }
-  },
-  {
-    "id": 52607010,
-    "owner": "u5",
-    "english": "I need a large bag to carry.",
-    "translations": { "en": "I need a large bag to carry.", "ja": "私は運ぶための大きなバッグが必要です。" }
-  },
-  {
-    "id": 52607011,
-    "owner": "u5",
-    "english": "They ran to catch the train.",
-    "translations": { "en": "They ran to catch the train.", "ja": "彼らは電車に間に合うように走りました。" }
-  },
-  {
-    "id": 52607012,
-    "owner": "u5",
-    "english": "I want a good dictionary to check.",
-    "translations": { "en": "I want a good dictionary to check.", "ja": "私は調べるための良い辞書が欲しいです。" }
-  },
-  {
-    "id": 52607013,
-    "owner": "u5",
-    "english": "He has no time to play.",
-    "translations": { "en": "He has no time to play.", "ja": "彼には遊ぶ時間がありません。" }
-  },
-  {
-    "id": 52607014,
-    "owner": "u5",
-    "english": "We use a phone to communicate.",
-    "translations": { "en": "We use a phone to communicate.", "ja": "私たちは連絡を取り合うために電話を使います。" }
-  },
-  {
-    "id": 52607015,
-    "owner": "u5",
-    "english": "She is glad to read stories.",
-    "translations": { "en": "She is glad to read stories.", "ja": "彼女は物語を読むことができて喜んでいます。" }
-  },
-  {
-    "id": 52607016,
-    "owner": "u5",
-    "english": "Is there any seat to use?",
-    "translations": { "en": "Is there any seat to use?", "ja": "使うための座席はありますか？" }
-  },
-  {
-    "id": 52607017,
-    "owner": "u5",
-    "english": "I need a black pen to write.",
-    "translations": { "en": "I need a black pen to write.", "ja": "私は書くための黒いペンが必要です。" }
-  },
-  {
-    "id": 52607018,
-    "owner": "u5",
-    "english": "They wake up early to practice.",
-    "translations": { "en": "They wake up early to practice.", "ja": "彼らは練習するために朝早く起きます。" }
-  },
-  {
-    "id": 52607019,
-    "owner": "u5",
-    "english": "I was excited to hear news.",
-    "translations": { "en": "I was excited to hear news.", "ja": "私はニュースを聞いてワクワクしました。" }
-  },
-  {
-    "id": 52607020,
-    "owner": "u5",
-    "english": "We want a safe space to gather.",
-    "translations": { "en": "We want a safe space to gather.", "ja": "私たちは集まるための安全な場所が欲しいです。" }
-  },
-  {
-    "id": 52607021,
-    "owner": "u5",
-    "english": "He needs a sharp knife to cut.",
-    "translations": { "en": "He needs a sharp knife to cut.", "ja": "彼は切るための鋭いナイフが必要です。" }
-  },
-  {
-    "id": 52607022,
-    "owner": "u5",
-    "english": "Is there any novel to read?",
-    "translations": { "en": "Is there any novel to read?", "ja": "何か読むべき小説はありますか？" }
-  },
-  {
-    "id": 52607023,
-    "owner": "u5",
-    "english": "I buy a safe car to drive.",
-    "translations": { "en": "I buy a safe car to drive.", "ja": "私は運転するための安全な車を買います。" }
-  },
-  {
-    "id": 52607024,
-    "owner": "u5",
-    "english": "We need a spacious room to talk.",
-    "translations": { "en": "We need a spacious room to talk.", "ja": "私たちは話すための広い部屋が必要です。" }
-  },
-  {
-    "id": 52607025,
-    "owner": "u5",
-    "english": "I am proud to join your team.",
-    "translations": { "en": "I am proud to join your team.", "ja": "あなたのチームに参加できて誇りに思います。" }
-  }
+    "translations": {
+      "ja": "あなたの本当の気持ちを説明してください。",
+      "en": "Please explain your true feelings.",
+      "es": "Por favor, explica tus verdaderos sentimientos.",
+      "fr": "Explique tes vrais sentiments, s'il te plaît.",
+      "de": "Bitte erkläre deine wahren Gefühle.",
+      "it": "Per favore, spiega i tuoi veri sentimenti.",
+      "ko": "진심을 설명해 주세요.",
+      "zh-Hans": "请解释你的真实感受。",
+      "zh-Hant": "請解釋你的真實感受。",
+      "pt-BR": "Por favor, explique seus verdadeiros sentimentos."
+    }
+  },
+  {
+      "id": 32607001,
+      "owner": "u3",
+      "english": "Visitors always go inside the museum.",
+      "translations": {
+        "ja": "訪問客はいつも博物館の中に入ります。",
+        "en": "Visitors always go inside the museum.",
+        "es": "Los visitantes siempre entran al museo.",
+        "fr": "Les visiteurs entrent toujours dans le musée.",
+        "de": "Besucher gehen immer in das Museum.",
+        "it": "I visitatori entrano sempre nel museo.",
+        "ko": "방문객들은 항상 박물관 내부로 들어갑니다.",
+        "zh-Hans": "游客总是走进博物馆内部。",
+        "zh-Hant": "遊客總是走進博物館內部。",
+        "pt-BR": "Os visitantes sempre entram no museu."
+      }
+    },
+    {
+      "id": 32607002,
+      "owner": "u3",
+      "english": "Many citizens clean the central park.",
+      "translations": {
+        "ja": "多くの市民が中央公園を掃除します。",
+        "en": "Many citizens clean the central park.",
+        "es": "Muchos ciudadanos limpian el parque central.",
+        "fr": "De nombreux citoyens nettoient le parc central.",
+        "de": "Viele Bürger reinigen den Stadtpark.",
+        "it": "Molti cittadini puliscono il parco centrale.",
+        "ko": "많은 시민들이 중앙 공원을 청소합니다.",
+        "zh-Hans": "许多市民清洁中央公园。",
+        "zh-Hant": "許多市民清潔中央公园。",
+        "pt-BR": "Muitos cidadãos limpam o parque central."
+      }
+    },
+    {
+      "id": 32607004,
+      "owner": "u3",
+      "english": "They follow the local traffic rules.",
+      "translations": {
+        "ja": "彼らは地元の交通規則に従います。",
+        "en": "They follow the local traffic rules.",
+        "es": "Ellos siguen las normas de tráfico locales.",
+        "fr": "Ils suivent les règles de circulation locales.",
+        "de": "Sie befolgen die örtlichen Verkehrsregeln.",
+        "it": "Seguono le regole del traffico locali.",
+        "ko": "그들은 지역 교통 규칙을 따릅니다.",
+        "zh-Hans": "他们遵守当地的交通规则。",
+        "zh-Hant": "他們遵守當地的交通規則。",
+        "pt-BR": "Eles seguem as leis de trânsito locais."
+      }
+    },
+    {
+      "id": 32607005,
+      "owner": "u3",
+      "english": "We create a small community group.",
+      "translations": {
+        "ja": "私たちは小さなコミュニティグループを作ります。",
+        "en": "We create a small community group.",
+        "es": "Creamos un pequeño grupo comunitario.",
+        "fr": "Nous créons un petit groupe communautaire.",
+        "de": "Wir gründen eine kleine Gemeinschaftsgruppe.",
+        "it": "Creiamo un piccolo gruppo comunitario.",
+        "ko": "우리는 작은 지역사회 그룹을 만듭니다.",
+        "zh-Hans": "我们建立一个小型的社区团体。",
+        "zh-Hant": "我們建立一個小型的社區團體。",
+        "pt-BR": "Nós criamos um pequeno grupo comunitário."
+      }
+    },
+    {
+      "id": 32607006,
+      "owner": "u3",
+      "english": "People share information on the website.",
+      "translations": {
+        "ja": "人々はウェブサイト上で情報を共有します。",
+        "en": "People share information on the website.",
+        "es": "La gente comparte información en el sitio web.",
+        "fr": "Les gens partagent des informations sur le site web.",
+        "de": "Die Leute teilen Informationen auf der Website.",
+        "it": "Le persone condividono informazioni sul sito web.",
+        "ko": "사람들은 웹사이트에서 정보를 공유합니다.",
+        "zh-Hans": "人们在网站上分享信息。",
+        "zh-Hant": "人們在網站上分享信息。",
+        "pt-BR": "As pessoas compartilham informações no site."
+      }
+    },
+    {
+      "id": 32607007,
+      "owner": "u3",
+      "english": "Our neighbors welcome new families warmly.",
+      "translations": {
+        "ja": "近所の人たちは新しい家族を温かく歓迎します。",
+        "en": "Our neighbors welcome new families warmly.",
+        "es": "Nuestros vecinos reciben a las nuevas familias calurosamente.",
+        "fr": "Nos voisins accueillent chaleureusement les nouvelles familles.",
+        "de": "Unsere Nachbarn heißen neue Familien herzlich willkommen.",
+        "it": "I nostri vicini accolgono calorosamente le nuove famiglie.",
+        "ko": "우리 이웃들은 새로운 가족들을 따뜻하게 맞이합니다.",
+        "zh-Hans": "我们的邻居热情欢迎新搬来的家庭。",
+        "zh-Hant": "我們的鄰居熱情歡迎新搬來的家庭。",
+        "pt-BR": "Nossos vizinhos recebem as novas famílias calorosamente."
+      }
+    },
+    {
+      "id": 32607008,
+      "owner": "u3",
+      "english": "Children join the local summer festival.",
+      "translations": {
+        "ja": "子供たちは地元の夏祭りに参加します。",
+        "en": "Children join the local summer festival.",
+        "es": "Los niños se unen al festival de verano local.",
+        "fr": "Les enfants participent au festival d'été local.",
+        "de": "Kinder nehmen am örtlichen Sommerfest teil.",
+        "it": "I bambini partecipano al festival estivo locale.",
+        "ko": "아이들은 지역 여름 축제에 참여합니다.",
+        "zh-Hans": "孩子们参加当地的夏日祭典。",
+        "zh-Hant": "孩子們參加當地的夏日祭典。",
+        "pt-BR": "As crianças participam do festival de verão local."
+      }
+    },
+    {
+      "id": 32607012,
+      "owner": "u3",
+      "english": "They plant young trees every spring.",
+      "translations": {
+        "ja": "彼らは毎年春に若い木を植えます。",
+        "en": "They plant young trees every spring.",
+        "es": "Ellos plantan árboles jóvenes cada primavera.",
+        "fr": "Ils plantent de jeunes arbres chaque printemps.",
+        "de": "Sie pflanzen jeden Frühling junge Bäume.",
+        "it": "Piantano alberi giovani ogni primavera.",
+        "ko": "그들은 매년 봄에 어린 나무를 심습니다.",
+        "zh-Hans": "他们每年春天都种植树苗。",
+        "zh-Hant": "他們每年春天都種植樹苗。",
+        "pt-BR": "Eles plantam árvores jovens a cada primavera."
+      }
+    },
+    {
+      "id": 32607013,
+      "owner": "u3",
+      "english": "The town hall opens on Saturday.",
+      "translations": {
+        "ja": "町役場は土曜日に開いています。",
+        "en": "The town hall opens on Saturday.",
+        "es": "El ayuntamiento abre los sábados.",
+        "fr": "La mairie est ouverte le samedi.",
+        "de": "Das Rathaus öffnet am Samstag.",
+        "it": "Il municipio è aperto il sabato.",
+        "ko": "시청은 토요일에 문을 엽니다.",
+        "zh-Hans": "市政厅周六也营业。",
+        "zh-Hant": "市政廳週六也營業。",
+        "pt-BR": "A prefeitura abre aos sábados."
+      }
+    },
+    {
+      "id": 32607014,
+      "owner": "u3",
+      "english": "Members discuss the village project tonight.",
+      "translations": {
+        "ja": "メンバーは今夜、村のプロジェクトについて話し合います。",
+        "en": "Members discuss the village project tonight.",
+        "es": "Los miembros discuten el proyecto del pueblo esta noche.",
+        "fr": "Les membres discutent du projet du village ce soir.",
+        "de": "Die Mitglieder besprechen heute Abend das Dorfprojekt.",
+        "it": "I membri discutono del progetto del villaggio stasera.",
+        "ko": "회원들은 오늘 밤 마을 프로젝트에 대해 논의합니다.",
+        "zh-Hans": "成员们今晚讨论村庄的企划。",
+        "zh-Hant": "成員們今晚討論村莊的企劃。",
+        "pt-BR": "Os membros discutem o projeto da vila hoje à noite."
+      }
+    },
+    {
+      "id": 32607015,
+      "owner": "u3",
+      "english": "The local store sells fresh vegetables.",
+      "translations": {
+        "ja": "地元の店は新鮮な野菜を売っています。",
+        "en": "The local store sells fresh vegetables.",
+        "es": "La tienda local vende verduras frescas.",
+        "fr": "Le magasin local vend des légumes frais.",
+        "de": "Der örtliche Laden verkauft frisches Gemüse.",
+        "it": "Il negozio locale vende verdure fresche.",
+        "ko": "동네 상점에서는 신선한 채소를 팝니다.",
+        "zh-Hans": "当地的商店出售新鲜蔬菜。",
+        "zh-Hant": "當地的商店出售新鮮蔬菜。",
+        "pt-BR": "A loja local vende verduras frescas."
+      }
+    },
+    {
+      "id": 32607016,
+      "owner": "u3",
+      "english": "We build a safe play area.",
+      "translations": {
+        "ja": "私たちは安全な遊び場を作ります。",
+        "en": "We build a safe play area.",
+        "es": "Construimos una zona de juegos segura.",
+        "fr": "Nous construisons une aire de jeux sécurisée.",
+        "de": "Wir bauen einen sicheren Spielbereich.",
+        "it": "Costruiamo un'area giochi sicura.",
+        "ko": "우리는 안전한 놀이 공간을 만듭니다.",
+        "zh-Hans": "我们建造一个安全的活动区。",
+        "zh-Hant": "我們建造一個安全的活動區。",
+        "pt-BR": "Nós construímos uma área de lazer segura."
+      }
+    },
+    {
+      "id": 32607017,
+      "owner": "u3",
+      "english": "The area guide helps many tourists.",
+      "translations": {
+        "ja": "地域のガイドが多くの観光客を助けます。",
+        "en": "The area guide helps many tourists.",
+        "es": "El guía de la zona ayuda a muchos turistas.",
+        "fr": "Le guide de la région aide de nombreux touristes.",
+        "de": "Der Regionalführer hilft vielen Touristen.",
+        "it": "La guida locale aiuta molti turisti.",
+        "ko": "지역 가이드가 많은 관광객들에게 도움을 줍니다.",
+        "zh-Hans": "地区导游为许多游客提供帮助。",
+        "zh-Hant": "地區導遊為許多遊客提供幫助。",
+        "pt-BR": "O guia local ajuda muitos turistas."
+      }
+    },
+    {
+      "id": 32607018,
+      "owner": "u3",
+      "english": "Students visit the regional history museum.",
+      "translations": {
+        "ja": "学生たちは地域の歴史博物館を訪れます。",
+        "en": "Students visit the regional history museum.",
+        "es": "Los estudiantesita el museo de historia regional.",
+        "fr": "Les étudiants visitent le musée d'histoire régionale.",
+        "de": "Schüler besuchen das regionale Historische Museum.",
+        "it": "Gli studenti visitano il museo di storia regionale.",
+        "ko": "학생들은 지역 역사 박물관을 방문합니다.",
+        "zh-Hans": "学生们参观地方历史博物馆。",
+        "zh-Hant": "學生們參觀地方歷史博物館。",
+        "pt-BR": "Os estudantes visitam o museu de história regional."
+      }
+    },
+    {
+      "id": 32607019,
+      "owner": "u3",
+      "english": "The post office serves the community.",
+      "translations": {
+        "ja": "郵便局は地域社会に貢献しています。",
+        "en": "The post office serves the community.",
+        "es": "La oficina de correos sirve a la comunidad.",
+        "fr": "Le bureau de poste sert la communauté.",
+        "de": "Das Postamt bedient die Gemeinde.",
+        "it": "L'ufficio postale serve la comunità.",
+        "ko": "우체국은 지역 사회에 서비스를 제공합니다.",
+        "zh-Hans": "邮局为社区全体成员服务。",
+        "zh-Hant": "郵局為社區全體成員服務。",
+        "pt-BR": "Os correios atendem a comunidade."
+      }
+    },
+    {
+      "id": 32607020,
+      "owner": "u3",
+      "english": "People gather to sing traditional songs.",
+      "translations": {
+        "ja": "人々は伝統的な歌を歌うために集まります。",
+        "en": "People gather to sing traditional songs.",
+        "es": "La gente se reúne para cantar canciones tradicionales.",
+        "fr": "Les gens se rassemblent pour chanter des chansons traditionnelles.",
+        "de": "Menschen kommen zusammen, um traditionelle Lieder zu singen.",
+        "it": "Le persone si radunano per cantare canzoni tradizionali.",
+        "ko": "사람들은 전통 노래를 부르기 위해 모입니다.",
+        "zh-Hans": "人们聚集在一起唱传统歌曲。",
+        "zh-Hant": "人們聚集在一起唱傳統歌曲。",
+        "pt-BR": "As pessoas se reúnem para cantar músicas tradicionais."
+      }
+    },
+    {
+      "id": 32607024,
+      "owner": "u3",
+      "english": "People walk to reduce carbon emissions.",
+      "translations": {
+        "ja": "人々は炭素排出を減らすために歩きます。",
+        "en": "People walk to reduce carbon emissions.",
+        "es": "La gente camina para reducir las emisiones de carbono.",
+        "fr": "Les gens marchent pour réduire les émissions de carbone.",
+        "de": "Menschen gehen zu Fuß, um den CO2-Ausstoß zu reduzieren.",
+        "it": "Le persone camminano per ridurre le emissioni di carbonio.",
+        "ko": "사람들은 탄소 배출을 줄이기 위해 걸어 다깁니다.",
+        "zh-Hans": "人们通过步行来减少碳排放。",
+        "zh-Hant": "人們通過步行來減少碳排放。",
+        "pt-BR": "As pessoas caminham para reduzir as emissões de carbono."
+      }
+    },
+    {
+      "id": 32607025,
+      "owner": "u3",
+      "english": "Our leader guides the team safely.",
+      "translations": {
+        "ja": "私たちのリーダーはチームを安全に導きます。",
+        "en": "Our leader guides the team safely.",
+        "es": "Nuestro líder guía al equipo de manera segura.",
+        "fr": "Notre chef guide l'équipe en toute sécurité.",
+        "de": "Unser Anführer führt das Team sicher.",
+        "it": "Il nostro leader guida la squadra in modo sicuro.",
+        "ko": "우리 리더는 팀을 안전하게 인도합니다.",
+        "zh-Hans": "我们的队长安全地带领着队伍。",
+        "zh-Hant": "我們的隊長安全地帶領著隊伍。",
+        "pt-BR": "Nosso líder guia a equipe com segurança."
+      }
+    },
+    {
+      "id": 42607001,
+      "owner": "u4",
+      "english": "Scientists verify who can go inside safely.",
+      "translations": {
+        "ja": "科学者は誰が安全に中に入れるかを検証します。",
+        "en": "Scientists verify who can go inside safely.",
+        "es": "Los científicos verifican quién puede entrar de manera segura.",
+        "fr": "Les scientifiques vérifient qui peut entrer en toute sécurité.",
+        "de": "Wissenschaftler überprüfen, wer sicher hineingehen kann.",
+        "it": "Gli scienziati verificano chi può entrare in sicurezza.",
+        "ko": "과학자들은 누가 안전하게 내부로 들어갈 수 있는지 검증합니다.",
+        "zh-Hans": "科学家们在核实谁可以安全进入内部。",
+        "zh-Hant": "科學家們在核實誰可以安全進入內部。",
+        "pt-BR": "Os científicos verificam quem pode entrar em segurança."
+      }
+    },
+    {
+      "id": 42607004,
+      "owner": "u4",
+      "english": "We compare different methods to decide.",
+      "translations": {
+        "ja": "私たちは決定するために異なる方法を比較します。",
+        "en": "We compare different methods to decide.",
+        "es": "Comparamos diferentes métodos para decidir.",
+        "fr": "Nous comparons différentes méthodes pour décider.",
+        "de": "Wir vergleichen verschiedene Methoden, um zu entscheiden.",
+        "it": "Confrontiamo diversi metodi per decidere.",
+        "ko": "우리는 결정하기 위해 서로 다른 방식들을 비교합니다.",
+        "zh-Hans": "我们权衡不同的方案做出最终决定。",
+        "zh-Hant": "我們權衡不同的方案做出最終決定。",
+        "pt-BR": "Nós comparamos métodos diferentes para decidir."
+      }
+    },
+    {
+      "id": 42607005,
+      "owner": "u4",
+      "english": "The research explains the main reason.",
+      "translations": {
+        "ja": "その研究は主な理由を説明しています。",
+        "en": "The research explains the main reason.",
+        "es": "La investigación explica la razón principal.",
+        "fr": "La recherche explique la raison principale.",
+        "de": "Die Forschung erklärt den Hauptgrund.",
+        "it": "La ricerca spiega il motivo principale.",
+        "ko": "해당 연구는 그렇게 되는 핵심적인 이유를 설명합니다.",
+        "zh-Hans": "该项学术研究阐明了最核心的起因。",
+        "zh-Hant": "該項學術研究闡明了最核心的起因。",
+        "pt-BR": "A pesquisa explica o motivo principal."
+      }
+    },
+    {
+      "id": 42607007,
+      "owner": "u4",
+      "english": "The report highlights the global market trend.",
+      "translations": {
+        "ja": "その報告書は世界的な市場の傾向を強調しています。",
+        "en": "The report highlights the global market trend.",
+        "es": "El informe destaca la tendencia del mercado global.",
+        "fr": "Le rapport souligne la tendance du marché mondial.",
+        "de": "Der Bericht hebt den globalen Markttrend hervor.",
+        "it": "Il rapporto evidenzia la tendenza del mercato globale.",
+        "ko": "보고서는 전 세계 시장의 흐름과 동향을 강조하고 있습니다.",
+        "zh-Hans": "这份官方报告强调了全球层面的发展趋势。",
+        "zh-Hant": "這份官方報告強調了全球層面的發展趨勢。",
+        "pt-BR": "O relatório destaca a tendência do mercado global."
+      }
+    },
+    {
+      "id": 42607008,
+      "owner": "u4",
+      "english": "We must discover the hidden cause.",
+      "translations": {
+        "ja": "私たちは隠された原因を発見しなければなりません。",
+        "en": "We must discover the hidden cause.",
+        "es": "Debemos descubrir la causa oculta.",
+        "fr": "Nous devons découvrir la cause cachée.",
+        "de": "Wir müssen die verborgene Ursache entdecken.",
+        "it": "Dobbiamo scoprire la causa nascosta.",
+        "ko": "우리는 표면 밑에 숨겨진 원인을 찾아내야만 합니다.",
+        "zh-Hans": "我们必须探明隐藏在深处的真正诱因。",
+        "zh-Hant": "我們必須探明隱藏在深處的真正誘因。",
+        "pt-BR": "Nós precisamos descobrir a causa oculta."
+      }
+    },
+    {
+      "id": 42607009,
+      "owner": "u4",
+      "english": "Arguments require strong evidence to win.",
+      "translations": {
+        "ja": "議論で勝つには強力な証拠が必要です。",
+        "en": "Arguments require strong evidence to win.",
+        "es": "Los argumentos requieren pruebas contundentes para ganar.",
+        "fr": "Les arguments ont besoin de preuves solides pour gagner.",
+        "de": "Argumente erfordern starke Beweise, um zu überzeugen.",
+        "it": "Le argomentazioni richiedono prove solide per vincere.",
+        "ko": "논쟁에서 이기려면 확실한 근거가 필요합니다.",
+        "zh-Hans": "主张必须具备强有力的实准证据支持。",
+        "zh-Hant": "主張必須具備強有力的實準證據支持。",
+        "pt-BR": "Argumentos precisam de provas sólidas para vencer."
+      }
+    },
+    {
+      "id": 42607010,
+      "owner": "u4",
+      "english": "The structure forms a beautiful pattern.",
+      "translations": {
+        "ja": "その構造は美しいパターンを形成しています。",
+        "en": "The structure forms a beautiful pattern.",
+        "es": "La estructura forma un hermoso patrón.",
+        "fr": "La structure forme un motif magnifique.",
+        "de": "Die Struktur bildet ein schönes Muster.",
+        "it": "La struttura forma un bellissimo motivo.",
+        "ko": "그 조직체는 정교하고 아름다운 기하학적 문양을 이룹니다.",
+        "zh-Hans": "该系统构造展现出极具规律的外观。",
+        "zh-Hant": "該系統構造展現出極具規律的外觀。",
+        "pt-BR": "A estrutura forma um belo padrão."
+      }
+    },
+    {
+      "id": 42607012,
+      "owner": "u4",
+      "english": "They examine the theory inside laboratory.",
+      "translations": {
+        "ja": "彼らは研究室の中でその理論を検証します。",
+        "en": "They examine the theory inside laboratory.",
+        "es": "Ellos examinan la teoría dentro del laboratorio.",
+        "fr": "Ils examinent la théorie à l'intérieur du laboratoire.",
+        "de": "Sie untersuchen die Theorie im Labor.",
+        "it": "Esaminano la teoria all'interno del laboratorio.",
+        "ko": "연구원들은 실험실 안에서 해당 가설을 검증합니다.",
+        "zh-Hans": "学者们正在实验室内部对假说进行测验。",
+        "zh-Hant": "學者們正在實驗室內部對假說進行測驗。",
+        "pt-BR": "Eles examinam a teoria dentro do laboratório."
+      }
+    },
+    {
+      "id": 42607013,
+      "owner": "u4",
+      "english": "Simple ideas solve complex problems easily.",
+      "translations": {
+        "ja": "単純なアイデアが複雑な問題を簡単に解決します。",
+        "en": "Simple ideas solve complex problems easily.",
+        "es": "Ideas simples resuelven problemas complejos fácilmente.",
+        "fr": "Des idées simples résolvent facilement des problèmes complexes.",
+        "de": "Einfache Ideen lösen komplexe Probleme leicht.",
+        "it": "Idee semplici risolvono facilmente problemi complessi.",
+        "ko": "단순명료한 발상이 복잡한 난제를 손쉽게 해결해 줍니다.",
+        "zh-Hans": "极其简单的构想反而能解开错综复杂的谜题。",
+        "zh-Hant": "極其簡單的構想反而能解開錯綜複雜的謎題。",
+        "pt-BR": "Ideias simples resolvem problemas complexos facilmente."
+      }
+    },
+    {
+      "id": 42607014,
+      "owner": "u4",
+      "english": "This book provides academic knowledge clearly.",
+      "translations": {
+        "ja": "この本は学術的な知識を明確に提供しています。",
+        "en": "This book provides academic knowledge clearly.",
+        "es": "Este libro proporciona conocimiento académico con claridad.",
+        "fr": "Ce livre fournit des connaissances académiques de manière claire.",
+        "de": "Dieses Buch vermittelt akademisches Wissen sehr anschaulich.",
+        "it": "Questo libro fornisce conoscenze accademiche in modo chiaro.",
+        "ko": "본 서적은 학술적 소양과 전문 지식을 알기 쉽게 서술합니다.",
+        "zh-Hans": "该著作条理清晰地传授了极高价值的学术理论。",
+        "zh-Hant": "該著作條理清晰地傳授了極高價值的學術理論。",
+        "pt-BR": "Este livro fornece conhecimento acadêmico claramente."
+      }
+    },
+    {
+      "id": 42607016,
+      "owner": "u4",
+      "english": "The writer describes the human society.",
+      "translations": {
+        "ja": "その作家は人間社会を描写しています。",
+        "en": "The writer describes the human society.",
+        "es": "El escritor describe la sociedad humana.",
+        "fr": "L'écrivain décrit la société humaine.",
+        "de": "Der Schriftsteller beschreibt die menschliche Gesellschaft.",
+        "it": "Lo scrittore descrive la società umana.",
+        "ko": "저자는 인류가 이룩한 공동체 생활의 실상을 묘사합니다.",
+        "zh-Hans": "作者细腻地刻画了现代人类社会的面貌。",
+        "zh-Hant": "作者細膩地刻畫了現代人類社會的面貌。",
+        "pt-BR": "O escritor descreve a sociedade humana."
+      }
+    },
+    {
+      "id": 42607018,
+      "owner": "u4",
+      "english": "The project needs a precise calculation.",
+      "translations": {
+        "ja": "そのプロジェクトには正確な計算が必要です。",
+        "en": "The project needs a precise calculation.",
+        "es": "El proyecto necesita un cálculo preciso.",
+        "fr": "Le projet nécessite un calcul précis.",
+        "de": "Das Projekt erfordert eine präzise Berechnung.",
+        "it": "Il progetto richiede un calcolo preciso.",
+        "ko": "이 계획을 수행하려면 정밀한 계산이 필요합니다.",
+        "zh-Hans": "该科研项目必须依仗严密无误的数字化推导。",
+        "zh-Hant": "該科研項目必須依仗嚴密無誤的數位化推導。",
+        "pt-BR": "O projeto precisa de um cálculo preciso."
+      }
+    },
+    {
+      "id": 42607020,
+      "owner": "u4",
+      "english": "We evaluate the final outcome carefully.",
+      "translations": {
+        "ja": "私たちは最終的な成果を慎重に評価します。",
+        "en": "We evaluate the final outcome carefully.",
+        "es": "Evaluamos el resultado final con cuidado.",
+        "fr": "Nous évaluons le résultat final avec attention.",
+        "de": "Wir bewerten das Endergebnis sehr sorgfältig.",
+        "it": "Valutiamo attentamente il risultato finale.",
+        "ko": "우리는 도출된 최종 결과물을 엄격한 기준 하에 감정합니다.",
+        "zh-Hans": "我们将对最终产出的质量展开严谨的考量。",
+        "zh-Hant": "我們將對最終產出的質量展開嚴謹的考量。",
+        "pt-BR": "Nós avaliamos o resultado final com cuidado."
+      }
+    },
+    {
+      "id": 42607021,
+      "owner": "u4",
+      "english": "Experts observe individual reactions during tests.",
+      "translations": {
+        "ja": "専門家はテスト中に個々の反応を観察します。",
+        "en": "Experts observe individual reactions during tests.",
+        "es": "Los expertos observan las reacciones individuales durante las pruebas.",
+        "fr": "Les experts observent les réactions individuelles pendant les tests.",
+        "de": "Experten beobachten einzelne Reaktionen während der Tests.",
+        "it": "Gli esperti osservano le reazioni individuali durante i test.",
+        "ko": "전문 심사단은 평가 과정 중 피실험자별 행동을 관찰합니다.",
+        "zh-Hans": "专家们正在细致地记录测试过程中的个体表现。",
+        "zh-Hant": "專家們正在細緻地記錄測試過程中的個體表現。",
+        "pt-BR": "Os especialistas observam as reações individuais durante os testes."
+      }
+    },
+    {
+      "id": 42607022,
+      "owner": "u4",
+      "english": "This formula provides a standard baseline.",
+      "translations": {
+        "ja": "この公式は標準的な基準線を提供します。",
+        "en": "This formula provides a standard baseline.",
+        "es": "Esta fórmula proporciona una línea de base estándar.",
+        "fr": "Cette formule fournit une ligne de base standard.",
+        "de": "Diese Formel liefert eine standardisierte Baseline.",
+        "it": "Questa formula fornisce una linea di base standard.",
+        "ko": "이 수식은 모든 통계 비교의 척度が 되는 기본線を 제시합니다.",
+        "zh-Hans": "该数学公式确立了一个可供认同的基准线。",
+        "zh-Hant": "該數學公式確立了一個可供認同的基準線。",
+        "pt-BR": "Esta fórmula fornece uma linha de base padrão."
+      }
+    },
+    {
+      "id": 42607023,
+      "owner": "u4",
+      "english": "The strategy targets a unique demographic.",
+      "translations": {
+        "ja": "その戦略は独自の層を対象にしています。",
+        "en": "The strategy targets a unique demographic.",
+        "es": "La estrategia se dirige a un grupo demográfico único.",
+        "fr": "La stratégie cible un groupe démographique unique.",
+        "de": "Die Strategie zielt auf eine einzigartige Demografie ab.",
+        "it": "La strategia si rivolge a un gruppo demografico unico.",
+        "ko": "해당 마케팅 방안은 특정 핵심 연령 및 소비층을 겨냥합니다.",
+        "zh-Hans": "该商业战略针对的是具备特定特征的细分受众。",
+        "zh-Hant": "該商業戰略針對的是具備特定特徵的細分受眾。",
+        "pt-BR": "A estratégia visa um grupo demográfico específico."
+      }
+    },
+    {
+      "id": 42607024,
+      "owner": "u4",
+      "english": "Continuous practice ensures an excellent achievement.",
+      "translations": {
+        "ja": "継続的な練習が優れた成果を確実にします。",
+        "en": "Continuous practice ensures an excellent achievement.",
+        "es": "La práctica continua garantiza un logro excelente.",
+        "fr": "Une pratique continue garantit une excellente réussite.",
+        "de": "Kontinuierliches Üben sichert hervorragende Leistungen.",
+        "it": "La pratica costante garantisce un risultato eccellente.",
+        "ko": "쉬지 않고 연마する過程만이 최고의 결실을 보장해 줍니다.",
+        "zh-Hans": "毫不间断的训练才能让水平达到顶尖。",
+        "zh-Hant": "毫不間斷的訓練才能讓水平達到頂尖。",
+        "pt-BR": "A prática contínua garante uma excelente conquista."
+      }
+    },
+    {
+      "id": 52607001,
+      "owner": "u5",
+      "english": "I need a safe building to enter.",
+      "translations": {
+        "ja": "私は入るための安全な建物が必要です。",
+        "en": "I need a safe building to enter.",
+        "es": "Necesito un edificio seguro para entrar.",
+        "fr": "J'ai besoin d'un bâtiment sûr où entrer.",
+        "de": "Ich brauche ein sicheres Gebäude, in das ich gehen kann.",
+        "it": "Ho bisogno di un edificio sicuro in cui entrare.",
+        "ko": "저는 진입하기에 안전한 건물이 필요해요.",
+        "zh-Hans": "我需要一栋足够牢固安全的房屋来落脚。",
+        "zh-Hant": "我需要一棟足夠牢固安全的房屋來落腳。",
+        "pt-BR": "Preciso de um edifício seguro para entrar."
+      }
+    },
+    {
+      "id": 52607002,
+      "owner": "u5",
+      "english": "I have an interesting book to read.",
+      "translations": {
+        "ja": "私は読むべきおもしろい本を持っています。",
+        "en": "I have an interesting book to read.",
+        "es": "Tengo un libro interesante para leer.",
+        "fr": "J'ai un livre intéressant à lire.",
+        "de": "Ich habe ein interessantes Buch zu lesen.",
+        "it": "Ho un libro interessante da leggere.",
+        "ko": "저는 독서하기 좋은 흥미로운 서적을 소장 중입니다.",
+        "zh-Hans": "我手头有一本引人入胜的小说供打发时间。",
+        "zh-Hant": "我手頭有一本引人入勝的小說供打發時間。",
+        "pt-BR": "Tenho um livro interessante para ler."
+      }
+    },
+    {
+      "id": 52607003,
+      "owner": "u5",
+      "english": "There are many things to do.",
+      "translations": {
+        "ja": "するべきことがたくさんあります。",
+        "en": "There are many things to do.",
+        "es": "Hay muchas cosas por hacer.",
+        "fr": "Il y a beaucoup de choses à faire.",
+        "de": "Es gibt viele Dinge zu tun.",
+        "it": "Ci sono molte cose da fare.",
+        "ko": "오늘 처리해야 할 과제나 일거りが 쌓여 있네요.",
+        "zh-Hans": "日程表里排满了有待解决的各种事务。",
+        "zh-Hant": "日程表裡排滿了有待解決的各種事務。",
+        "pt-BR": "Há muitas coisas para fazer."
+      }
+    },
+    {
+      "id": 52607004,
+      "owner": "u5",
+      "english": "He went to Tokyo to study.",
+      "translations": {
+        "ja": "彼は勉強するために東京へ行きました。",
+        "en": "He went to Tokyo to study.",
+        "es": "Él fue a Tokio para estudiar.",
+        "fr": "Il est allé à Tokyo pour étudier.",
+        "de": "Er ist nach Tokio gereist, um zu studieren.",
+        "it": "È aangato a Tokyo per studiare.",
+        "ko": "그 남자는 학업에 정진하고자 도쿄로 향했습니다.",
+        "zh-Hans": "他动身远赴东京求学深造。",
+        "zh-Hant": "他動身遠赴東京求學深造。",
+        "pt-BR": "Ele foi para Tóquio para estudar."
+      }
+    },
+    {
+      "id": 52607005,
+      "owner": "u5",
+      "english": "We visit the museum to learn.",
+      "translations": {
+        "ja": "私たちは学ぶために博物館を訪れます。",
+        "en": "We visit the museum to learn.",
+        "es": "Visitamos el museo para aprender.",
+        "fr": "Nous visitons le musée pour apprendre.",
+        "de": "Wir besuchen das Museum, um etwas zu lernen.",
+        "it": "Visitiamo il museo per imparare.",
+        "ko": "우리는 견문을 넓히고 지식을 습득하러 박물관에 갑니다.",
+        "zh-Hans": "我们定期参观博览馆以获取历史文化见识。",
+        "zh-Hant": "我們定期參觀博覽館以獲取歷史文化見識。",
+        "pt-BR": "Nós visitamos o museu para aprender."
+      }
+    },
+    {
+      "id": 52607006,
+      "owner": "u5",
+      "english": "I am happy to help everyone.",
+      "translations": {
+        "ja": "皆さんを助けることができて嬉しいです。",
+        "en": "I am happy to help everyone.",
+        "es": "Me alegra ayudar a todos.",
+        "fr": "Je suis heureux d'aider tout le monde.",
+        "de": "Ich freue mich, allen zu helfen.",
+        "it": "Sono felice di aiutare tutti.",
+        "ko": "주변 사람들에게 힘이 되어줄 수 있어 진심으로 보람찹니다.",
+        "zh-Hans": "能够向大家伸出援手，我内心感到极大的欣慰。",
+        "zh-Hant": "能夠向大家伸出援手，我內心感到極大的欣慰。",
+        "pt-BR": "Fico feliz em ajudar a todos."
+      }
+    },
+    {
+      "id": 52607007,
+      "owner": "u5",
+      "english": "She was surprised to see it.",
+      "translations": {
+        "ja": "彼女はそれを見て驚きました。",
+        "en": "She was surprised to see it.",
+        "es": "Ella se sorprendió al verlo.",
+        "fr": "Elle a été surprise de le voir.",
+        "de": "Sie war überrascht, es zu sehen.",
+        "it": "È rimasta sorpresa di vederlo.",
+        "ko": "그 여자는 눈앞에 나타난 광경을 목격하고 깜짝 놀랐습니다.",
+        "zh-Hans": "当她亲眼目睹那一幕时，整个人惊呆了。",
+        "zh-Hant": "當她親眼目睹那一幕時，整個人驚呆了。",
+        "pt-BR": "Ela ficou surpresa ao ver aquilo."
+      }
+    },
+    {
+      "id": 52607008,
+      "owner": "u5",
+      "english": "We want something cold to eat.",
+      "translations": {
+        "ja": "私たちは何か冷たい食べ物が欲しいです。",
+        "en": "We want something cold to eat.",
+        "es": "Queremos algo frío para comer.",
+        "fr": "Nous voulons quelque chose de froid à manger.",
+        "de": "Wir möchten etwas Kaltes zu essen.",
+        "it": "Vogliamo qualcosa di freddo da mangiare.",
+        "ko": "우리는 더위를 식혀줄 만한 찬 음식을 먹고 싶어 해요.",
+        "zh-Hans": "在炎热的气候下，我们只想吃点冰凉的消暑食品。",
+        "zh-Hant": "在炎熱的氣候下，我們只想吃點冰涼的消暑食品。",
+        "pt-BR": "Nós queremos algo gelado para comer."
+      }
+    },
+    {
+      "id": 52607009,
+      "owner": "u5",
+      "english": "Is there any water to drink?",
+      "translations": {
+        "ja": "飲むための水はありますか？",
+        "en": "Is there any water to drink?",
+        "es": "¿Hay agua para beber?",
+        "fr": "Y a-t-il de l'eau à boire ?",
+        "de": "Gibt es Trinkwasser?",
+        "it": "C'è dell'acqua da bere?",
+        "ko": "목을 축일 수 있는 마실 물이 좀 남아 있습니까?",
+        "zh-Hans": "请问附近有可以安全饮用的水源吗？",
+        "zh-Hant": "請問附近有可以安全飲用的水源嗎？",
+        "pt-BR": "Tem água para beber?"
+      }
+    },
+    {
+      "id": 52607010,
+      "owner": "u5",
+      "english": "I need a large bag to carry.",
+      "translations": {
+        "ja": "私は運ぶための大きなバッグが必要です。",
+        "en": "I need a large bag to carry.",
+        "es": "Necesito una bolsa grande para llevar.",
+        "fr": "J'ai besoin d'un grand sac pour transporter.",
+        "de": "Ich brauche eine große Tasche zum Transportieren.",
+        "it": "Ho bisogno di una borsa grande per trasportare.",
+        "ko": "수하물을 담아 이동할 넉넉한 크기의 가방이 필요해요.",
+        "zh-Hans": "这些行李物件太多，我得找一个大容量的提袋。",
+        "zh-Hant": "這些行李物件太多，我得找一個大容量の提袋。",
+        "pt-BR": "Preciso de uma sacola grande para carregar."
+      }
+    },
+    {
+      "id": 52607011,
+      "owner": "u5",
+      "english": "I want a good dictionary to check.",
+      "translations": {
+        "ja": "私は調べるための良い辞書が欲しいです。",
+        "en": "I want a good dictionary to check.",
+        "es": "Quiero un buen diccionario para consultar.",
+        "fr": "Je veux un bon dictionnaire pour vérifier.",
+        "de": "Ich möchte ein gutes Wörterbuch zum Nachschlagen.",
+        "it": "Voglio un buon dizionario da consultare.",
+        "ko": "정확한 어휘를 검색하고 확인할 양질의 사전이 필요합니다.",
+        "zh-Hans": "我想选购一本权威性的工具书来核对词义。",
+        "zh-Hant": "我想選購一本權威性的工具書來核對詞義。",
+        "pt-BR": "Quero um bom dicionário para consultar."
+      }
+    },
+    {
+      "id": 52607012,
+      "owner": "u5",
+      "english": "He has no time to play.",
+      "translations": {
+        "ja": "彼には遊ぶ時間がありません。",
+        "en": "He has no time to play.",
+        "es": "Él no tiene tiempo para jugar.",
+        "fr": "Il n'a pas le temps de jouer.",
+        "de": "Er hat keine Zeit zum Spielen.",
+        "it": "Non ha tempo per giocare.",
+        "ko": "그 아이는 일정이 너무 빡빡해서 여가를 즐길 틈이 없어요.",
+        "zh-Hans": "他在大考当前，根本没有闲暇时间去娱乐。",
+        "zh-Hant": "他在大考當前，根本沒有閒暇時間去娛樂。",
+        "pt-BR": "Ele não tem tempo para brincar."
+      }
+    },
+    {
+      "id": 52607013,
+      "owner": "u5",
+      "english": "She is glad to read stories.",
+      "translations": {
+        "ja": "彼女は物語を読むことができて喜んでいます。",
+        "en": "She is glad to read stories.",
+        "es": "Ella se alegra de leer historias.",
+        "fr": "Elle est heureuse de lire des histoires.",
+        "de": "Sie freut sich, Geschichten zu lesen.",
+        "it": "È felice di leggere storie.",
+        "ko": "그 소녀는 동화책과 흥미진진한 수필을 읽을 때 무척 행복해합니다.",
+        "zh-Hans": "沉浸在文学故事的书海中让她感到分外宁静喜悦。",
+        "zh-Hant": "沉浸在文學故事的书海中讓她感到分外寧靜喜悅。",
+        "pt-BR": "Ela fica feliz em ler histórias."
+      }
+    },
+    {
+      "id": 52607014,
+      "owner": "u5",
+      "english": "I need a black pen to write.",
+      "translations": {
+        "ja": "私は書くための黒いペンが必要です。",
+        "en": "I need a black pen to write.",
+        "es": "Necesito un bolígrafo negro para escribir.",
+        "fr": "J'ai besoin d'un stylo noir pour écrire.",
+        "de": "Ich brauche einen schwarzen Stift zum Schreiben.",
+        "it": "Ho bisogno di una penna nera per scrivere.",
+        "ko": "계약서 서명에 사용할 흑색 필기구가 하나 필요합니다.",
+        "zh-Hans": "请借给我一支黑色水笔用于填报表格单据。",
+        "zh-Hant": "請借給我一支黑色水筆用於填報表格單據。",
+        "pt-BR": "Preciso de uma caneta preta para escrever."
+      }
+    },
+    {
+      "id": 52607015,
+      "owner": "u5",
+      "english": "They wake up early to practice.",
+      "translations": {
+        "ja": "彼らは練習するために朝早く起きます。",
+        "en": "They wake up early to practice.",
+        "es": "Ellos se levantan temprano para practicar.",
+        "fr": "Ils se réveillent tôt pour s'entraîner.",
+        "de": "Sie stehen früh auf, um zu üben.",
+        "it": "Si svegliano presto per esercitarsi.",
+        "ko": "선수들은 오전 훈련을 소화하기 위해 새벽같이 기상합니다.",
+        "zh-Hans": "为了在比赛中夺冠，团队每天拂晓便出操集训。",
+        "zh-Hant": "為了在比賽中奪冠，團隊每天拂曉便出操集訓。",
+        "pt-BR": "Eles acordam cedo para praticar."
+      }
+    }
 ]
