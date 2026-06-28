@@ -1,0 +1,752 @@
+[
+  {
+    "id": 12607001,
+    "owner": "u1",
+    "english": "Can I go in?",
+    "translations": { "en": "Can I go in?", "ja": "（建物や敷地などに）入ってもいいですか？" }
+  },
+  {
+    "id": 12607002,
+    "owner": "u1",
+    "english": "Please open this door.",
+    "translations": { "en": "Please open this door.", "ja": "このドアを開けてください。" }
+  },
+  {
+    "id": 12607003,
+    "owner": "u1",
+    "english": "Where is the shop entrance?",
+    "translations": { "en": "Where is the shop entrance?", "ja": "お店の入り口はどこですか？" }
+  },
+  {
+    "id": 12607004,
+    "owner": "u1",
+    "english": "Show me your ticket please.",
+    "translations": { "en": "Show me your ticket please.", "ja": "チケットを見せてください。" }
+  },
+  {
+    "id": 12607005,
+    "owner": "u1",
+    "english": "Where can I buy water?",
+    "translations": { "en": "Where can I buy water?", "ja": "水はどこで買えますか？" }
+  },
+  {
+    "id": 12607006,
+    "owner": "u1",
+    "english": "It is ten dollars.",
+    "translations": { "en": "It is ten dollars.", "ja": "それは10ドルです。" }
+  },
+  {
+    "id": 12607007,
+    "owner": "u1",
+    "english": "Where is the restroom?",
+    "translations": { "en": "Where is the restroom?", "ja": "お手洗いはどこですか？" }
+  },
+  {
+    "id": 12607008,
+    "owner": "u1",
+    "english": "It is behind that wall.",
+    "translations": { "en": "It is behind that wall.", "ja": "あの壁の後ろにあります。" }
+  },
+  {
+    "id": 12607009,
+    "owner": "u1",
+    "english": "Please wait a minute.",
+    "translations": { "en": "Please wait a minute.", "ja": "1分ほどお待ちください。" }
+  },
+  {
+    "id": 12607010,
+    "owner": "u1",
+    "english": "I need a local map.",
+    "translations": { "en": "I need a local map.", "ja": "地元の地図が必要です。" }
+  },
+  {
+    "id": 12607011,
+    "owner": "u1",
+    "english": "Is this seat free?",
+    "translations": { "en": "Is this seat free?", "ja": "この席は空いていますか？" }
+  },
+  {
+    "id": 12607012,
+    "owner": "u1",
+    "english": "Yes you can sit here.",
+    "translations": { "en": "Yes you can sit here.", "ja": "はい、ここに座ってもいいですよ。" }
+  },
+  {
+    "id": 12607013,
+    "owner": "u1",
+    "english": "Where is the train station?",
+    "translations": { "en": "Where is the train station?", "ja": "鉄道の駅はどこですか？" }
+  },
+  {
+    "id": 12607014,
+    "owner": "u1",
+    "english": "Go straight down this street.",
+    "translations": { "en": "Go straight down this street.", "ja": "この道を真っ直ぐ行ってください。" }
+  },
+  {
+    "id": 12607015,
+    "owner": "u1",
+    "english": "What time does it close?",
+    "translations": { "en": "What time does it close?", "ja": "何時に閉まりますか？" }
+  },
+  {
+    "id": 12607016,
+    "owner": "u1",
+    "english": "It closes at eight p.m.",
+    "translations": { "en": "It closes at eight p.m.", "ja": "午後8時に閉まります。" }
+  },
+  {
+    "id": 12607017,
+    "owner": "u1",
+    "english": "Do you need a bag?",
+    "translations": { "en": "Do you need a bag?", "ja": "袋は必要ですか？" }
+  },
+  {
+    "id": 12607018,
+    "owner": "u1",
+    "english": "No thank you.",
+    "translations": { "en": "No thank you.", "ja": "いいえ、結構です。" }
+  },
+  {
+    "id": 12607019,
+    "owner": "u1",
+    "english": "Help me carry this suitcase.",
+    "translations": { "en": "Help me carry this suitcase.", "ja": "このスーツケースを運ぶのを手伝って。" }
+  },
+  {
+    "id": 12607020,
+    "owner": "u1",
+    "english": "Everything is all right.",
+    "translations": { "en": "Everything is all right.", "ja": "すべて大丈夫ですよ。" }
+  },
+  {
+    "id": 12607021,
+    "owner": "u1",
+    "english": "Please call a doctor now.",
+    "translations": { "en": "Please call a doctor now.", "ja": "今すぐ医者を呼んでください。" }
+  },
+  {
+    "id": 12607022,
+    "owner": "u1",
+    "english": "I will buy a newspaper.",
+    "translations": { "en": "I will buy a newspaper.", "ja": "私は新聞を買います。" }
+  },
+  {
+    "id": 12607023,
+    "owner": "u1",
+    "english": "Where is the taxi stand?",
+    "translations": { "en": "Where is the taxi stand?", "ja": "タクシー乗り場はどこですか？" }
+  },
+  {
+    "id": 12607024,
+    "owner": "u1",
+    "english": "Look at that blue sign.",
+    "translations": { "en": "Look at that blue sign.", "ja": "あの青い標識を見て。" }
+  },
+  {
+    "id": 12607025,
+    "owner": "u1",
+    "english": "Welcome to our beautiful hotel.",
+    "translations": { "en": "Welcome to our beautiful hotel.", "ja": "私たちの美しいホテルへようこそ。" }
+  },
+  {
+    "id": 22607001,
+    "owner": "u2",
+    "english": "Can I come in now?",
+    "translations": { "en": "Can I come in now?", "ja": "（部屋や家などに）今、入ってもいいですか？" }
+  },
+  {
+    "id": 22607002,
+    "owner": "u2",
+    "english": "I want to go inside.",
+    "translations": { "en": "I want to go inside.", "ja": "中に入りたいです。" }
+  },
+  {
+    "id": 22607003,
+    "owner": "u2",
+    "english": "I am glad to hear that.",
+    "translations": { "en": "I am glad to hear that.", "ja": "それを聞けて嬉しいです。" }
+  },
+  {
+    "id": 22607004,
+    "owner": "u2",
+    "english": "We hope to see you.",
+    "translations": { "en": "We hope to see you.", "ja": "あなたにお会いできることを願っています。" }
+  },
+  {
+    "id": 22607005,
+    "owner": "u2",
+    "english": "You can do it easily.",
+    "translations": { "en": "You can do it easily.", "ja": "簡単にできますよ。" }
+  },
+  {
+    "id": 22607006,
+    "owner": "u2",
+    "english": "What are your special plans?",
+    "translations": { "en": "What are your special plans?", "ja": "何か特別な計画はありますか？" }
+  },
+  {
+    "id": 22607007,
+    "owner": "u2",
+    "english": "I will make some cookies.",
+    "translations": { "en": "I will make some cookies.", "ja": "私はクッキーをいくつか作るつもりです。" }
+  },
+  {
+    "id": 22607008,
+    "owner": "u2",
+    "english": "I feel a bit tired.",
+    "translations": { "en": "I feel a bit tired.", "ja": "少し疲れた気がします。" }
+  },
+  {
+    "id": 22607009,
+    "owner": "u2",
+    "english": "You should sleep early tonight.",
+    "translations": { "en": "You should sleep early tonight.", "ja": "今夜は早く寝るべきですね。" }
+  },
+  {
+    "id": 22607010,
+    "owner": "u2",
+    "english": "Do you love sweet cakes?",
+    "translations": { "en": "Do you love sweet cakes?", "ja": "甘いケーキは大好きですか？" }
+  },
+  {
+    "id": 22607011,
+    "owner": "u2",
+    "english": "Yes they are very delicious.",
+    "translations": { "en": "Yes they are very delicious.", "ja": "はい、とても美味しいです。" }
+  },
+  {
+    "id": 22607012,
+    "owner": "u2",
+    "english": "Please tell me the reason.",
+    "translations": { "en": "Please tell me the reason.", "ja": "理由を教えてください。" }
+  },
+  {
+    "id": 22607013,
+    "owner": "u2",
+    "english": "I want to change my mind.",
+    "translations": { "en": "I want to change my mind.", "ja": "考えを変えたいのです。" }
+  },
+  {
+    "id": 22607014,
+    "owner": "u2",
+    "english": "We enjoy a bright conversation.",
+    "translations": { "en": "We enjoy a bright conversation.", "ja": "私たちは明るい会話を楽しんでいます。" }
+  },
+  {
+    "id": 22607015,
+    "owner": "u2",
+    "english": "That sounds like fun.",
+    "translations": { "en": "That sounds like fun.", "ja": "それは楽しそうですね。" }
+  },
+  {
+    "id": 22607016,
+    "owner": "u2",
+    "english": "Are you angry with me?",
+    "translations": { "en": "Are you angry with me?", "ja": "私に怒っていますか？" }
+  },
+  {
+    "id": 22607017,
+    "owner": "u2",
+    "english": "No I am not angry.",
+    "translations": { "en": "No I am not angry.", "ja": "いいえ、怒っていませんよ。" }
+  },
+  {
+    "id": 22607018,
+    "owner": "u2",
+    "english": "I always trust your choice.",
+    "translations": { "en": "I always trust your choice.", "ja": "私はいつもあなたの選択を信頼しています。" }
+  },
+  {
+    "id": 22607019,
+    "owner": "u2",
+    "english": "Thank you for your kindness.",
+    "translations": { "en": "Thank you for your kindness.", "ja": "親切にありがとうございます。" }
+  },
+  {
+    "id": 22607020,
+    "owner": "u2",
+    "english": "I choose the large room.",
+    "translations": { "en": "I choose the large room.", "ja": "私は大きな部屋を選びます。" }
+  },
+  {
+    "id": 22607021,
+    "owner": "u2",
+    "english": "Let us stay there together.",
+    "translations": { "en": "Let us stay there together.", "ja": "そこに一緒に泊まりましょう。" }
+  },
+  {
+    "id": 22607022,
+    "owner": "u2",
+    "english": "I look forward to tomorrow.",
+    "translations": { "en": "I look forward to tomorrow.", "ja": "明日を楽しみにしています。" }
+  },
+  {
+    "id": 22607023,
+    "owner": "u2",
+    "english": "I am so happy today.",
+    "translations": { "en": "I am so happy today.", "ja": "今日はとても幸せです。" }
+  },
+  {
+    "id": 22607024,
+    "owner": "u2",
+    "english": "Do you like orange juice?",
+    "translations": { "en": "Do you like orange juice?", "ja": "オレンジジュースは好きですか？" }
+  },
+  {
+    "id": 22607025,
+    "owner": "u2",
+    "english": "Please explain your true feelings.",
+    "translations": { "en": "Please explain your true feelings.", "ja": "あなたの本当の気持ちを説明してください。" }
+  },
+  {
+    "id": 32607001,
+    "owner": "u3",
+    "english": "Visitors always go inside the museum.",
+    "translations": { "en": "Visitors always go inside the museum.", "ja": "訪問客はいつも博物館の中に入ります。" }
+  },
+  {
+    "id": 32607002,
+    "owner": "u3",
+    "english": "Many citizens clean the central park.",
+    "translations": { "en": "Many citizens clean the central park.", "ja": "多くの市民が中央公園を掃除します。" }
+  },
+  {
+    "id": 32607003,
+    "owner": "u3",
+    "english": "The city library offers useful books.",
+    "translations": { "en": "The city library offers useful books.", "ja": "市立図書館は役に立つ本を提供しています。" }
+  },
+  {
+    "id": 32607004,
+    "owner": "u3",
+    "english": "They follow the local traffic rules.",
+    "translations": { "en": "They follow the local traffic rules.", "ja": "彼らは地元の交通規則に従います。" }
+  },
+  {
+    "id": 32607005,
+    "owner": "u3",
+    "english": "We create a small community group.",
+    "translations": { "en": "We create a small community group.", "ja": "私たちは小さなコミュニティグループを作ります。" }
+  },
+  {
+    "id": 32607006,
+    "owner": "u3",
+    "english": "People share information on the website.",
+    "translations": { "en": "People share information on the website.", "ja": "人々はウェブサイト上で情報を共有します。" }
+  },
+  {
+    "id": 32607007,
+    "owner": "u3",
+    "english": "Our neighbors welcome new families warmly.",
+    "translations": { "en": "Our neighbors welcome new families warmly.", "ja": "近所の人たちは新しい家族を温かく歓迎します。" }
+  },
+  {
+    "id": 32607008,
+    "owner": "u3",
+    "english": "Children join the local summer festival.",
+    "translations": { "en": "Children join the local summer festival.", "ja": "子供たちは地元の夏祭りに参加します。" }
+  },
+  {
+    "id": 32607009,
+    "owner": "u3",
+    "english": "The village has a dynamic history.",
+    "translations": { "en": "The village has a dynamic history.", "ja": "その村には活気のある歴史があります。" }
+  },
+  {
+    "id": 32607010,
+    "owner": "u3",
+    "english": "Volunteers paint the public school walls.",
+    "translations": { "en": "Volunteers paint the public school walls.", "ja": "ボランティアが公立学校の壁を塗ります。" }
+  },
+  {
+    "id": 32607011,
+    "owner": "u3",
+    "english": "Drivers reduce speed near the gate.",
+    "translations": { "en": "Drivers reduce speed near the gate.", "ja": "運転手は門の近くで速度を落とします。" }
+  },
+  {
+    "id": 32607012,
+    "owner": "u3",
+    "english": "They plant young trees every spring.",
+    "translations": { "en": "They plant young trees every spring.", "ja": "彼らは毎年春に若い木を植えます。" }
+  },
+  {
+    "id": 32607013,
+    "owner": "u3",
+    "english": "The town hall opens on Saturday.",
+    "translations": { "en": "The town hall opens on Saturday.", "ja": "町役場は土曜日に開いています。" }
+  },
+  {
+    "id": 32607014,
+    "owner": "u3",
+    "english": "Members discuss the village project tonight.",
+    "translations": { "en": "Members discuss the village project tonight.", "ja": "メンバーは今夜、村のプロジェクトについて話し合います。" }
+  },
+  {
+    "id": 32607015,
+    "owner": "u3",
+    "english": "The local store sells fresh vegetables.",
+    "translations": { "en": "The local store sells fresh vegetables.", "ja": "地元の店は新鮮な野菜を売っています。" }
+  },
+  {
+    "id": 32607016,
+    "owner": "u3",
+    "english": "We build a safe play area.",
+    "translations": { "en": "We build a safe play area.", "ja": "私たちは安全な遊び場を作ります。" }
+  },
+  {
+    "id": 32607017,
+    "owner": "u3",
+    "english": "The area guide helps many tourists.",
+    "translations": { "en": "The area guide helps many tourists.", "ja": "地域のガイドが多くの観光客を助けます。" }
+  },
+  {
+    "id": 32607018,
+    "owner": "u3",
+    "english": "Students visit the regional history museum.",
+    "translations": { "en": "Students visit the regional history museum.", "ja": "学生たちは地域の歴史博物館を訪れます。" }
+  },
+  {
+    "id": 32607019,
+    "owner": "u3",
+    "english": "The post office serves the community.",
+    "translations": { "en": "The post office serves the community.", "ja": "郵便局は地域社会に貢献しています。" }
+  },
+  {
+    "id": 32607020,
+    "owner": "u3",
+    "english": "People gather to sing traditional songs.",
+    "translations": { "en": "People gather to sing traditional songs.", "ja": "人々は伝統的な歌を歌うために集まります。" }
+  },
+  {
+    "id": 32607021,
+    "owner": "u3",
+    "english": "Everyone protects our clean mountain roads.",
+    "translations": { "en": "Everyone protects our clean mountain roads.", "ja": "誰もがきれいで山沿いの道路を守ります。" }
+  },
+  {
+    "id": 32607022,
+    "owner": "u3",
+    "english": "Passengers purchase tickets before the ride.",
+    "translations": { "en": "Passengers purchase tickets before the ride.", "ja": "乗客は乗車前に切符を購入します。" }
+  },
+  {
+    "id": 32607023,
+    "owner": "u3",
+    "english": "The local government protects green forests.",
+    "translations": { "en": "The local government protects green forests.", "ja": "地方政府は緑豊かな森林を保護します。" }
+  },
+  {
+    "id": 32607024,
+    "owner": "u3",
+    "english": "People walk to reduce carbon emissions.",
+    "translations": { "en": "People walk to reduce carbon emissions.", "ja": "人々は炭素排出を減らすために歩きます。" }
+  },
+  {
+    "id": 32607025,
+    "owner": "u3",
+    "english": "Our leader guides the team safely.",
+    "translations": { "en": "Our leader guides the team safely.", "ja": "私たちのリーダーはチームを安全に導きます。" }
+  },
+  {
+    "id": 42607001,
+    "owner": "u4",
+    "english": "Scientists verify who can go inside safely.",
+    "translations": { "en": "Scientists verify who can go inside safely.", "ja": "科学者は誰が安全に中に入れるかを検証します。" }
+  },
+  {
+    "id": 42607002,
+    "owner": "u4",
+    "english": "Scientists analyze data to find facts.",
+    "translations": { "en": "Scientists analyze data to find facts.", "ja": "科学者は事実を見つけるためにデータを分析します。" }
+  },
+  {
+    "id": 42607003,
+    "owner": "u4",
+    "english": "This clear chart shows our growth.",
+    "translations": { "en": "This clear chart shows our growth.", "ja": "この明確な図表は私たちの成長を示しています。" }
+  },
+  {
+    "id": 42607004,
+    "owner": "u4",
+    "english": "We compare different methods to decide.",
+    "translations": { "en": "We compare different methods to decide.", "ja": "私たちは決定するために異なる方法を比較します。" }
+  },
+  {
+    "id": 42607005,
+    "owner": "u4",
+    "english": "The research explains the main reason.",
+    "translations": { "en": "The research explains the main reason.", "ja": "その研究は主な理由を説明しています。" }
+  },
+  {
+    "id": 42607006,
+    "owner": "u4",
+    "english": "Logical thinking leads to right solutions.",
+    "translations": { "en": "Logical thinking leads to right solutions.", "ja": "論理的な思考は正しい解決策へと導きます。" }
+  },
+  {
+    "id": 42607007,
+    "owner": "u4",
+    "english": "The report highlights the global market trend.",
+    "translations": { "en": "The report highlights the global market trend.", "ja": "その報告書は世界的な市場の傾向を強調しています。" }
+  },
+  {
+    "id": 42607008,
+    "owner": "u4",
+    "english": "We must discover the hidden cause.",
+    "translations": { "en": "We must discover the hidden cause.", "ja": "私たちは隠された原因を発見しなければなりません。" }
+  },
+  {
+    "id": 42607009,
+    "owner": "u4",
+    "english": "Arguments require strong evidence to win.",
+    "translations": { "en": "Arguments require strong evidence to win.", "ja": "議論で勝つには強力な証拠が必要です。" }
+  },
+  {
+    "id": 42607010,
+    "owner": "u4",
+    "english": "The structure forms a beautiful pattern.",
+    "translations": { "en": "The structure forms a beautiful pattern.", "ja": "その構造は美しいパターンを形成しています。" }
+  },
+  {
+    "id": 42607011,
+    "owner": "u4",
+    "english": "Education builds a foundation for children.",
+    "translations": { "en": "Education builds a foundation for children.", "ja": "教育は子供たちのための基礎を築きます。" }
+  },
+  {
+    "id": 42607012,
+    "owner": "u4",
+    "english": "They examine the theory inside laboratory.",
+    "translations": { "en": "They examine the theory inside laboratory.", "ja": "彼らは研究室の中でその理論を検証します。" }
+  },
+  {
+    "id": 42607013,
+    "owner": "u4",
+    "english": "Simple ideas solve complex problems easily.",
+    "translations": { "en": "Simple ideas solve complex problems easily.", "ja": "単純なアイデアが複雑な問題を簡単に解決します。" }
+  },
+  {
+    "id": 42607014,
+    "owner": "u4",
+    "english": "This book provides academic knowledge clearly.",
+    "translations": { "en": "This book provides academic knowledge clearly.", "ja": "この本は学術的な知識を明確に提供しています。" }
+  },
+  {
+    "id": 42607015,
+    "owner": "u4",
+    "english": "Nature balances the environment over time.",
+    "translations": { "en": "Nature balances the environment over time.", "ja": "自然は時間をかけて環境のバランスを保ちます。" }
+  },
+  {
+    "id": 42607016,
+    "owner": "u4",
+    "english": "The writer describes the human society.",
+    "translations": { "en": "The writer describes the human society.", "ja": "その作家は人間社会を描写しています。" }
+  },
+  {
+    "id": 42607017,
+    "owner": "u4",
+    "english": "We notice a significant difference today.",
+    "translations": { "en": "We notice a significant difference today.", "ja": "私たちは今日、重大な違いに気づいています。" }
+  },
+  {
+    "id": 42607018,
+    "owner": "u4",
+    "english": "The project needs a precise calculation.",
+    "translations": { "en": "The project needs a precise calculation.", "ja": "そのプロジェクトには正確な計算が必要です。" }
+  },
+  {
+    "id": 42607019,
+    "owner": "u4",
+    "english": "Statistics reveal the real truth sometimes.",
+    "translations": { "en": "Statistics reveal the real truth sometimes.", "ja": "統計は時として本物の真実を明らかにします。" }
+  },
+  {
+    "id": 42607020,
+    "owner": "u4",
+    "english": "We evaluate the final outcome carefully.",
+    "translations": { "en": "We evaluate the final outcome carefully.", "ja": "私たちは最終的な成果を慎重に評価します。" }
+  },
+  {
+    "id": 42607021,
+    "owner": "u4",
+    "english": "Experts observe individual reactions during tests.",
+    "translations": { "en": "Experts observe individual reactions during tests.", "ja": "専門家はテスト中に個々の反応を観察します。" }
+  },
+  {
+    "id": 42607022,
+    "owner": "u4",
+    "english": "This formula provides a standard baseline.",
+    "translations": { "en": "This formula provides a standard baseline.", "ja": "この公式は標準的な基準線を提供します。" }
+  },
+  {
+    "id": 42607023,
+    "owner": "u4",
+    "english": "The strategy targets a unique demographic.",
+    "translations": { "en": "The strategy targets a unique demographic.", "ja": "その戦略は独自の層を対象にしています。" }
+  },
+  {
+    "id": 42607024,
+    "owner": "u4",
+    "english": "Continuous practice ensures an excellent achievement.",
+    "translations": { "en": "Continuous practice ensures an excellent achievement.", "ja": "継続的な練習が優れた成果を確実にします。" }
+  },
+  {
+    "id": 42607025,
+    "owner": "u4",
+    "english": "The system monitors separate conditions automatically.",
+    "translations": { "en": "The system monitors separate conditions automatically.", "ja": "そのシステムは別々の条件を自動的に監視します。" }
+  },
+  {
+    "id": 52607001,
+    "owner": "u5",
+    "english": "I need a safe building to enter.",
+    "translations": { "en": "I need a safe building to enter.", "ja": "私は入るための安全な建物が必要です。" }
+  },
+  {
+    "id": 52607002,
+    "owner": "u5",
+    "english": "I have an interesting book to read.",
+    "translations": { "en": "I have an interesting book to read.", "ja": "私は読むべきおもしろい本を持っています。" }
+  },
+  {
+    "id": 52607003,
+    "owner": "u5",
+    "english": "There are many things to do.",
+    "translations": { "en": "There are many things to do.", "ja": "するべきことがたくさんあります。" }
+  },
+  {
+    "id": 52607004,
+    "owner": "u5",
+    "english": "He went to Tokyo to study.",
+    "translations": { "en": "He went to Tokyo to study.", "ja": "彼は勉強するために東京へ行きました。" }
+  },
+  {
+    "id": 52607005,
+    "owner": "u5",
+    "english": "We visit the museum to learn.",
+    "translations": { "en": "We visit the museum to learn.", "ja": "私たちは学ぶために博物館を訪れます。" }
+  },
+  {
+    "id": 52607006,
+    "owner": "u5",
+    "english": "I am happy to help everyone.",
+    "translations": { "en": "I am happy to help everyone.", "ja": "皆さんを助けることができて嬉しいです。" }
+  },
+  {
+    "id": 52607007,
+    "owner": "u5",
+    "english": "She was surprised to see it.",
+    "translations": { "en": "She was surprised to see it.", "ja": "彼女はそれを見て驚きました。" }
+  },
+  {
+    "id": 52607008,
+    "owner": "u5",
+    "english": "We want something cold to eat.",
+    "translations": { "en": "We want something cold to eat.", "ja": "私たちは何か冷たい食べ物が欲しいです。" }
+  },
+  {
+    "id": 52607009,
+    "owner": "u5",
+    "english": "Is there any water to drink?",
+    "translations": { "en": "Is there any water to drink?", "ja": "飲むための水はありますか？" }
+  },
+  {
+    "id": 52607010,
+    "owner": "u5",
+    "english": "I need a large bag to carry.",
+    "translations": { "en": "I need a large bag to carry.", "ja": "私は運ぶための大きなバッグが必要です。" }
+  },
+  {
+    "id": 52607011,
+    "owner": "u5",
+    "english": "They ran to catch the train.",
+    "translations": { "en": "They ran to catch the train.", "ja": "彼らは電車に間に合うように走りました。" }
+  },
+  {
+    "id": 52607012,
+    "owner": "u5",
+    "english": "I want a good dictionary to check.",
+    "translations": { "en": "I want a good dictionary to check.", "ja": "私は調べるための良い辞書が欲しいです。" }
+  },
+  {
+    "id": 52607013,
+    "owner": "u5",
+    "english": "He has no time to play.",
+    "translations": { "en": "He has no time to play.", "ja": "彼には遊ぶ時間がありません。" }
+  },
+  {
+    "id": 52607014,
+    "owner": "u5",
+    "english": "We use a phone to communicate.",
+    "translations": { "en": "We use a phone to communicate.", "ja": "私たちは連絡を取り合うために電話を使います。" }
+  },
+  {
+    "id": 52607015,
+    "owner": "u5",
+    "english": "She is glad to read stories.",
+    "translations": { "en": "She is glad to read stories.", "ja": "彼女は物語を読むことができて喜んでいます。" }
+  },
+  {
+    "id": 52607016,
+    "owner": "u5",
+    "english": "Is there any seat to use?",
+    "translations": { "en": "Is there any seat to use?", "ja": "使うための座席はありますか？" }
+  },
+  {
+    "id": 52607017,
+    "owner": "u5",
+    "english": "I need a black pen to write.",
+    "translations": { "en": "I need a black pen to write.", "ja": "私は書くための黒いペンが必要です。" }
+  },
+  {
+    "id": 52607018,
+    "owner": "u5",
+    "english": "They wake up early to practice.",
+    "translations": { "en": "They wake up early to practice.", "ja": "彼らは練習するために朝早く起きます。" }
+  },
+  {
+    "id": 52607019,
+    "owner": "u5",
+    "english": "I was excited to hear news.",
+    "translations": { "en": "I was excited to hear news.", "ja": "私はニュースを聞いてワクワクしました。" }
+  },
+  {
+    "id": 52607020,
+    "owner": "u5",
+    "english": "We want a safe space to gather.",
+    "translations": { "en": "We want a safe space to gather.", "ja": "私たちは集まるための安全な場所が欲しいです。" }
+  },
+  {
+    "id": 52607021,
+    "owner": "u5",
+    "english": "He needs a sharp knife to cut.",
+    "translations": { "en": "He needs a sharp knife to cut.", "ja": "彼は切るための鋭いナイフが必要です。" }
+  },
+  {
+    "id": 52607022,
+    "owner": "u5",
+    "english": "Is there any novel to read?",
+    "translations": { "en": "Is there any novel to read?", "ja": "何か読むべき小説はありますか？" }
+  },
+  {
+    "id": 52607023,
+    "owner": "u5",
+    "english": "I buy a safe car to drive.",
+    "translations": { "en": "I buy a safe car to drive.", "ja": "私は運転するための安全な車を買います。" }
+  },
+  {
+    "id": 52607024,
+    "owner": "u5",
+    "english": "We need a spacious room to talk.",
+    "translations": { "en": "We need a spacious room to talk.", "ja": "私たちは話すための広い部屋が必要です。" }
+  },
+  {
+    "id": 52607025,
+    "owner": "u5",
+    "english": "I am proud to join your team.",
+    "translations": { "en": "I am proud to join your team.", "ja": "あなたのチームに参加できて誇りに思います。" }
+  }
+]
