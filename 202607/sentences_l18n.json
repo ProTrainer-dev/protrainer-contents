@@ -1275,258 +1275,343 @@
       }
     },
     {
-      "id": 52607001,
-      "owner": "u5",
-      "english": "I need a safe building to enter.",
-      "translations": {
-        "ja": "私は入るための安全な建物が必要です。",
-        "en": "I need a safe building to enter.",
-        "es": "Necesito un edificio seguro para entrar.",
-        "fr": "J'ai besoin d'un bâtiment sûr où entrer.",
-        "de": "Ich brauche ein sicheres Gebäude, in das ich gehen kann.",
-        "it": "Ho bisogno di un edificio sicuro in cui entrare.",
-        "ko": "저는 진입하기에 안전한 건물이 필요해요.",
-        "zh-Hans": "我需要一栋足够牢固安全的房屋来落脚。",
-        "zh-Hant": "我需要一棟足夠牢固安全的房屋來落腳。",
-        "pt-BR": "Preciso de um edifício seguro para entrar."
+        "id": 52607001,
+        "owner": "u5",
+        "english": "I need a safe building to enter.",
+        "translations": {
+          "ja": "私は入るための安全な建物が必要です。",
+          "en": "I need a safe building to enter.",
+          "es": "Necesito un edificio seguro para entrar.",
+          "fr": "J'ai besoin d'un bâtiment sûr où entrer.",
+          "de": "Ich brauche ein sicheres Gebäude, in das ich gehen kann.",
+          "it": "Ho bisogno di un edificio sicuro in cui entrare.",
+          "ko": "저는 진입하기에 안전한 건물이 필요해요.",
+          "zh-Hans": "我需要一栋足够牢固安全的房屋来落脚。",
+          "zh-Hant": "我需要一棟足夠牢固安全的房屋來落腳。",
+          "pt-BR": "Preciso de um edifício seguro para entrar."
+        }
+      },
+      {
+        "id": 52607002,
+        "owner": "u5",
+        "english": "I have an interesting book to read.",
+        "translations": {
+          "ja": "私は読むべきおもしろい本を持っています。",
+          "en": "I have an interesting book to read.",
+          "es": "Tengo un libro interesante para leer.",
+          "fr": "J'ai un livre intéressant à lire.",
+          "de": "Ich habe ein interessantes Buch zu lesen.",
+          "it": "Ho un libro interessante da leggere.",
+          "ko": "저는 독서하기 좋은 흥미로운 서적을 소장 중입니다.",
+          "zh-Hans": "我手头有一本引人入胜的小说供打发时间。",
+          "zh-Hant": "我手頭有一本引人入勝的小說供打發時間。",
+          "pt-BR": "Tenho um livre interessante para ler."
+        }
+      },
+      {
+        "id": 52607003,
+        "owner": "u5",
+        "english": "There are many things to do.",
+        "translations": {
+          "ja": "するべきことがたくさんあります。",
+          "en": "There are many things to do.",
+          "es": "Hay muchas cosas por hacer.",
+          "fr": "Il y a beaucoup de choses à faire.",
+          "de": "Es gibt viele Dinge zu tun.",
+          "it": "Ci sono molte cose da fare.",
+          "ko": "오늘 처리해야 할 과제나 일거리가 쌓여 있네요.",
+          "zh-Hans": "日程表里排满了有待解决的各种事务。",
+          "zh-Hant": "日程表裡排滿了有待解決的各種事務。",
+          "pt-BR": "Há muitas coisas para fazer."
+        }
+      },
+      {
+        "id": 52607004,
+        "owner": "u5",
+        "english": "He went to Tokyo to study.",
+        "translations": {
+          "ja": "彼は勉強するために東京へ行きました。",
+          "en": "He went to Tokyo to study.",
+          "es": "Él fue a Tokio para estudiar.",
+          "fr": "Il est allé à Tokyo pour étudier.",
+          "de": "Er ist nach Tokio gereist, um zu studieren.",
+          "it": "È andare a Tokyo per studiare.",
+          "ko": "그 남자는 학업에 정진하고자 도쿄로 향했습니다.",
+          "zh-Hans": "他动身远赴东京求学深造。",
+          "zh-Hant": "他動身遠赴東京求學深造。",
+          "pt-BR": "Ele foi para Tóquio para estudar."
+        }
+      },
+      {
+        "id": 52607005,
+        "owner": "u5",
+        "english": "We visit the museum to learn.",
+        "translations": {
+          "ja": "私たちは学ぶために博物館を訪れます。",
+          "en": "We visit the museum to learn.",
+          "es": "Visitamos el museo para aprender.",
+          "fr": "Nous visitons le musée pour apprendre.",
+          "de": "Wir besuchen das Museum, um etwas zu lernen.",
+          "it": "Visitiamo il museo per imparare.",
+          "ko": "우리는 견문을 넓히고 지식을 습득하러 박물관에 갑니다.",
+          "zh-Hans": "我们定期参观博览馆以获取历史文化见识。",
+          "zh-Hant": "我們定期參觀博覽館以獲取歷史文化見識。",
+          "pt-BR": "Nós visitamos o museu para aprender."
+        }
+      },
+      {
+        "id": 52607006,
+        "owner": "u5",
+        "english": "I am happy to help everyone.",
+        "translations": {
+          "ja": "皆さんを助けることができて嬉しいです。",
+          "en": "I am happy to help everyone.",
+          "es": "Me alegra ayudar a todos.",
+          "fr": "Je suis heureux d'aider tout le monde.",
+          "de": "Ich freue mich, allen zu helfen.",
+          "it": "Sono felice di aiutare tutti.",
+          "ko": "주변 사람들에게 힘이 되어줄 수 있어 진심으로 보람찹니다.",
+          "zh-Hans": "能够向大家伸出援手，我内心感到极大的欣慰。",
+          "zh-Hant": "能夠向大家伸出援手，我內心感到極大的欣慰。",
+          "pt-BR": "Fico feliz em ajudar a todos."
+        }
+      },
+      {
+        "id": 52607007,
+        "owner": "u5",
+        "english": "She was surprised to see it.",
+        "translations": {
+          "ja": "彼女はそれを見て驚きました。",
+          "en": "She was surprised to see it.",
+          "es": "Ella se sorprendió al verlo.",
+          "fr": "Elle a été surprise de le voir.",
+          "de": "Sie war überrascht, es zu sehen.",
+          "it": "È rimasta sorpresa di vederlo.",
+          "ko": "그 여자는 눈앞에 나타난 광경을 목격하고 깜짝 놀랐습니다.",
+          "zh-Hans": "当 she 亲眼目睹那一幕时，整个人惊呆了。",
+          "zh-Hant": "當 she 親眼目睹那一幕時，整個人驚呆了。",
+          "pt-BR": "Ela ficou surpresa ao ver aquilo."
+        }
+      },
+      {
+        "id": 52607008,
+        "owner": "u5",
+        "english": "We want something cold to eat.",
+        "translations": {
+          "ja": "私たちは何か冷たい食べ物が欲しいです。",
+          "en": "We want something cold to eat.",
+          "es": "Queremos algo frío para comer.",
+          "fr": "Nous voulons quelque chose de froid à manger.",
+          "de": "Wir möchten etwas Kaltes zu essen.",
+          "it": "Vogliamo qualcosa di freddo da mangiare.",
+          "ko": "우리는 더위를 식혀줄 만한 찬 음식을 먹고 싶어 해요.",
+          "zh-Hans": "在炎热的气候下，我们只想吃点冰凉的消暑食品。",
+          "zh-Hant": "在炎熱的气候下，我們只想吃點冰涼的消暑食品。",
+          "pt-BR": "Nós queremos algo gelado para comer."
+        }
+      },
+      {
+        "id": 52607009,
+        "owner": "u5",
+        "english": "Is there any water to drink?",
+        "translations": {
+          "ja": "飲むための水はありますか？",
+          "en": "Is there any water to drink?",
+          "es": "¿Hay agua para beber?",
+          "fr": "Y a-t-il de l'eau à boire ?",
+          "de": "Gibt es Trinkwasser?",
+          "it": "C'è dell'acqua da bere?",
+          "ko": "목을 축일 수 있는 마실 물이 좀 남아 있습니까?",
+          "zh-Hans": "请问附近有可以安全饮用的水源吗？",
+          "zh-Hant": "請問附近有可以安全飲用的水源嗎？",
+          "pt-BR": "Tem água para beber?"
+        }
+      },
+      {
+        "id": 52607010,
+        "owner": "u5",
+        "english": "I need a large bag to carry.",
+        "translations": {
+          "ja": "私は運ぶための大きなバッグが必要です。",
+          "en": "I need a large bag to carry.",
+          "es": "Necesito una bolsa grande para llevar.",
+          "fr": "J'ai besoin d'un grand sac pour transporter.",
+          "de": "Ich brauche eine große Tasche zum Transportieren.",
+          "it": "Ho bisogno di una borsa grande per trasportare.",
+          "ko": "수하물을 담아 이동할 넉넉한 크기의 가방이 필요해요.",
+          "zh-Hans": "这些行李物件太多，我得找一个大容量的提袋。",
+          "zh-Hant": "這些行李物件太多，我得找一個大容量的提袋。",
+          "pt-BR": "Preciso de uma sacola grande para carregar."
+        }
+      },
+      {
+        "id": 52607011,
+        "owner": "u5",
+        "english": "I want a good dictionary to check.",
+        "translations": {
+          "ja": "私は調べるための良い辞書が欲しいです。",
+          "en": "I want a good dictionary to check.",
+          "es": "Quiero un buen diccionario para consultar.",
+          "fr": "Je veux un bon dictionnaire pour vérifier.",
+          "de": "Ich möchte ein gutes Wörterbuch zum Nachschlagen.",
+          "it": "Voglio un buon dizionario da consultare.",
+          "ko": "정확한 어휘를 검색하고 확인할 양질의 사전이 필요합니다.",
+          "zh-Hans": "我想选购一本权威性的工具书来核对词义。",
+          "zh-Hant": "我想選購一本權威性的工具書來核對詞義。",
+          "pt-BR": "Quero um bom dicionário para consultar."
+        }
+      },
+      {
+        "id": 52607012,
+        "owner": "u5",
+        "english": "He has no time to play.",
+        "translations": {
+          "ja": "彼には遊ぶ時間がありません。",
+          "en": "He has no time to play.",
+          "es": "Él no tiene tiempo para jugar.",
+          "fr": "Il n'a pas le temps de jouer.",
+          "de": "Er hat keine Zeit zum Spielen.",
+          "it": "Non ha tempo per giocare.",
+          "ko": "그 아이는 일정이 너무 빡빡해서 여가를 즐길 틈이 없어요.",
+          "zh-Hans": "他在大考当前，根本没有闲暇时间去娱乐。",
+          "zh-Hant": "他在大考當前，根本沒有閒暇時間去娛樂。",
+          "pt-BR": "Ele não tem tempo para brincar."
+        }
+      },
+      {
+        "id": 52607013,
+        "owner": "u5",
+        "english": "She is glad to read stories.",
+        "translations": {
+          "ja": "彼女は物語を読むことができて喜んでいます。",
+          "en": "She is glad to read stories.",
+          "es": "Ella se alegra de leer historias.",
+          "fr": "Elle est heureuse de lire des histoires.",
+          "de": "Sie freut sich, Geschichten zu lesen.",
+          "it": "È felice di leggere storie.",
+          "ko": "그 소녀는 동화책과 흥미진진한 수필을 읽을 때 무척 행복해합니다.",
+          "zh-Hans": "沉浸在文学故事的书海中让她感到分外宁静喜悦。",
+          "zh-Hant": "沉浸在文學故事的书海中讓她感到分外寧靜喜悅。",
+          "pt-BR": "Ela fica feliz em ler histórias."
+        }
+      },
+      {
+        "id": 52607015,
+        "owner": "u5",
+        "english": "They wake up early to practice.",
+        "translations": {
+          "ja": "彼らは練習するために朝早く起きます。",
+          "en": "They wake up early to practice.",
+          "es": "Ellos se levantan temprano para practicar.",
+          "fr": "Ils se réveillent tôt pour s'entraîner.",
+          "de": "Sie stehen früh auf, um zu üben.",
+          "it": "Si svegliano presto per esercitarsi.",
+          "ko": "선수들은 오전 훈련을 소화하기 위해 새벽같이 기상합니다.",
+          "zh-Hans": "为了在比赛中夺冠，团队每天拂晓便出操集训。",
+          "zh-Hant": "為了在比賽中奪冠，團隊每天拂曉便出操集訓。",
+          "pt-BR": "Eles acordam cedo para praticar."
+        }
+      },
+      {
+        "id": 52607017,
+        "owner": "u5",
+        "english": "I need a black pen to write.",
+        "translations": {
+          "ja": "私は書くための黒いペンが必要です。",
+          "en": "I need a black pen to write.",
+          "es": "Necesito un bolígrafo negro para escribir.",
+          "fr": "J'ai besoin d'un stylo noir pour écrire.",
+          "de": "Ich brauche einen schwarzen Stift zum Schreiben.",
+          "it": "Ho bisogno di una penna nera per scrivere.",
+          "ko": "계약서 서명에 사용할 흑색 필기구가 하나 필요합니다.",
+          "zh-Hans": "请借给我一支黑色水笔用于填报表格单据。",
+          "zh-Hant": "請借給我一支黑色水筆用於填報表格單據。",
+          "pt-BR": "Preciso de uma caneta preta para escrever."
+        }
+      },
+      {
+        "id": 52607018,
+        "owner": "u5",
+        "english": "They wake up early to practice.",
+        "translations": {
+          "ja": "彼らは練習するために朝早く起きます。",
+          "en": "They wake up early to practice.",
+          "es": "Ellos se levantan temprano para practicar.",
+          "fr": "Ils se réveillent tôt pour s'entraîner.",
+          "de": "Sie stehen früh auf, um zu üben.",
+          "it": "Si svegliano presto per esercitarsi.",
+          "ko": "선수들은 오전 훈련을 소화하기 위해 새벽같이 기상합니다.",
+          "zh-Hans": "为了在比赛中夺冠，团队每天拂晓便出操集训。",
+          "zh-Hant": "為了在比賽中奪冠，團隊每天拂曉便出操集訓。",
+          "pt-BR": "Eles acordam cedo para praticar."
+        }
+      },
+      {
+        "id": 52607022,
+        "owner": "u5",
+        "english": "Is there any novel to read?",
+        "translations": {
+          "ja": "何か読むべき小説はありますか？",
+          "en": "Is there any novel to read?",
+          "es": "¿Hay alguna novela para leer?",
+          "fr": "Y a-t-il un roman à lire ?",
+          "de": "Gibt es einen Roman zu lesen?",
+          "it": "C'è un romanzo da leggere?",
+          "ko": "여가 시간에 읽을 만한 장편 소설이 마련되어 있습니까?",
+          "zh-Hans": "请问馆内有适合借阅的文学小说作品吗？",
+          "zh-Hant": "請問館內有適合借閱的文學小說作品嗎？",
+          "pt-BR": "Tem algum romance para ler?"
+        }
+      },
+      {
+        "id": 52607023,
+        "owner": "u5",
+        "english": "I buy a safe car to drive.",
+        "translations": {
+          "ja": "私は運転するための安全な車を買います。",
+          "en": "I buy a safe car to drive.",
+          "es": "Compro un coche seguro para conducir.",
+          "fr": "J'achète une voiture sûre à conduire.",
+          "de": "Ich kaufe ein sicheres Auto zum Fahren.",
+          "it": "Compro un'auto sicura da guidare.",
+          "ko": "저는 가족들의 안전을 위해 튼튼한 차량을 구입합니다.",
+          "zh-Hans": "为了日常出行，我决定买一辆安全系数高的家用轿车。",
+          "zh-Hant": "為了日常出行，我決定買一輛安全係數高的家用轎車。",
+          "pt-BR": "Eu compro um carro seguro para dirigir."
+        }
+      },
+      {
+        "id": 52607024,
+        "owner": "u5",
+        "english": "We need a spacious room to talk.",
+        "translations": {
+          "ja": "私たちは話すための広い部屋が必要です。",
+          "en": "We need a spacious room to talk.",
+          "es": "Necesitamos una habitación espaciosa para hablar.",
+          "fr": "Nous avons besoin d'une pièce spacieuse pour parler.",
+          "de": "Wir brauchen einen geräumigen Raum zum Reden.",
+          "it": "Abbiamo bisogno di una stanza spaziosa per parlare.",
+          "ko": "우리는 심도 깊은 대화를 나눌 수 있는 널찍한 방이 필요합니다.",
+          "zh-Hans": "会议人数较多，我们需要一个足够宽敞的房间来详谈。",
+          "zh-Hant": "會議人數較多，我們需要一個足夠寬敞的房間來詳談。",
+          "pt-BR": "Precisamos de uma sala espaçosa para conversar."
+        }
+      },
+      {
+        "id": 52607025,
+        "owner": "u5",
+        "english": "I am proud to join your team.",
+        "translations": {
+          "ja": "あなたのチームに参加できて誇りに思います。",
+          "en": "I am proud to join your team.",
+          "es": "Estoy orgulloso de unirme a tu equipo.",
+          "fr": "Je suis fier de rejoindre ton équipe.",
+          "de": "Ich bin stolz darauf, eurem Team beizutreten.",
+          "it": "Sono orgoglioso di unirmi alla vostra squadra.",
+          "ko": "귀사의 훌륭한 프로젝트 팀에 합류하게 되어 대단히 영광입니다.",
+          "zh-Hans": "能够正式成为贵方精英团队的一员，我深感无比自豪。",
+          "zh-Hant": "能夠正式成爲貴方精英團隊的一員，我深感無比自豪。",
+          "pt-BR": "Estou orgulhoso de me juntar à sua equipe."
+        }
       }
-    },
-    {
-      "id": 52607002,
-      "owner": "u5",
-      "english": "I have an interesting book to read.",
-      "translations": {
-        "ja": "私は読むべきおもしろい本を持っています。",
-        "en": "I have an interesting book to read.",
-        "es": "Tengo un libro interesante para leer.",
-        "fr": "J'ai un livre intéressant à lire.",
-        "de": "Ich habe ein interessantes Buch zu lesen.",
-        "it": "Ho un libro interessante da leggere.",
-        "ko": "저는 독서하기 좋은 흥미로운 서적을 소장 중입니다.",
-        "zh-Hans": "我手头有一本引人入胜的小说供打发时间。",
-        "zh-Hant": "我手頭有一本引人入勝的小說供打發時間。",
-        "pt-BR": "Tenho um livro interessante para ler."
-      }
-    },
-    {
-      "id": 52607003,
-      "owner": "u5",
-      "english": "There are many things to do.",
-      "translations": {
-        "ja": "するべきことがたくさんあります。",
-        "en": "There are many things to do.",
-        "es": "Hay muchas cosas por hacer.",
-        "fr": "Il y a beaucoup de choses à faire.",
-        "de": "Es gibt viele Dinge zu tun.",
-        "it": "Ci sono molte cose da fare.",
-        "ko": "오늘 처리해야 할 과제나 일거りが 쌓여 있네요.",
-        "zh-Hans": "日程表里排满了有待解决的各种事务。",
-        "zh-Hant": "日程表裡排滿了有待解決的各種事務。",
-        "pt-BR": "Há muitas coisas para fazer."
-      }
-    },
-    {
-      "id": 52607004,
-      "owner": "u5",
-      "english": "He went to Tokyo to study.",
-      "translations": {
-        "ja": "彼は勉強するために東京へ行きました。",
-        "en": "He went to Tokyo to study.",
-        "es": "Él fue a Tokio para estudiar.",
-        "fr": "Il est allé à Tokyo pour étudier.",
-        "de": "Er ist nach Tokio gereist, um zu studieren.",
-        "it": "È aangato a Tokyo per studiare.",
-        "ko": "그 남자는 학업에 정진하고자 도쿄로 향했습니다.",
-        "zh-Hans": "他动身远赴东京求学深造。",
-        "zh-Hant": "他動身遠赴東京求學深造。",
-        "pt-BR": "Ele foi para Tóquio para estudar."
-      }
-    },
-    {
-      "id": 52607005,
-      "owner": "u5",
-      "english": "We visit the museum to learn.",
-      "translations": {
-        "ja": "私たちは学ぶために博物館を訪れます。",
-        "en": "We visit the museum to learn.",
-        "es": "Visitamos el museo para aprender.",
-        "fr": "Nous visitons le musée pour apprendre.",
-        "de": "Wir besuchen das Museum, um etwas zu lernen.",
-        "it": "Visitiamo il museo per imparare.",
-        "ko": "우리는 견문을 넓히고 지식을 습득하러 박물관에 갑니다.",
-        "zh-Hans": "我们定期参观博览馆以获取历史文化见识。",
-        "zh-Hant": "我們定期參觀博覽館以獲取歷史文化見識。",
-        "pt-BR": "Nós visitamos o museu para aprender."
-      }
-    },
-    {
-      "id": 52607006,
-      "owner": "u5",
-      "english": "I am happy to help everyone.",
-      "translations": {
-        "ja": "皆さんを助けることができて嬉しいです。",
-        "en": "I am happy to help everyone.",
-        "es": "Me alegra ayudar a todos.",
-        "fr": "Je suis heureux d'aider tout le monde.",
-        "de": "Ich freue mich, allen zu helfen.",
-        "it": "Sono felice di aiutare tutti.",
-        "ko": "주변 사람들에게 힘이 되어줄 수 있어 진심으로 보람찹니다.",
-        "zh-Hans": "能够向大家伸出援手，我内心感到极大的欣慰。",
-        "zh-Hant": "能夠向大家伸出援手，我內心感到極大的欣慰。",
-        "pt-BR": "Fico feliz em ajudar a todos."
-      }
-    },
-    {
-      "id": 52607007,
-      "owner": "u5",
-      "english": "She was surprised to see it.",
-      "translations": {
-        "ja": "彼女はそれを見て驚きました。",
-        "en": "She was surprised to see it.",
-        "es": "Ella se sorprendió al verlo.",
-        "fr": "Elle a été surprise de le voir.",
-        "de": "Sie war überrascht, es zu sehen.",
-        "it": "È rimasta sorpresa di vederlo.",
-        "ko": "그 여자는 눈앞에 나타난 광경을 목격하고 깜짝 놀랐습니다.",
-        "zh-Hans": "当她亲眼目睹那一幕时，整个人惊呆了。",
-        "zh-Hant": "當她親眼目睹那一幕時，整個人驚呆了。",
-        "pt-BR": "Ela ficou surpresa ao ver aquilo."
-      }
-    },
-    {
-      "id": 52607008,
-      "owner": "u5",
-      "english": "We want something cold to eat.",
-      "translations": {
-        "ja": "私たちは何か冷たい食べ物が欲しいです。",
-        "en": "We want something cold to eat.",
-        "es": "Queremos algo frío para comer.",
-        "fr": "Nous voulons quelque chose de froid à manger.",
-        "de": "Wir möchten etwas Kaltes zu essen.",
-        "it": "Vogliamo qualcosa di freddo da mangiare.",
-        "ko": "우리는 더위를 식혀줄 만한 찬 음식을 먹고 싶어 해요.",
-        "zh-Hans": "在炎热的气候下，我们只想吃点冰凉的消暑食品。",
-        "zh-Hant": "在炎熱的氣候下，我們只想吃點冰涼的消暑食品。",
-        "pt-BR": "Nós queremos algo gelado para comer."
-      }
-    },
-    {
-      "id": 52607009,
-      "owner": "u5",
-      "english": "Is there any water to drink?",
-      "translations": {
-        "ja": "飲むための水はありますか？",
-        "en": "Is there any water to drink?",
-        "es": "¿Hay agua para beber?",
-        "fr": "Y a-t-il de l'eau à boire ?",
-        "de": "Gibt es Trinkwasser?",
-        "it": "C'è dell'acqua da bere?",
-        "ko": "목을 축일 수 있는 마실 물이 좀 남아 있습니까?",
-        "zh-Hans": "请问附近有可以安全饮用的水源吗？",
-        "zh-Hant": "請問附近有可以安全飲用的水源嗎？",
-        "pt-BR": "Tem água para beber?"
-      }
-    },
-    {
-      "id": 52607010,
-      "owner": "u5",
-      "english": "I need a large bag to carry.",
-      "translations": {
-        "ja": "私は運ぶための大きなバッグが必要です。",
-        "en": "I need a large bag to carry.",
-        "es": "Necesito una bolsa grande para llevar.",
-        "fr": "J'ai besoin d'un grand sac pour transporter.",
-        "de": "Ich brauche eine große Tasche zum Transportieren.",
-        "it": "Ho bisogno di una borsa grande per trasportare.",
-        "ko": "수하물을 담아 이동할 넉넉한 크기의 가방이 필요해요.",
-        "zh-Hans": "这些行李物件太多，我得找一个大容量的提袋。",
-        "zh-Hant": "這些行李物件太多，我得找一個大容量の提袋。",
-        "pt-BR": "Preciso de uma sacola grande para carregar."
-      }
-    },
-    {
-      "id": 52607011,
-      "owner": "u5",
-      "english": "I want a good dictionary to check.",
-      "translations": {
-        "ja": "私は調べるための良い辞書が欲しいです。",
-        "en": "I want a good dictionary to check.",
-        "es": "Quiero un buen diccionario para consultar.",
-        "fr": "Je veux un bon dictionnaire pour vérifier.",
-        "de": "Ich möchte ein gutes Wörterbuch zum Nachschlagen.",
-        "it": "Voglio un buon dizionario da consultare.",
-        "ko": "정확한 어휘를 검색하고 확인할 양질의 사전이 필요합니다.",
-        "zh-Hans": "我想选购一本权威性的工具书来核对词义。",
-        "zh-Hant": "我想選購一本權威性的工具書來核對詞義。",
-        "pt-BR": "Quero um bom dicionário para consultar."
-      }
-    },
-    {
-      "id": 52607012,
-      "owner": "u5",
-      "english": "He has no time to play.",
-      "translations": {
-        "ja": "彼には遊ぶ時間がありません。",
-        "en": "He has no time to play.",
-        "es": "Él no tiene tiempo para jugar.",
-        "fr": "Il n'a pas le temps de jouer.",
-        "de": "Er hat keine Zeit zum Spielen.",
-        "it": "Non ha tempo per giocare.",
-        "ko": "그 아이는 일정이 너무 빡빡해서 여가를 즐길 틈이 없어요.",
-        "zh-Hans": "他在大考当前，根本没有闲暇时间去娱乐。",
-        "zh-Hant": "他在大考當前，根本沒有閒暇時間去娛樂。",
-        "pt-BR": "Ele não tem tempo para brincar."
-      }
-    },
-    {
-      "id": 52607013,
-      "owner": "u5",
-      "english": "She is glad to read stories.",
-      "translations": {
-        "ja": "彼女は物語を読むことができて喜んでいます。",
-        "en": "She is glad to read stories.",
-        "es": "Ella se alegra de leer historias.",
-        "fr": "Elle est heureuse de lire des histoires.",
-        "de": "Sie freut sich, Geschichten zu lesen.",
-        "it": "È felice di leggere storie.",
-        "ko": "그 소녀는 동화책과 흥미진진한 수필을 읽을 때 무척 행복해합니다.",
-        "zh-Hans": "沉浸在文学故事的书海中让她感到分外宁静喜悦。",
-        "zh-Hant": "沉浸在文學故事的书海中讓她感到分外寧靜喜悅。",
-        "pt-BR": "Ela fica feliz em ler histórias."
-      }
-    },
-    {
-      "id": 52607014,
-      "owner": "u5",
-      "english": "I need a black pen to write.",
-      "translations": {
-        "ja": "私は書くための黒いペンが必要です。",
-        "en": "I need a black pen to write.",
-        "es": "Necesito un bolígrafo negro para escribir.",
-        "fr": "J'ai besoin d'un stylo noir pour écrire.",
-        "de": "Ich brauche einen schwarzen Stift zum Schreiben.",
-        "it": "Ho bisogno di una penna nera per scrivere.",
-        "ko": "계약서 서명에 사용할 흑색 필기구가 하나 필요합니다.",
-        "zh-Hans": "请借给我一支黑色水笔用于填报表格单据。",
-        "zh-Hant": "請借給我一支黑色水筆用於填報表格單據。",
-        "pt-BR": "Preciso de uma caneta preta para escrever."
-      }
-    },
-    {
-      "id": 52607015,
-      "owner": "u5",
-      "english": "They wake up early to practice.",
-      "translations": {
-        "ja": "彼らは練習するために朝早く起きます。",
-        "en": "They wake up early to practice.",
-        "es": "Ellos se levantan temprano para practicar.",
-        "fr": "Ils se réveillent tôt pour s'entraîner.",
-        "de": "Sie stehen früh auf, um zu üben.",
-        "it": "Si svegliano presto per esercitarsi.",
-        "ko": "선수들은 오전 훈련을 소화하기 위해 새벽같이 기상합니다.",
-        "zh-Hans": "为了在比赛中夺冠，团队每天拂晓便出操集训。",
-        "zh-Hant": "為了在比賽中奪冠，團隊每天拂曉便出操集訓。",
-        "pt-BR": "Eles acordam cedo para praticar."
-      }
-    }
 ]
